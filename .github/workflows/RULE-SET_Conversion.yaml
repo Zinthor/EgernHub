@@ -1,0 +1,135 @@
+name: RULE-SET Conversion
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/45 * * * *'
+
+jobs:
+  customize-repository:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 步骤1：检出当前仓库
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 步骤2：移除旧的 RULE-SET 输出目录（如果存在）
+      - name: Remove Existing RULE-SET Directory
+        run: |
+          rm -rf RULE-SET
+
+      # 步骤3：克隆 meta-rules-dat 仓库（指定 meta 分支）
+      - name: Clone meta-rules-dat Repository
+        run: |
+          git clone --branch meta --quiet https://github.com/MetaCubeX/meta-rules-dat.git meta-rules-dat
+
+      # 步骤4：创建临时工作目录
+      - name: Create Temporary Directories
+        run: |
+          mkdir -p temp/rules/IPs temp/rules/Sites temp/rules/Classical
+
+      # 步骤5：从 geoip/classical 拷贝 .list 文件到 temp/rules/IPs
+      - name: Copy .list Files to IPs Directory
+        run: |
+          find meta-rules-dat/geo/geoip/classical/ -name "*.list" -exec cp {} temp/rules/IPs/ \;
+
+      # 步骤6：从 geosite/classical 拷贝 .list 文件到 temp/rules/Sites
+      - name: Copy .list Files to Sites Directory
+        run: |
+          find meta-rules-dat/geo/geosite/classical/ -name "*.list" -exec cp {} temp/rules/Sites/ \;
+
+      # 步骤7：删除克隆的 meta-rules-dat 仓库内容
+      - name: Clean Up Cloned Repository
+        run: |
+          rm -rf meta-rules-dat
+
+      # 步骤8：合并或移动 IPs 与 Sites 目录下的 .list 文件到 Classical 目录
+      - name: Merge and Move .list Files to Classical Directory
+        run: |
+          # 遍历 IPs 目录中的文件
+          for file in temp/rules/IPs/*.list; do
+            filename=$(basename "$file")
+            if [ -f "temp/rules/Sites/$filename" ]; then
+              # 如果 Sites 目录中存在同名文件，则合并，两个文件之间插入空行
+              cat "$file" <(echo -e "\n") "temp/rules/Sites/$filename" > "temp/rules/Classical/$filename"
+              rm "temp/rules/Sites/$filename"
+            else
+              mv "$file" "temp/rules/Classical/$filename"
+            fi
+          done
+          # 将 Sites 目录中剩余的文件移动到 Classical 目录
+          for file in temp/rules/Sites/*.list; do
+            filename=$(basename "$file")
+            if [ ! -f "temp/rules/Classical/$filename" ]; then
+              mv "$file" "temp/rules/Classical/$filename"
+            fi
+          done
+
+      # 步骤9：处理 Classical 目录下的 .list 文件，生成 YAML 文件并增加内容来源信息
+      - name: Process .list Files and Generate YAML Files
+        run: |
+          mkdir -p RULE-SET
+          for input_file in temp/rules/Classical/*.list; do
+            filename=$(basename "$input_file")
+            output_file="RULE-SET/${filename%.list}.yaml"
+            
+            # 在生成的 YAML 文件顶部写入内容来源信息
+            echo "# content_source: https://github.com/MetaCubeX/meta-rules-dat" > "$output_file"
+            
+            # 使用 awk 处理规则并追加到输出文件中
+            awk '
+              BEGIN {
+                FS = ","
+              }
+              /^DOMAIN,/ {domain_set = domain_set "\n- " $2}
+              /^DOMAIN-SUFFIX,/ {domain_suffix_set = domain_suffix_set "\n- " $2}
+              /^DOMAIN-KEYWORD,/ {domain_keyword_set = domain_keyword_set "\n- " $2}
+              /^DOMAIN-REGEX,/ {domain_regex_set = domain_regex_set "\n- " $2}
+              /^IP-CIDR,/ {
+                  if ($2 !~ /\./ && $2 ~ /:/) {
+                      ip_cidr6_set = ip_cidr6_set "\n- " $2
+                  } else if ($2 ~ /\./ && $2 !~ /:/) {
+                      ip_cidr_set = ip_cidr_set "\n- " $2
+                  }
+              }
+              /^IP-ASN,/ {asn_set = asn_set "\n- \x27" $2 "\x27"}
+              /^URL-REGEX,/ {url_regex_set = url_regex_set "\n- \x27" $2 "\x27"}
+              END {
+                if (domain_set) print "domain_set:" domain_set
+                if (domain_suffix_set) print "domain_suffix_set:" domain_suffix_set
+                if (domain_keyword_set) print "domain_keyword_set:" domain_keyword_set
+                if (domain_regex_set) print "domain_regex_set:" domain_regex_set
+                if (ip_cidr_set) print "ip_cidr_set:" ip_cidr_set
+                if (ip_cidr6_set) print "ip_cidr6_set:" ip_cidr6_set
+                if (asn_set) print "asn_set:" asn_set
+                if (url_regex_set) print "url_regex_set:" url_regex_set
+              }
+            ' "$input_file" >> "$output_file"
+            
+            # 检查 YAML 文件中是否包含 ip_cidr/ip_cidr6 相关内容，若存在则在文件首行添加 no_resolve: true
+            if grep -q -e 'ip_cidr' -e 'ip_cidr6' -e 'ip_cidr_set' -e 'ip_cidr6_set' "$output_file"; then
+              temp_file=$(mktemp)
+              echo "no_resolve: true" > "$temp_file"
+              cat "$output_file" >> "$temp_file"
+              mv "$temp_file" "$output_file"
+            fi
+          done
+
+      # 步骤10：删除临时目录
+      - name: Clean Up Temporary Files
+        run: |
+          rm -rf temp
+
+      # 步骤11：提交并推送更改到仓库
+      - name: Commit and Push Changes
+        run: |
+          if [[ -n $(git status -s) ]]; then
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add -A
+            git commit -m "Auto Update $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M')"
+            git push
+          else
+            echo "No changes to commit."
+          fi
