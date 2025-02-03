@@ -1,0 +1,6 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- hecdn.net
+- heweather.net
+- qweather.com
+- qweather.net

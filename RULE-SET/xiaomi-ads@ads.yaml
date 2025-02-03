@@ -1,0 +1,17 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- a.market.xiaomi.com
+- ad.intl.xiaomi.com
+- ad.mi.com
+- ad.xiaomi.com
+- ad1.xiaomi.com
+- admob.xiaomi.com
+- adv.sec.intl.miui.com
+- adv.sec.miui.com
+- misc.in.duokanbox.com
+- mistat.xiaomi.com
+- sentry.d.mi.com
+- sentry.d.xiaomi.net
+- tjqonline.cn
+- tracker.ai.xiaomi.com
+- tracking.miui.com

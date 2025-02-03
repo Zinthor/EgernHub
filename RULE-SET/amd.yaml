@@ -1,0 +1,8 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- www.amd.com
+domain_suffix_set:
+- amd.com
+- amdfanstore.com
+- radeon.com
+- amd.com.cn

@@ -1,0 +1,4 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- cdn.jetbrains.com
+- download-cdn.jetbrains.com.cn

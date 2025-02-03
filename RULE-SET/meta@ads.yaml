@@ -1,0 +1,6 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- graph.whatsapp.com
+- graph.whatsapp.net
+- graph.instagram.com
+- graph-fallback.instagram.com

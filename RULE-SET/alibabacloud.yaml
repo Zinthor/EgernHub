@@ -1,0 +1,10 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- alibabacloud.com
+- alicloud.com
+- alibabacloud.co.in
+- alibabacloud.com.au
+- alibabacloud.com.hk
+- alibabacloud.com.my
+- alibabacloud.com.sg
+- alibabacloud.com.tw

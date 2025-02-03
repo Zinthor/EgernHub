@@ -1,0 +1,9 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- cern
+- ams02.space
+- cern.ch
+- cixp.net
+- dotcernpilot.info
+- ippog.org
+- linearcollider.org

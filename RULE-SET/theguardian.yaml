@@ -1,0 +1,12 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- theguardian
+- dev-guardianapis.com
+- dev-theguardian.com
+- gu-web.net
+- guardianapis.com
+- theguardian.com
+- theguardiandns.com
+- guardianapps.co.uk
+- guim.co.uk
+- guimcode.co.uk

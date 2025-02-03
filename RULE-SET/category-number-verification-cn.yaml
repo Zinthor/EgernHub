@@ -1,0 +1,11 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- id6.me
+- opencloud.wostore.cn
+- hs.wosms.cn
+- enrichgw.10010.com
+- hap.10010.com
+domain_suffix_set:
+- cmpassport.com
+domain_regex_set:
+- ^nis.+\.10010\.com$

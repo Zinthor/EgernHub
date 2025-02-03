@@ -1,0 +1,5 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- redirector.c.play.google.com
+domain_regex_set:
+- ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$

@@ -1,0 +1,6 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- appleswift.com
+- swift.org
+- swiftui.cn
+- swiftui.com.cn

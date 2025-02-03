@@ -1,0 +1,13 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- slack-core.com
+- slack-edge.com
+- slack-files.com
+- slack-imgs.com
+- slack-msgs.com
+- slack-redir.net
+- slack.com
+- slackb.com
+- slackcertified.com
+- slackdemo.com
+- slackhq.com

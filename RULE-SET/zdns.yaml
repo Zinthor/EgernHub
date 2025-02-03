@@ -1,0 +1,14 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- zdns.cn
+- zdnscloud.biz
+- zdnscloud.cn
+- zdnscloud.com
+- zdnscloud.info
+- zdnscloud.net
+- zcmbc.com.cn
+- zdns.net.cn
+- zdns.org.cn
+- zdnscloud.com.cn
+- zdnscloud.net.cn
+- zdnscloud.org.cn

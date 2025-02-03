@@ -1,0 +1,16 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- ecapi-pchome.cdn.hinet.net
+- pchomeonline.com.tw
+domain_suffix_set:
+- ecimg.tw
+- pchomeec.tw
+- pcloud.tw
+- pchome.com.tw
+- pchomeonline.com.tw
+- pchomepay.com.tw
+- pcstore.com.tw
+- piapp.com.tw
+- rakuya.com.tw
+- tagapie.com.tw
+- toget.com.tw

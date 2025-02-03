@@ -1,0 +1,16 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- amp.akamaized.net
+- cdn.ampproject.org
+domain_suffix_set:
+- openjsf.org
+- amp.dev
+- ampproject.com
+- ampproject.net
+- ampproject.org
+- electronjs.org
+- jquery.com
+- jquerymobile.com
+- jqueryui.com
+- mochajs.org
+- nodejs.org

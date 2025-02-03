@@ -1,0 +1,6 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- apilog-web.acfun.cn
+domain_suffix_set:
+- acfun.cn
+- aixifan.com

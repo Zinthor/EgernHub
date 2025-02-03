@@ -1,0 +1,19 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- paper-attachments.s3.amazonaws.com
+domain_suffix_set:
+- db.tt
+- dropbox-dns.com
+- dropbox.com
+- dropbox.tech
+- dropboxapi.com
+- dropboxbusiness.com
+- dropboxcaptcha.com
+- dropboxforum.com
+- dropboxforums.com
+- dropboxinsiders.com
+- dropboxmail.com
+- dropboxpartners.com
+- dropboxstatic.com
+- dropboxusercontent.com
+- getdropbox.com

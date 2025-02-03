@@ -1,0 +1,8 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- nikkei.com
+- nikkei.jp
+- nikkei4946.com
+- nikkei-cnbc.co.jp
+- nikkei.co.jp
+- nikkeibp.co.jp

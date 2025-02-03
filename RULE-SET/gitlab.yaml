@@ -1,0 +1,8 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- gitlab-assets.oss-cn-hongkong.aliyuncs.com
+domain_suffix_set:
+- gitlab.com
+- gitlab.io
+- gitlab.net
+- gitlab-static.net

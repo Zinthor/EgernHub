@@ -1,0 +1,12 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- mdn.mozillademos.org
+domain_suffix_set:
+- mdn.dev
+- mdnplay.dev
+- mdnyalp.dev
+- developer.allizom.org
+- developer.mozilla.org
+- mdn.allizom.net
+- mdn.mozilla.net
+- mdn.mozit.cloud

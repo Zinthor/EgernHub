@@ -1,0 +1,9 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- arewereadyyet.com
+- element.io
+- matrix.org
+- matrix.to
+- modular.im
+- riot.im
+- vector.im

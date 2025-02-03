@@ -1,0 +1,5 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- ads.service.kugou.com
+- adserviceretry.kglink.cn
+- adserviceretry.kugou.com

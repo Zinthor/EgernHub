@@ -1,0 +1,20 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- firebase.google.com
+- firebase.googleapis.com
+- firebaseappcheck.googleapis.com
+- firebasedynamiclinks-ipv4.googleapis.com
+- firebasedynamiclinks-ipv6.googleapis.com
+- firebasedynamiclinks.googleapis.com
+- firebaseinappmessaging.googleapis.com
+- firebaseinstallations.googleapis.com
+- firebaselogging-pa.googleapis.com
+- firebaselogging.googleapis.com
+- firebaseperusertopics-pa.googleapis.com
+- firebaseremoteconfig.googleapis.com
+- firebase-settings.crashlytics.com
+domain_suffix_set:
+- firebase.com
+- firebase.io
+- firebaseapp.com
+- firebaseio.com

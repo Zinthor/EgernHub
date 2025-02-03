@@ -1,0 +1,8 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- nikke-de.com
+- nikke-en.com
+- nikke-fr.com
+- nikke-jp.com
+- nikke-kr.com
+- nikke-sea.com

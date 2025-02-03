@@ -1,0 +1,11 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- openmaps.org
+- openstreetmap.com
+- openstreetmap.net
+- openstreetmap.org
+- openstreetmaps.org
+- osm.org
+- osmfoundation.org
+- stateofthemap.com
+- stateofthemap.org

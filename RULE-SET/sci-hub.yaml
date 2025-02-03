@@ -1,0 +1,8 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- sci-hub.se
+- sci-hub.ee
+- sci-hub.st
+- sci-hub.it.nf
+- sci-hub.mksa.top
+- sci.hubg.org

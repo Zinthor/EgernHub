@@ -1,0 +1,8 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- gamedownloads-rockstargames-com.akamaized.net
+- media-rockstargames-com.akamaized.net
+- videos-rockstargames-com.akamaized.net
+domain_suffix_set:
+- rockstargames.com
+- rsg.sc

@@ -1,0 +1,6 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- nexon.com
+- nexon.io
+- nexon.co.jp
+- nexoncdn.co.kr

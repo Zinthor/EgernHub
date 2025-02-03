@@ -1,0 +1,8 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- client-teamviewer-com.trafficmanager.net
+- teamviewer.com.cdn.cloudflare.net
+domain_suffix_set:
+- teamviewer.com
+- teamviewer.us
+- teamviewer.cn

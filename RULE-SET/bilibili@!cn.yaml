@@ -1,0 +1,7 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- upos-hz-mirrorakam.akamaized.net
+domain_suffix_set:
+- bilibili.tv
+- biliintl.com
+- dreamcast.hk

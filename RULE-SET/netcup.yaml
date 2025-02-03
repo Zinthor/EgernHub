@@ -1,0 +1,9 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- customercontrolpanel.de
+- netcup.com
+- netcup.de
+- netcup.eu
+- netcup.net
+- netcup-news.de
+- netcup-sonderangebote.de

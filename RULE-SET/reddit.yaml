@@ -1,0 +1,15 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- reddit.map.fastly.net
+domain_suffix_set:
+- redd.it
+- reddit.com
+- redditblog.com
+- reddithelp.com
+- redditinc.com
+- redditmail.com
+- redditmedia.com
+- redditspace.com
+- redditstatic.com
+- redditstatus.com
+- reddit.app.link

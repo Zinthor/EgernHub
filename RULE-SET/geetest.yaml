@@ -1,0 +1,5 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- geetest.datasink.sensorsdata.cn
+domain_suffix_set:
+- geetest.com

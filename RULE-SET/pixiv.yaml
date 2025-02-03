@@ -1,0 +1,10 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- booth.pm
+- fanbox.cc
+- pixiv.net
+- pixiv.org
+- pixiv.me
+- pximg.net
+- pixiv.co.jp
+- ads-pixiv.net

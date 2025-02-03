@@ -1,0 +1,12 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- cloudsync-prod.s3.amazonaws.com
+- origin-a.akamaihd.net
+- rtm.tnt-ea.com
+- ssl-lvlt.cdn.ea.com
+domain_suffix_set:
+- dawngate.com
+- eastore.com
+- lordofultima.com
+- origin.com
+- origin.tv

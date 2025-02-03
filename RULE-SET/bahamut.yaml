@@ -1,0 +1,8 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- gamer2-cds.cdn.hinet.net
+- gamer-cds.cdn.hinet.net
+domain_suffix_set:
+- bahamut.akamaized.net
+- bahamut.com.tw
+- gamer.com.tw

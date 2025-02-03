@@ -1,0 +1,7 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- gannett-cdn.com
+- gannett.com
+- gannettdigital.com
+- usatoday.com
+- usatodaynetworkservice.com

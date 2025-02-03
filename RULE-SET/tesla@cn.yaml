@@ -1,0 +1,8 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- tesla-cdn.thron.cn
+domain_suffix_set:
+- tesla.cn
+- tesla.com.cn
+- teslamotors.cn
+- teslamotors.com.cn

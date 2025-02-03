@@ -1,0 +1,10 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- gigabyte2.azureedge.net
+- sa78gs.wpc.edgecastcdn.net
+- sni1dcb6gl.wpc.edgecastcdn.net
+domain_suffix_set:
+- aorus.com
+- gigabyte.com
+- aoruszone.cn
+- gigabyte.cn

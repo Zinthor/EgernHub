@@ -1,0 +1,7 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- clarivate.com
+- webofknowledge.com
+- webofscience.com
+- newisiknowledge.com
+- isiknowledge.com

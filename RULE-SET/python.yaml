@@ -1,0 +1,8 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- pycon.org
+- pypa.io
+- pypi.io
+- pypi.org
+- python.org
+- pythonhosted.org

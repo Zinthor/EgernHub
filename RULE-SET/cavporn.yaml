@@ -1,0 +1,6 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- cavporn.com
+- cavporn.github.io
+domain_regex_set:
+- (^|\.)cav1(0[2-9]|1[0-9])\.com$

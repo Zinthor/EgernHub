@@ -1,0 +1,5 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- tailscale.com
+- tailscale.io
+- ts.net

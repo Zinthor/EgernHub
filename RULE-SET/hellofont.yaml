@@ -1,0 +1,7 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- hellofontpreview.oss-cn-beijing.aliyuncs.com
+- hellowebfonts.oss-cn-beijing.aliyuncs.com
+domain_suffix_set:
+- hellofont.cn
+- hellowebfont.com

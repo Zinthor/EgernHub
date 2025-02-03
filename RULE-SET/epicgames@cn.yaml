@@ -1,0 +1,4 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_regex_set:
+- ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+- ^epicgames-download\d-\d+\.file\.myqcloud\.com$

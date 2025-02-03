@@ -1,0 +1,10 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- log-sdk.gifshow.com
+- wlog.kuaishou.com
+domain_suffix_set:
+- adbkwai.com
+- adkwai.com
+- adukwai.com
+- e.kuaishou.cn
+- e.kuaishou.com

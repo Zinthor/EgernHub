@@ -1,0 +1,7 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- fontshop-prod-responsive-images.s3.amazonaws.com
+domain_suffix_set:
+- fontbook.com
+- fontshop.com
+- fstopimages.com

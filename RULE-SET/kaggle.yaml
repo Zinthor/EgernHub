@@ -1,0 +1,6 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- kaggle.com
+- kaggle.io
+- kaggle.net
+- kaggleusercontent.com

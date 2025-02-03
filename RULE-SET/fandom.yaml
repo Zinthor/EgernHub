@@ -1,0 +1,15 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- fandom.zendesk.com
+domain_suffix_set:
+- cursecdn.com
+- fandom.com
+- wikia.com
+- wikia.org
+- dndbeyond.com
+- futhead.com
+- gamepedia.com
+- muthead.com
+- cortexrpg.com
+- fanatical.com
+- wikia.nocookie.net

@@ -1,0 +1,9 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- embl-hamburg.de
+- embl.de
+- embl.fr
+- embl.it
+- embl.org
+- emblstatic.net
+- ebi.ac.uk

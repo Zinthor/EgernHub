@@ -1,0 +1,11 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- community.oneplus.com
+domain_suffix_set:
+- oneplus.com
+- oneplus.cn
+- oneplus.net
+- opstatics.com
+- oneplusbbs.com
+- oneplusmobile.com
+- h2os.com

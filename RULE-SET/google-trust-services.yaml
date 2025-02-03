@@ -1,0 +1,15 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- publicca.googleapis.com
+- preprod-publicca.googleapis.com
+- clients1.google.com
+- pki.google.com
+- pki-goog.l.google.com
+- c.pki.goog
+- i.pki.goog
+- o.pki.goog
+- crl.pki.goog
+- crls.pki.goog
+- ocsp.pki.goog
+domain_suffix_set:
+- pki.goog

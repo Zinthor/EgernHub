@@ -1,0 +1,5 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- opgg-static.akamaized.net
+domain_suffix_set:
+- op.gg

@@ -1,0 +1,8 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- oreil.ly
+- oreilly.com
+- oreilly.review
+- oreillystatic.com
+- orl.ly
+- oreilly.com.cn

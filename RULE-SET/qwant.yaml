@@ -1,0 +1,6 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- qwant.com
+- qwant.de
+- qwant.fr
+- qwant.it

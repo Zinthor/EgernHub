@@ -1,0 +1,7 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- prd-priconne-redive.akamaized.net
+domain_suffix_set:
+- priconne-redive.jp
+- api-priconne-redive.cygames.jp
+- omotenashi.cygames.jp

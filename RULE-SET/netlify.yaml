@@ -1,0 +1,8 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- d33wubrfki0l68.cloudfront.net
+domain_suffix_set:
+- bitballoon.com
+- netlify.app
+- netlify.com
+- netlifystatus.com

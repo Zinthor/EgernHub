@@ -1,0 +1,7 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- onekey.zendesk.com
+domain_suffix_set:
+- onekey-asset.com
+- onekey.so
+- onekeycn.com

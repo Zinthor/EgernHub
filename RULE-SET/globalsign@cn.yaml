@@ -1,0 +1,9 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- cdn.globalsigncdn.com.cdn.cloudflare.net
+domain_suffix_set:
+- alphassl.com
+- easy-signing.com
+- globalsign.cn
+- globalsign.com
+- globalsigncdn.com

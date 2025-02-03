@@ -1,0 +1,7 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- live-patreon-marketing.pantheonsite.io
+domain_suffix_set:
+- patreon.com
+- patreoncommunity.com
+- patreonusercontent.com

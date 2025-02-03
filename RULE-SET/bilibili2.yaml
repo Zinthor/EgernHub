@@ -1,0 +1,7 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- bili2.cc
+- bili888.com
+- bili999.com
+domain_regex_set:
+- (^|\.)bilibili3(0[1-9]|1[0-2])\.xyz$

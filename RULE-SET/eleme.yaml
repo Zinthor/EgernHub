@@ -1,0 +1,10 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- doservice.com
+- ele.me
+- ele.to
+- eleme.cn
+- eleme.io
+- elemecdn.cn
+- elemecdn.com
+- elenet.me

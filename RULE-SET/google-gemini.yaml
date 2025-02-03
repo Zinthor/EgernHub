@@ -1,0 +1,16 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- ai.google.dev
+- alkalicore-pa.clients6.google.com
+- alkalimakersuite-pa.clients6.google.com
+domain_suffix_set:
+- deepmind.com
+- deepmind.google
+- generativeai.google
+- geller-pa.googleapis.com
+- generativelanguage.googleapis.com
+- proactivebackend-pa.googleapis.com
+- makersuite.google.com
+- aistudio.google.com
+- bard.google.com
+- gemini.google.com

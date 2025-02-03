@@ -1,0 +1,7 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- cdn.jsdelivr.net
+domain_suffix_set:
+- jsdelivr.com
+- jsdelivr.net
+- esm.run

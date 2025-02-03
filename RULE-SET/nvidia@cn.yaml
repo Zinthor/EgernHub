@@ -1,0 +1,7 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- cn.download.nvidia.com
+domain_suffix_set:
+- geforce.cn
+- gputechconf.cn
+- nvidia.cn

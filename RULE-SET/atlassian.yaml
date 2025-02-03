@@ -1,0 +1,9 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- atlassian.com
+- atlassian.net
+- bitbucket.io
+- bitbucket.org
+- statuspage.io
+- trello.com
+- trellocdn.com

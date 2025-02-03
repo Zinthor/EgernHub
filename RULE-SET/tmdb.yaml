@@ -1,0 +1,6 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- tmdb-image-prod.b-cdn.net
+domain_suffix_set:
+- themoviedb.org
+- tmdb.org

@@ -1,0 +1,8 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- apple-icloud.cn
+- appleicloud.cn
+- icloud-apple.cn
+- icloud.com.cn
+- icloud.net.cn
+- icloudapple.cn

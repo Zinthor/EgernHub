@@ -1,0 +1,15 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- adguard.app
+- adguard.com
+- adguard.info
+- adguard.io
+- adguard.org
+- adtidy.net
+- adtidy.org
+- agrd.io
+- adguard-dns.com
+- adguard-dns.io
+- adguardvpn.com
+- adguard-vpn.com
+- adguard-vpn.online

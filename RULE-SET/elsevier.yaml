@@ -1,0 +1,16 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- cell.com
+- clinicalkey.com
+- els-cdn.com
+- elsevier-ae.com
+- elsevier.com
+- elsevier.io
+- engineeringvillage.com
+- evise.com
+- fundinginstitutional.com
+- knovel.com
+- mendeley.com
+- reaxys.com
+- scival.com
+- scopus.com

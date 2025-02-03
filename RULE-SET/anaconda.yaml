@@ -1,0 +1,6 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- anaconda.cloud
+- anaconda.com
+- anaconda.org
+- conda.io

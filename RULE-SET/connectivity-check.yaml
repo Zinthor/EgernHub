@@ -1,0 +1,13 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- connect.rom.miui.com
+domain_suffix_set:
+- msftconnecttest.com
+- msftncsi.com
+- ping.archlinux.org
+- captive.apple.com
+- connectivitycheck.gstatic.com
+- cp.cloudflare.com
+- network-test.debian.org
+- detectportal.firefox.com
+- networkcheck.kde.org
