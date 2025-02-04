@@ -17,6 +17,7 @@ domain_set:
 - concen.org
 - d40969.acod.regrucolo.ru
 - discord.heihachi.pw
+- ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 - evan.im
 - exodus.desync.com
 - explodie.org
@@ -26,9 +27,9 @@ domain_set:
 - home.yxgz.club
 - ipv4.rer.lol
 - ipv4announce.sktorrent.eu
+- ipv6.rer.lol
 - isk.richardsw.club
 - ismaarino.com
-- leet-tracker.moe
 - martin-gebhardt.eu
 - new-line.net
 - ns-1.x-fins.com
@@ -58,7 +59,6 @@ domain_set:
 - taciturn-shadow.spb.ru
 - tk.greedland.net
 - torrentsmd.com
-- tr.abir.ga
 - tr.burnabyhighstar.com
 - tr.nyacat.pw
 - tr.zukizuki.org
@@ -68,12 +68,12 @@ domain_set:
 - tracker.0x7c0.com
 - tracker.aburaya.live
 - tracker.beeimg.com
+- tracker.birkenwald.de
 - tracker.bittor.pw
 - tracker.bjut.jp
 - tracker.bt-hash.com
 - tracker.bt4g.com
 - tracker.bz
-- tracker.cloudit.top
 - tracker.corpscorp.online
 - tracker.cyberia.is
 - tracker.darkness.services
@@ -116,14 +116,13 @@ domain_set:
 - tracker.yemekyedim.com
 - tracker.yume-hatsuyuki.moe
 - tracker1.520.jp
+- tracker1.myporn.club
 - tracker2.dler.org
-- tracker2.itzmx.com
-- tracker3.itzmx.com
-- tracker4.itzmx.com
 - tracker810.xyz
 - ttk2.nbaonlineservice.com
 - u4.trakx.crim.ist
 - u6.trakx.crim.ist
+- udp.tracker.projectk.org
 - wepzone.net
 - www.all4nothin.net
 - www.genesis-sp.org
