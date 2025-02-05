@@ -25,11 +25,6 @@ domain_suffix_set:
 - primeday.com.cn
 - yamaxun.cn
 - z.cn
-- kindle.cn
-- kindleoasis.cn
-- kindleoasis.com.cn
-- amazonprimevideo.cn
-- amazonprimevideo.com.cn
 - a2z.org.cn
 - amazonaws.cn
 - amazonaws.com.cn
@@ -51,6 +46,11 @@ domain_suffix_set:
 - nwcdinfosec.cn
 - route53.cn
 - sagemaker.com.cn
+- kindle.cn
+- kindleoasis.cn
+- kindleoasis.com.cn
+- amazonprimevideo.cn
+- amazonprimevideo.com.cn
 domain_regex_set:
 - .+\.amzndns-cn\.(biz|cn|com|net)$
 - .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
