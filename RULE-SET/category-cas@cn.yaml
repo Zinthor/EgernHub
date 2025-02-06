@@ -1,12 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
-- pki-goog.l.google.com
-- c.pki.goog
-- i.pki.goog
-- o.pki.goog
-- crl.pki.goog
-- crls.pki.goog
-- ocsp.pki.goog
+- www.microsoft.com
 - certs-lb.apple.com.akadns.net
 - certs.apple.com
 - crl-lb.apple.com.akadns.net
@@ -15,8 +9,14 @@ domain_set:
 - ocsp.apple.com
 - ocsp2-lb.apple.com.akadns.net
 - ocsp2.apple.com
+- pki-goog.l.google.com
+- c.pki.goog
+- i.pki.goog
+- o.pki.goog
+- crl.pki.goog
+- crls.pki.goog
+- ocsp.pki.goog
 - cdn.globalsigncdn.com.cdn.cloudflare.net
-- www.microsoft.com
 domain_suffix_set:
 - oemssl.cn
 - oemssl.cn.cdn.cloudflare.net
@@ -24,8 +24,6 @@ domain_suffix_set:
 - sectigochina.com.cdn.cloudflare.net
 - trust-provider.cn
 - sslcom.cn
-- yahoo.cn
-- yahoo.com.cn
 - dcocsp.cn
 - digicert.cn
 - alphassl.com
@@ -33,3 +31,5 @@ domain_suffix_set:
 - globalsign.cn
 - globalsign.com
 - globalsigncdn.com
+- yahoo.cn
+- yahoo.com.cn

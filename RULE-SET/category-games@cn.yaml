@@ -1,5 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
+- xz.pphimalayanrt.com
 - uplaypc-s-ubisoft.cdn.ubi.com
 - gog.qtlglb.com
 - gogalaxy.gog-statics.com
@@ -7,14 +8,26 @@ domain_set:
 - productcard.gog-statics.com
 - static-login.gog-statics.com
 - www4-static.gog-statics.com
-- xz.pphimalayanrt.com
 domain_suffix_set:
-- bilibiligame.cn
-- bilibiligame.co
-- bilibiligame.net
-- biligame.co
-- biligame.com
-- biligame.net
+- steamcontent.com
+- steamserver.net
+- steamusercontent.com
+- csgo.wmsj.cn
+- dota2.wmsj.cn
+- wmsjsteam.com
+- dl.steam.clngaa.com
+- dl.steam.ksyna.com
+- st.dl.bscstorage.net
+- st.dl.eccdnx.com
+- st.dl.pinyuncloud.com
+- steampipe.steamcontent.tnkjmec.com
+- steampowered.com.8686c.com
+- steamstatic.com.8686c.com
+- steamchina.com
+- xboxlive.cn
+- bluearchive-cn.com
+- kurogames.com
+- aki-game.com
 - mhystatic.com
 - mhyurl.cn
 - mihayo.com
@@ -30,10 +43,8 @@ domain_suffix_set:
 - themisweeps.com
 - yuanshen.com
 - juequling.com
-- kurogames.com
-- aki-game.com
-- bluearchive-cn.com
-- sl916.com
+- leagueoflegends.cn
+- lpl.com.cn
 - battlecare.net
 - gameitop.com
 - gameloop.com
@@ -119,23 +130,12 @@ domain_suffix_set:
 - anticheatexpert.com
 - 17roco.com
 - roco.qq.com
-- leagueoflegends.cn
-- lpl.com.cn
-- steamcontent.com
-- steamserver.net
-- steamusercontent.com
-- csgo.wmsj.cn
-- dota2.wmsj.cn
-- wmsjsteam.com
-- dl.steam.clngaa.com
-- dl.steam.ksyna.com
-- st.dl.bscstorage.net
-- st.dl.eccdnx.com
-- st.dl.pinyuncloud.com
-- steampipe.steamcontent.tnkjmec.com
-- steampowered.com.8686c.com
-- steamstatic.com.8686c.com
-- steamchina.com
+- bilibiligame.cn
+- bilibiligame.co
+- bilibiligame.net
+- biligame.co
+- biligame.com
+- biligame.net
 - legendofzelda.cn
 - legendofzelda.com.cn
 - miitomo.com.cn
@@ -148,7 +148,7 @@ domain_suffix_set:
 - mariokart.cn
 - mariokart.com.cn
 - supermariobros.com.cn
-- xboxlive.cn
+- sl916.com
 domain_regex_set:
 - ^.+-mihayo\.akamaized\.net$
 - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$

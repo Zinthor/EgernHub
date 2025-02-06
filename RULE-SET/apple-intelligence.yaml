@@ -1,0 +1,4 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- apple-relay.mask.apple-dns.net
+- apple-relay.apple.com
