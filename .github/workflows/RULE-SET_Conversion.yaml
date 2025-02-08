@@ -10,41 +10,47 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 步骤1：检出当前仓库
+      # 检出当前仓库
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # 步骤2：移除旧的 RULE-SET 输出目录（如果存在）
+      # 移除旧的 RULE-SET 输出目录（如果存在）
       - name: Remove Existing RULE-SET Directory
         run: |
           rm -rf RULE-SET
 
-      # 步骤3：克隆 meta-rules-dat 仓库（指定 meta 分支）
+      # 克隆 meta-rules-dat 仓库（指定 meta 分支）
       - name: Clone meta-rules-dat Repository
         run: |
           git clone --branch meta --quiet https://github.com/MetaCubeX/meta-rules-dat.git meta-rules-dat
 
-      # 步骤4：创建临时工作目录
+      # 创建临时工作目录
       - name: Create Temporary Directories
         run: |
           mkdir -p temp/rules/IPs temp/rules/Sites temp/rules/Classical
-
-      # 步骤5：从 geoip/classical 拷贝 .list 文件到 temp/rules/IPs
+          
+      # 添加外部文件    
+      - name: Add External File
+        run: |
+          # 下载 anti-AD规则
+          curl -o temp/rules/Classical/anti-ad.list https://anti-ad.net/surge.txt
+          
+      # 从 geoip/classical 拷贝 .list 文件到 temp/rules/IPs
       - name: Copy .list Files to IPs Directory
         run: |
           find meta-rules-dat/geo/geoip/classical/ -name "*.list" -exec cp {} temp/rules/IPs/ \;
 
-      # 步骤6：从 geosite/classical 拷贝 .list 文件到 temp/rules/Sites
+      # 从 geosite/classical 拷贝 .list 文件到 temp/rules/Sites
       - name: Copy .list Files to Sites Directory
         run: |
           find meta-rules-dat/geo/geosite/classical/ -name "*.list" -exec cp {} temp/rules/Sites/ \;
 
-      # 步骤7：删除克隆的 meta-rules-dat 仓库内容
+      # 删除克隆的 meta-rules-dat 仓库内容
       - name: Clean Up Cloned Repository
         run: |
           rm -rf meta-rules-dat
 
-      # 步骤8：合并或移动 IPs 与 Sites 目录下的 .list 文件到 Classical 目录
+      # 合并或移动 IPs 与 Sites 目录下的 .list 文件到 Classical 目录
       - name: Merge and Move .list Files to Classical Directory
         run: |
           # 遍历 IPs 目录中的文件
@@ -66,7 +72,7 @@ jobs:
             fi
           done
 
-      # 步骤9：处理 Classical 目录下的 .list 文件，生成 YAML 文件并增加内容来源信息
+      # 处理 Classical 目录下的 .list 文件，生成 YAML 文件并增加内容来源信息
       - name: Process .list Files and Generate YAML Files
         run: |
           mkdir -p RULE-SET
@@ -116,12 +122,12 @@ jobs:
             fi
           done
 
-      # 步骤10：删除临时目录
+      # 删除临时目录
       - name: Clean Up Temporary Files
         run: |
           rm -rf temp
 
-      # 步骤11：提交并推送更改到仓库
+      # 提交并推送更改到仓库
       - name: Commit and Push Changes
         run: |
           if [[ -n $(git status -s) ]]; then
