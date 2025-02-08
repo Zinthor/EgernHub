@@ -1,4 +1,4 @@
-# EgernHub
+# EgernHub（筹备中）
 
 ## 项目说明  
 
