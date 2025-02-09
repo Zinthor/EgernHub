@@ -13,9 +13,9 @@ jobs:
     steps:
     # 步骤 1: 设置 Node.js 环境
     - name: Set up Node.js
-      uses: actions/checkout@v4
+      uses: actions/setup-node@v3
       with:
-        node-version: '20'
+        node-version: '16'
 
     # 步骤 2: 安装依赖
     - name: Install dependencies
@@ -75,9 +75,9 @@ jobs:
       run: |
         rm -rf /tmp/raw/
 
-    # 步骤 6: 上传转换后的文件
+    # 步骤 6: 上传转换后的文件 (使用 v2)
     - name: Upload converted file
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v2  # 使用 v2 替换 v3
       with:
         name: converted_module
         path: /MODULES/converted_module.yaml
