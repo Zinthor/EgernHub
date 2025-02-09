@@ -1,6 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- x.ai
 - ads-twitter.com
 - cms-twdigitalassets.com
 - periscope.tv
@@ -24,3 +23,4 @@ domain_suffix_set:
 - twvid.com
 - vine.co
 - x.com
+- x.ai

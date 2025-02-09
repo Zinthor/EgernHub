@@ -8,7 +8,6 @@ domain_set:
 - openaicom.imgix.net
 - browser-intake-datadoghq.com
 domain_suffix_set:
-- ai.com
 - chatgpt.com
 - chat.com
 - oaistatic.com
