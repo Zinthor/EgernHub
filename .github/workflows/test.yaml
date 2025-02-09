@@ -11,33 +11,33 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    # Step 1: Set up Node.js environment
+    # 第一步：设置 Node.js 环境
     - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
         node-version: '16'
 
-    # Step 2: Install dependencies
+    # 第二步：安装依赖
     - name: Install dependencies
       run: |
         sudo apt-get update
         sudo apt-get install -y wget curl
         sudo apt-get install -y libnss3 libgdk-pixbuf2.0-0 libx11-xcb1
         sudo apt-get install -y libxcomposite1 libxdamage1 libxi6
-        # Remove deprecated packages and add alternatives
         sudo apt-get install -y libasound2-dev
         npm install puppeteer js-yaml
 
-    # Step 3: Download file
+    # 第三步：下载文件
     - name: Download Surge Module
       run: |
         mkdir -p /tmp/raw/
         wget -O /tmp/raw/official.sgmodule https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.official.sgmodule
 
-    # Step 4: Run Puppeteer conversion script
+    # 第四步：运行 Puppeteer 转换脚本
     - name: Run Puppeteer conversion script
       run: |
-        mkdir -p /MODULES
+        # 创建可写的 MODULES 目录
+        mkdir -p ./MODULES
         node <<EOF
           const puppeteer = require('puppeteer');
           const fs = require('fs');
@@ -45,39 +45,52 @@ jobs:
           const yaml = require('js-yaml');
           
           (async () => {
-            // Step 1: Launch Puppeteer browser instance
+            // 启动 Puppeteer 浏览器实例
             const browser = await puppeteer.launch({ headless: true });
             const page = await browser.newPage();
 
-            // Step 2: Read file content
+            // 读取文件内容
             const surgeModuleContent = fs.readFileSync('/tmp/raw/official.sgmodule', 'utf-8');
 
-            // Step 3: Open the conversion website
+            // 打开转换网站
             await page.goto('https://gen.egernapp.com/');
             await page.type('textarea[placeholder="Surge 模块"]', surgeModuleContent);
             
-            // Wait for conversion to complete and get the Egern module content
+            // 等待转换完成并获取 Egern 模块内容
             await page.waitForSelector('textarea[readonly]');
             const egernModuleContent = await page.$eval('textarea[readonly]', el => el.value);
 
-            // Step 4: Save the converted content as YAML
-            const outputFilePath = path.resolve('/MODULES/converted_module.yaml');
+            // 保存转换后的内容为 YAML
+            const outputFilePath = path.resolve('./MODULES/converted_module.yaml');
             const egernYaml = yaml.dump(egernModuleContent);
             fs.writeFileSync(outputFilePath, egernYaml);
 
-            // Step 5: Close browser
+            // 关闭浏览器
             await browser.close();
           })();
         EOF
 
-    # Step 5: Clean up /tmp folder
+    # 第五步：清理 /tmp 文件夹
     - name: Clean up /tmp folder
       run: |
         rm -rf /tmp/raw/
 
-    # Step 6: Upload converted file (using v4 for better performance)
+    # 第六步：上传转换后的文件
     - name: Upload converted file
-      uses: actions/upload-artifact@v4  # Use v4 for uploading artifacts
+      uses: actions/upload-artifact@v4
       with:
         name: converted_module
-        path: /MODULES/converted_module.yaml
+        path: ./MODULES/converted_module.yaml
+
+    # 第七步：提交并推送转换后的文件（参考提供的脚本）
+    - name: Commit and Push Changes
+      run: |
+        if [[ -n $(git status -s) ]]; then
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Auto Update $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M')"
+          git push
+        else
+          echo "No changes to commit."
+        fi
