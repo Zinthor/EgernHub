@@ -11,29 +11,30 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    # 步骤 1: 设置 Node.js 环境
+    # Step 1: Set up Node.js environment
     - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
         node-version: '16'
 
-    # 步骤 2: 安装依赖
+    # Step 2: Install dependencies
     - name: Install dependencies
       run: |
         sudo apt-get update
         sudo apt-get install -y wget curl
         sudo apt-get install -y libnss3 libgdk-pixbuf2.0-0 libx11-xcb1
         sudo apt-get install -y libxcomposite1 libxdamage1 libxi6
-        sudo apt-get install -y libappindicator1 libasound2
+        # Remove deprecated packages and add alternatives
+        sudo apt-get install -y libasound2-dev
         npm install puppeteer js-yaml
 
-    # 步骤 3: 下载文件
+    # Step 3: Download file
     - name: Download Surge Module
       run: |
         mkdir -p /tmp/raw/
         wget -O /tmp/raw/official.sgmodule https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.official.sgmodule
 
-    # 步骤 4: 执行 Puppeteer 转换脚本
+    # Step 4: Run Puppeteer conversion script
     - name: Run Puppeteer conversion script
       run: |
         mkdir -p /MODULES
@@ -44,39 +45,39 @@ jobs:
           const yaml = require('js-yaml');
           
           (async () => {
-            // 步骤 1: 启动 Puppeteer 浏览器实例
+            // Step 1: Launch Puppeteer browser instance
             const browser = await puppeteer.launch({ headless: true });
             const page = await browser.newPage();
 
-            // 步骤 2: 读取文件内容
+            // Step 2: Read file content
             const surgeModuleContent = fs.readFileSync('/tmp/raw/official.sgmodule', 'utf-8');
 
-            // 步骤 3: 打开转换网站
+            // Step 3: Open the conversion website
             await page.goto('https://gen.egernapp.com/');
             await page.type('textarea[placeholder="Surge 模块"]', surgeModuleContent);
             
-            // 等待转换完成并获取 Egern 模块内容
+            // Wait for conversion to complete and get the Egern module content
             await page.waitForSelector('textarea[readonly]');
             const egernModuleContent = await page.$eval('textarea[readonly]', el => el.value);
 
-            // 步骤 4: 将转换后的内容保存为 YAML
+            // Step 4: Save the converted content as YAML
             const outputFilePath = path.resolve('/MODULES/converted_module.yaml');
             const egernYaml = yaml.dump(egernModuleContent);
             fs.writeFileSync(outputFilePath, egernYaml);
 
-            // 步骤 5: 关闭浏览器
+            // Step 5: Close browser
             await browser.close();
           })();
         EOF
 
-    # 步骤 5: 清理 /tmp 文件夹
+    # Step 5: Clean up /tmp folder
     - name: Clean up /tmp folder
       run: |
         rm -rf /tmp/raw/
 
-    # 步骤 6: 上传转换后的文件（使用 v4 提升性能）
+    # Step 6: Upload converted file (using v4 for better performance)
     - name: Upload converted file
-      uses: actions/upload-artifact@v4  # 使用 v4 上传工件
+      uses: actions/upload-artifact@v4  # Use v4 for uploading artifacts
       with:
         name: converted_module
         path: /MODULES/converted_module.yaml
