@@ -13,7 +13,7 @@ jobs:
     steps:
     # 步骤 1: 设置 Node.js 环境
     - name: Set up Node.js
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v4
       with:
         node-version: '20'
 
