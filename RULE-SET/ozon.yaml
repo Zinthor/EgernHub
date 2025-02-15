@@ -1,4 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- adblockcdn.com
-- getadblock.com
+- ozon.ru
+- ozone.ru
+- ozonusercontent.com

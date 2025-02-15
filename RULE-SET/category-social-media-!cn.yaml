@@ -5,9 +5,8 @@ domain_set:
 - licdn.cn.cdn20.com
 - linkedin.sc.omtrdc.net
 domain_suffix_set:
-- threads.net
-- ads-twitter.com
-- cms-twdigitalassets.com
+- twtrdns.net
+- twvid.com
 - periscope.tv
 - pscp.tv
 - t.co
@@ -16,19 +15,19 @@ domain_suffix_set:
 - twimg.com
 - twitpic.com
 - twitter.biz
-- twitter.com
-- twitter.jp
-- twittercommunity.com
+- x.com
+- cms-twdigitalassets.com
 - twitterflightschool.com
+- twittercommunity.com
+- twitter.com
 - twitterinc.com
 - twitteroauth.com
 - twitterstat.us
-- twtrdns.net
+- ads-twitter.com
 - twttr.com
 - twttr.net
-- twvid.com
+- twitter.jp
 - vine.co
-- x.com
 - mvk.com
 - userapi.com
 - vk-apps.com
@@ -554,6 +553,7 @@ domain_suffix_set:
 - misskey.design
 - misskey.flowers
 - 9ineverse.com
+- threads.net
 - l-0005.dc-msedge.net
 - l-0005.l-msedge.net
 - misskey.gamelore.fun
@@ -571,6 +571,7 @@ domain_suffix_set:
 - mi.mashiro.site
 - mi.kochudaho.me
 - labo.wovs.tk
+- twitter.map.fastly.net
 - graph.instagram.com
 - graph-fallback.instagram.com
 - licdn.cn

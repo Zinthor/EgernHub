@@ -1,8 +1,8 @@
 no_resolve: true
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- ads-twitter.com
-- cms-twdigitalassets.com
+- twtrdns.net
+- twvid.com
 - periscope.tv
 - pscp.tv
 - t.co
@@ -11,19 +11,20 @@ domain_suffix_set:
 - twimg.com
 - twitpic.com
 - twitter.biz
-- twitter.com
-- twitter.jp
-- twittercommunity.com
+- x.com
+- cms-twdigitalassets.com
 - twitterflightschool.com
+- twittercommunity.com
+- twitter.com
 - twitterinc.com
 - twitteroauth.com
 - twitterstat.us
-- twtrdns.net
+- ads-twitter.com
 - twttr.com
 - twttr.net
-- twvid.com
+- twitter.jp
 - vine.co
-- x.com
+- twitter.map.fastly.net
 ip_cidr_set:
 - 8.25.194.0/23
 - 8.25.196.0/23
