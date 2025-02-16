@@ -1,0 +1,7 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- mxlogin.com
+- mxroute.com
+- mxroutedocs.com
+- mxroutehelp.com
+- mxrouting.net

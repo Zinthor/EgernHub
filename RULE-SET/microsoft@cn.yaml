@@ -76,6 +76,9 @@ domain_suffix_set:
 - sharepoint.cn
 - dl.delivery.mp.microsoft.com
 - download.windowsupdate.com
+- microsoftreactor.cn
+- microsoftreactor.com.cn
+- reactorms.com.cn
 - microsoftnews.cn
 - msn.cn
 - xboxlive.cn
@@ -140,9 +143,6 @@ domain_suffix_set:
 - cn.bing.net
 - cn.mm.bing.net
 - ditu.live.com
-- microsoftreactor.cn
-- microsoftreactor.com.cn
-- reactorms.com.cn
 domain_regex_set:
 - .+\.azchcdn[a-s]\.com$
 - .+\.azure-dns-([1-9]|10)\.cn$
