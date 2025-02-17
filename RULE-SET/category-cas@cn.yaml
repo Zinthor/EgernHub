@@ -1,6 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
-- www.microsoft.com
+- cdn.globalsigncdn.com.cdn.cloudflare.net
 - certs-lb.apple.com.akadns.net
 - certs.apple.com
 - crl-lb.apple.com.akadns.net
@@ -9,7 +9,6 @@ domain_set:
 - ocsp.apple.com
 - ocsp2-lb.apple.com.akadns.net
 - ocsp2.apple.com
-- cdn.globalsigncdn.com.cdn.cloudflare.net
 - pki-goog.l.google.com
 - c.pki.goog
 - i.pki.goog
@@ -17,6 +16,7 @@ domain_set:
 - crl.pki.goog
 - crls.pki.goog
 - ocsp.pki.goog
+- www.microsoft.com
 domain_suffix_set:
 - sslcom.cn
 - alphassl.com

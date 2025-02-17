@@ -3,9 +3,8 @@ domain_suffix_set:
 - ru
 - su
 - xn--p1ai
-- psk
 - yandex
-- emias.info
+- psk
 - mycdn.me
 - mvk.com
 - userapi.com
@@ -57,8 +56,9 @@ domain_suffix_set:
 - yandex.jobs
 - yandex.st
 - yandex.sx
-- yandex.com.ua
+- emias.info
 - yandex.com.tr
+- yandex.com.ua
 - yandex.com.ge
 - yandex.com.am
 - yandex.co.il

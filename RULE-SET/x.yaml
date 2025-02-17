@@ -1,20 +1,21 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- twitterflightschool.com
-- t.co
+- x.ai
 - twtrdns.net
+- twvid.com
+- periscope.tv
 - pscp.tv
-- twittercommunity.com
+- t.co
 - tellapart.com
 - tweetdeck.com
-- twitter.com
+- twimg.com
 - twitpic.com
 - twitter.biz
 - x.com
 - cms-twdigitalassets.com
-- periscope.tv
-- twvid.com
-- twimg.com
+- twitterflightschool.com
+- twittercommunity.com
+- twitter.com
 - twitterinc.com
 - twitteroauth.com
 - twitterstat.us
@@ -23,5 +24,4 @@ domain_suffix_set:
 - twttr.net
 - twitter.jp
 - vine.co
-- x.ai
 - twitter.map.fastly.net
