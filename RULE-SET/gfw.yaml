@@ -1,7 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- konachan.com
-- rule34.xxx
+- kone.com
+- ctowc.org
 - 0rz.tw
 - zzux.com
 - 10.tt
@@ -95,6 +95,7 @@ domain_suffix_set:
 - 5i01.com
 - 5isotoi5.org
 - 5maodang.com
+- 611study.icu
 - 63i.com
 - 64museum.org
 - 64tianwang.com
@@ -760,7 +761,7 @@ domain_suffix_set:
 - boxunblog.com
 - boxunclub.com
 - boyangu.com
-- 000webhost.com
+- boyfriendtv.com
 - boysfood.com
 - boysmaster.com
 - yeyeclub.com
@@ -823,7 +824,7 @@ domain_suffix_set:
 - buzzhand.com
 - buzzhand.net
 - buzzorange.com
-- buzzsprout.com
+- kompozer.net
 - bvpn.com
 - bwgyhw.com
 - bwh1.net
@@ -1246,7 +1247,7 @@ domain_suffix_set:
 - ctao.org
 - ctfriend.net
 - xhamster.com
-- ctowc.org
+- konachan.com
 - xgmyd.com
 - ctwant.com
 - cuhkacs.org
@@ -1455,7 +1456,7 @@ domain_suffix_set:
 - doourbest.org
 - dorjeshugden.com
 - dotplane.com
-- koolsolutions.com
+- dotsub.com
 - dotvpn.com
 - doub.io
 - doubibackup.com
@@ -3149,10 +3150,10 @@ domain_suffix_set:
 - kobo.com
 - kobobooks.com
 - kodingen.com
-- kompozer.net
-- boyfriendtv.com
+- buzzsprout.com
 - 030buy.com
-- dotsub.com
+- tibetalk.com
+- koolsolutions.com
 - koornk.com
 - koranmandarin.com
 - korenan2.com
@@ -3754,6 +3755,7 @@ domain_suffix_set:
 - uscnpm.org
 - uscg.mil
 - uscardforum.com
+- news1.kr
 - usaip.eu
 - newsancai.com
 - newsblur.com
@@ -4123,6 +4125,7 @@ domain_suffix_set:
 - picturedip.com
 - uighurbiz.net
 - picturesocial.com
+- picuki.com
 - pigav.com
 - pimg.tw
 - pin-cong.com
@@ -4480,7 +4483,7 @@ domain_suffix_set:
 - rtycminnesota.org
 - ruanyifeng.com
 - rukor.org
-- kone.com
+- rule34.xxx
 - rumble.com
 - runbtx.com
 - rushbee.com
@@ -4894,7 +4897,6 @@ domain_suffix_set:
 - strikingly.com
 - strongvpn.com
 - strongwindpress.com
-- student.tw
 - studentsforafreetibet.org
 - stumbleupon.com
 - stupidvideos.com
@@ -5155,7 +5157,7 @@ domain_suffix_set:
 - tibet3rdpole.org
 - tibetaction.net
 - tibetaid.org
-- tibetalk.com
+- 000webhost.com
 - tibetan-alliance.org
 - tibetan.fr
 - tibetanaidproject.org
