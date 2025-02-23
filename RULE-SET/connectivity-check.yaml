@@ -1,5 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
+- connectivitycheck.platform.hihonorcloud.com
+- connectivitycheck.platform.hicloud.com
 - connect.rom.miui.com
 domain_suffix_set:
 - msftconnecttest.com

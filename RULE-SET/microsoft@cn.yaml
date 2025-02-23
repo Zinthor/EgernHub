@@ -37,9 +37,9 @@ domain_set:
 - wscont1.apps.microsoft.com
 - wscont2.apps.microsoft.com
 - xb.dlservice.microsoft.com
-- www.microsoft.com
 - bj1.api.bing.com
 - emoi-cncdn.bing.com
+- www.microsoft.com
 domain_suffix_set:
 - dcg.microsoft.com
 - dynamics.cn
@@ -54,6 +54,7 @@ domain_suffix_set:
 - microsoftonline-p.cn
 - microsoftonline-p.net.cn
 - microsoftonline.cn
+- microsoftstore.com.cn
 - microsofttranslator-int.cn
 - msauth.cn
 - msauthimages.cn
@@ -65,6 +66,7 @@ domain_suffix_set:
 - o365files.cn
 - office365-net.cn
 - office365.cn
+- officeplus.cn
 - officewebapps.cn
 - onmschina.cn
 - outlook.cn
@@ -76,11 +78,6 @@ domain_suffix_set:
 - sharepoint.cn
 - dl.delivery.mp.microsoft.com
 - download.windowsupdate.com
-- microsoftreactor.cn
-- microsoftreactor.com.cn
-- reactorms.com.cn
-- microsoftnews.cn
-- msn.cn
 - xboxlive.cn
 - 21vbc.com
 - 21vbluecloud.com
@@ -143,6 +140,11 @@ domain_suffix_set:
 - cn.bing.net
 - cn.mm.bing.net
 - ditu.live.com
+- microsoftreactor.cn
+- microsoftreactor.com.cn
+- reactorms.com.cn
+- microsoftnews.cn
+- msn.cn
 domain_regex_set:
 - .+\.azchcdn[a-s]\.com$
 - .+\.azure-dns-([1-9]|10)\.cn$

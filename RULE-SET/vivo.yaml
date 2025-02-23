@@ -1,5 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
+- iqoo.com
+- vivo.cn
 - vivo.com
 - vivo.com.cn
 - vivoglobal.com

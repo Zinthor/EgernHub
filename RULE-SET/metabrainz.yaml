@@ -1,0 +1,10 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- acousticbrainz.org
+- bookbrainz.org
+- coverartarchive.org
+- critiquebrainz.org
+- listenbrainz.org
+- messybrainz.org
+- metabrainz.org
+- musicbrainz.org

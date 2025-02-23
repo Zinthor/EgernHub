@@ -5,9 +5,9 @@ domain_set:
 - emoi-cncdn.bing.com
 domain_suffix_set:
 - bing
+- dictate.ms
+- sprinklesapp.com
 - bing.com
-- bing.net
-- bing123.com
 - bingads.com
 - bingagencyawards.com
 - bingapis.com
@@ -17,20 +17,21 @@ domain_suffix_set:
 - bingvisualsearch.com
 - bingworld.com
 - bluehatnights.com
-- dictate.ms
-- flipwithsurface.com
+- bing123.com
+- bing.net
+- microsoftpartnersolutions.com
 - masalladeloslimites.com
 - microsoft-give.com
 - microsoftcloudsummit.com
 - microsoftdiplomados.com
 - microsoftlatamholiday.com
 - microsoftmxfilantropia.com
-- microsoftpartnersolutions.com
+- flipwithsurface.com
 - msunlimitedcloudsummit.com
 - office365love.com
 - office365tw.com
 - renovacionoffice.com
-- sprinklesapp.com
+- copilot.microsoft.com
 - bing.com.cn
 - cn.bing.com
 - cn.bing.net

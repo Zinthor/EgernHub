@@ -1,21 +1,25 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- cueme-api.quark.cn
 domain_suffix_set:
+- moonshot.cn
+- baichuan-ai.com
+- rwkv.cn
 - hailuoai.com
-- liblib.art
-- chatglm.cn
-- zhipuai.cn
-- botvip.cn
+- deepseek.com
 - tiangong.cn
 - doubao.com
 - marscode.cn
-- baichuan-ai.com
-- rwkv.com
-- xingyeai.com
-- moonshot.cn
-- rwkv.cn
+- chatglm.cn
+- zhipuai.cn
+- cueme.cn
+- liblib.art
+- botvip.cn
 - minimaxi.com
-- xinghuo.xfyun.cn
+- xingyeai.com
+- rwkv.com
 - hunyuan.tencent.com
-- tongyi.aliyun.com
-- yiyan.baidu.com
 - qianwen.aliyun.com
+- yiyan.baidu.com
+- tongyi.aliyun.com
+- xinghuo.xfyun.cn

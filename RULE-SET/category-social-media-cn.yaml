@@ -2,7 +2,7 @@
 domain_suffix_set:
 - picself.cn
 - douban.com
-- zhimg.com
+- coolapkmarket.net
 - dandanvoice.com
 - sinaimg.cn
 - douban.fm
@@ -12,7 +12,7 @@ domain_suffix_set:
 - hupu.com
 - hupucdn.com
 - shihuo.cn
-- zhihu.com
+- coolapkmarket.com
 - sinajs.cn
 - sina.cn
 - videoself.cn
@@ -33,20 +33,20 @@ domain_suffix_set:
 - weibo.cn
 - weibo.com
 - weibocdn.com
-- dwstatic.com
-- duowan.com
-- bcy.net
-- bcyimg.com
-- yystatic.com
 - coolapk.com
-- coolapkmarket.com
-- coolapkmarket.net
+- bcyimg.com
 - xhscdn.com
 - xhscdn.net
 - xiaohongshu.com
 - yy.com
-- lf-rc1.yhgfb-cn-static.com
+- yystatic.com
+- duowan.com
+- dwstatic.com
+- zhihu.com
+- zhimg.com
+- bcy.net
 - sina.com.cn
+- lf-rc1.yhgfb-cn-static.com
 - weibo.com.cn
 - hoopchina.com.cn
 - tieba.baidu.com
