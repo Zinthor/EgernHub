@@ -18,6 +18,14 @@ domain_set:
 - ocsp2-lb.apple.com.akadns.net
 - ocsp2.apple.com
 domain_suffix_set:
+- yahoo.cn
+- yahoo.com.cn
+- sslcom.cn
+- oemssl.cn
+- oemssl.cn.cdn.cloudflare.net
+- sectigochina.com
+- sectigochina.com.cdn.cloudflare.net
+- trust-provider.cn
 - dcocsp.cn
 - digicert.cn
 - alphassl.com
@@ -25,11 +33,3 @@ domain_suffix_set:
 - globalsign.cn
 - globalsign.com
 - globalsigncdn.com
-- yahoo.cn
-- yahoo.com.cn
-- oemssl.cn
-- oemssl.cn.cdn.cloudflare.net
-- sectigochina.com
-- sectigochina.com.cdn.cloudflare.net
-- trust-provider.cn
-- sslcom.cn

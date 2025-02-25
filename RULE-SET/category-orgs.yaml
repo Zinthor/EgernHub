@@ -25,10 +25,10 @@ domain_suffix_set:
 - who.int
 - wto.org
 - csis.org
-- emojipedia.org
-- worldemojiawards.com
-- worldemojiday.com
-- xn--yt8h.la
+- f-dro1d.org
+- f-droid.com
+- f-droid.org
+- fdroid.org
 - ieee.org
 - ieee.tv
 - tryengineering.org
@@ -83,9 +83,6 @@ domain_suffix_set:
 - signalprocessingsociety.org
 - technologyandsociety.org
 - vtsociety.org
-- paskoocheh.com
-- rolfoundation.org
-- rolsociety.org
 - openmaps.org
 - openstreetmap.com
 - openstreetmap.net
@@ -107,10 +104,10 @@ domain_suffix_set:
 - creativecommons.org
 - creativecommons.engineering
 - licensebuttons.net
-- f-dro1d.org
-- f-droid.com
-- f-droid.org
-- fdroid.org
+- emojipedia.org
+- worldemojiawards.com
+- worldemojiday.com
+- xn--yt8h.la
 - acousticbrainz.org
 - bookbrainz.org
 - coverartarchive.org
@@ -121,3 +118,6 @@ domain_suffix_set:
 - musicbrainz.org
 - nist.gov
 - time.gov
+- paskoocheh.com
+- rolfoundation.org
+- rolsociety.org
