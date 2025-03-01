@@ -14,7 +14,6 @@ domain_set:
 - ch3oh.ru
 - concen.org
 - d40969.acod.regrucolo.ru
-- discord.heihachi.pw
 - ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 - evan.im
 - exodus.desync.com
@@ -29,11 +28,10 @@ domain_set:
 - ismaarino.com
 - leet-tracker.moe
 - martin-gebhardt.eu
-- ns-1.x-fins.com
 - nyaa.tracker.wf
 - open.acgtracker.com
 - open.demonii.com
-- open.free-tracker.ga
+- open.dstud.io
 - open.stealth.si
 - open.tracker.cl
 - open.tracker.ink
@@ -61,9 +59,11 @@ domain_set:
 - tr.burnabyhighstar.com
 - tr.nyacat.pw
 - tr.zukizuki.org
+- tr3.ysagin.top
 - tr4ck3r.duckdns.org
 - tracker-udp.gbitt.info
 - tracker-zhuqiy.dgj055.icu
+- tracker-zhuqiy.xn--1r3au8b.space
 - tracker.0x7c0.com
 - tracker.aburaya.live
 - tracker.bittor.pw
@@ -88,7 +88,6 @@ domain_set:
 - tracker.ipv6tracker.org
 - tracker.ipv6tracker.ru
 - tracker.kmzs123.cn
-- tracker.kmzs123.top
 - tracker.kuroy.me
 - tracker.lilithraws.org
 - tracker.lintk.me
@@ -107,9 +106,9 @@ domain_set:
 - tracker.sbsub.com
 - tracker.skyts.net
 - tracker.srv00.com
-- tracker.theoks.net
 - tracker.tiny-vps.com
 - tracker.torrent.eu.org
+- tracker.torrust-demo.com
 - tracker.tryhackx.org
 - tracker.valete.tf
 - tracker.vanitycore.co
