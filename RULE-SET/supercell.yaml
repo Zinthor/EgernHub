@@ -1,5 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
+- brawlstarsgame.com
 - supercell.com
 - supercell.net
 - supercell.helpshift.com

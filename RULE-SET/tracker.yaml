@@ -14,6 +14,7 @@ domain_set:
 - ch3oh.ru
 - concen.org
 - d40969.acod.regrucolo.ru
+- discord.heihachi.pw
 - ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 - evan.im
 - exodus.desync.com
@@ -28,10 +29,12 @@ domain_set:
 - ismaarino.com
 - leet-tracker.moe
 - martin-gebhardt.eu
+- ns-1.x-fins.com
 - nyaa.tracker.wf
 - open.acgtracker.com
 - open.demonii.com
 - open.dstud.io
+- open.free-tracker.ga
 - open.stealth.si
 - open.tracker.cl
 - open.tracker.ink
@@ -63,7 +66,6 @@ domain_set:
 - tr4ck3r.duckdns.org
 - tracker-udp.gbitt.info
 - tracker-zhuqiy.dgj055.icu
-- tracker-zhuqiy.xn--1r3au8b.space
 - tracker.0x7c0.com
 - tracker.aburaya.live
 - tracker.bittor.pw
@@ -115,8 +117,8 @@ domain_set:
 - tracker.waaa.moe
 - tracker.xiaoduola.xyz
 - tracker.yemekyedim.com
+- tracker.zhuqiy.top
 - tracker1.520.jp
-- tracker1.myporn.club
 - tracker2.dler.org
 - tracker2.itzmx.com
 - tracker3.itzmx.com
