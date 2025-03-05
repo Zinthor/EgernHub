@@ -1,8 +1,8 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
+- analytics.facebook.com
+- pixel.facebook.com
 - graph.instagram.com
 - graph-fallback.instagram.com
 - graph.whatsapp.com
 - graph.whatsapp.net
-- analytics.facebook.com
-- pixel.facebook.com
