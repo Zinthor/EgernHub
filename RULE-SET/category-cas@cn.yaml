@@ -8,6 +8,7 @@ domain_set:
 - crl.pki.goog
 - crls.pki.goog
 - ocsp.pki.goog
+- www.microsoft.com
 - certs-lb.apple.com.akadns.net
 - certs.apple.com
 - crl-lb.apple.com.akadns.net
@@ -16,16 +17,7 @@ domain_set:
 - ocsp.apple.com
 - ocsp2-lb.apple.com.akadns.net
 - ocsp2.apple.com
-- www.microsoft.com
 domain_suffix_set:
-- sslcom.cn
-- yahoo.cn
-- yahoo.com.cn
-- alphassl.com
-- easy-signing.com
-- globalsign.cn
-- globalsign.com
-- globalsigncdn.com
 - dcocsp.cn
 - digicert.cn
 - oemssl.cn
@@ -33,3 +25,11 @@ domain_suffix_set:
 - sectigochina.com
 - sectigochina.com.cdn.cloudflare.net
 - trust-provider.cn
+- sslcom.cn
+- alphassl.com
+- easy-signing.com
+- globalsign.cn
+- globalsign.com
+- globalsigncdn.com
+- yahoo.cn
+- yahoo.com.cn
