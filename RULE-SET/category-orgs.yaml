@@ -1,6 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
-- csis-prod.s3.amazonaws.com
 - a.ppy.sh
 - assets.ppy.sh
 - c.ppy.sh
@@ -10,6 +9,7 @@ domain_set:
 - notify.ppy.sh
 - sentry.ppy.sh
 - spectator.ppy.sh
+- csis-prod.s3.amazonaws.com
 domain_suffix_set:
 - aomedia.org
 - atypi.org
@@ -24,6 +24,24 @@ domain_suffix_set:
 - w3.org
 - who.int
 - wto.org
+- openmaps.org
+- openstreetmap.com
+- openstreetmap.net
+- openstreetmap.org
+- openstreetmaps.org
+- osm.org
+- osmfoundation.org
+- stateofthemap.com
+- stateofthemap.org
+- ppy.sh
+- archive-it.org
+- archive.org
+- archive.ph
+- archive.today
+- openlibrary.org
+- 4pcdn.org
+- 4plebs.org
+- csis.org
 - emojipedia.org
 - worldemojiawards.com
 - worldemojiday.com
@@ -86,29 +104,10 @@ domain_suffix_set:
 - signalprocessingsociety.org
 - technologyandsociety.org
 - vtsociety.org
-- openmaps.org
-- openstreetmap.com
-- openstreetmap.net
-- openstreetmap.org
-- openstreetmaps.org
-- osm.org
-- osmfoundation.org
-- stateofthemap.com
-- stateofthemap.org
-- rolfoundation.org
-- rolsociety.org
-- archive-it.org
-- archive.org
-- archive.ph
-- archive.today
-- openlibrary.org
-- 4pcdn.org
-- 4plebs.org
 - ccstatic.org
 - creativecommons.org
 - creativecommons.engineering
 - licensebuttons.net
-- csis.org
 - acousticbrainz.org
 - bookbrainz.org
 - coverartarchive.org
@@ -120,4 +119,5 @@ domain_suffix_set:
 - nist.gov
 - time.gov
 - paskoocheh.com
-- ppy.sh
+- rolfoundation.org
+- rolsociety.org

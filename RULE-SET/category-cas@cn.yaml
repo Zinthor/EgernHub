@@ -18,9 +18,6 @@ domain_set:
 - crls.pki.goog
 - ocsp.pki.goog
 domain_suffix_set:
-- sslcom.cn
-- yahoo.cn
-- yahoo.com.cn
 - dcocsp.cn
 - digicert.cn
 - alphassl.com
@@ -28,8 +25,11 @@ domain_suffix_set:
 - globalsign.cn
 - globalsign.com
 - globalsigncdn.com
+- yahoo.cn
+- yahoo.com.cn
 - oemssl.cn
 - oemssl.cn.cdn.cloudflare.net
 - sectigochina.com
 - sectigochina.com.cdn.cloudflare.net
 - trust-provider.cn
+- sslcom.cn
