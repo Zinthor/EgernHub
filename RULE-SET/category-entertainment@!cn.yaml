@@ -2,6 +2,7 @@
 domain_set:
 - p16-tiktokcdn-com.akamaized.net
 domain_suffix_set:
+- supercell.com
 - byteoversea.com
 - muscdn.com
 - musical.ly
@@ -22,4 +23,3 @@ domain_suffix_set:
 - ttlivecdn.com
 - ttoverseaus.net
 - ttwstatic.com
-- supercell.com
