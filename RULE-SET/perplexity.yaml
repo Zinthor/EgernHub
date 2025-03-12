@@ -1,3 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- pplx-res.cloudinary.com
 domain_suffix_set:
 - perplexity.ai
+- pplx.ai
