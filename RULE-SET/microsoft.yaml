@@ -7,6 +7,10 @@ domain_set:
 - statics-marketingsites-eas-ms-com.akamaized.net
 - statics-marketingsites-eus-ms-com.akamaized.net
 - statics-marketingsites-wcus-ms-com.akamaized.net
+- crl.microsoft.com
+- mscrl.microsoft.com
+- ocsp.microsoft.com
+- oneocsp.microsoft.com
 - azure.microsoft.com
 - azuremarketplace.microsoft.com
 - location.microsoft.com
@@ -26,10 +30,6 @@ domain_set:
 - vscode.blob.core.windows.net
 - vscode.search.windows.net
 - vsmarketplacebadge.apphb.com
-- crl.microsoft.com
-- mscrl.microsoft.com
-- ocsp.microsoft.com
-- oneocsp.microsoft.com
 - b.c2r.ts.cdn.office.net
 - bg.v4.a.dl.ws.microsoft.com
 - bg4.v4.a.dl.ws.microsoft.com
@@ -67,9 +67,9 @@ domain_set:
 - wscont1.apps.microsoft.com
 - wscont2.apps.microsoft.com
 - xb.dlservice.microsoft.com
+- www.microsoft.com
 - bj1.api.bing.com
 - emoi-cncdn.bing.com
-- www.microsoft.com
 domain_suffix_set:
 - microsoft
 - hotmail
@@ -235,7 +235,7 @@ domain_suffix_set:
 - msftncsi.com
 - msftnet.org
 - msgamesresearch.com
-- microsoftnews.com
+- microsoftnews.cc
 - msturing.org
 - msudalosti.com
 - mymicrosoft.com
@@ -284,7 +284,7 @@ domain_suffix_set:
 - svc.ms
 - sway-cdn.com
 - sway.com
-- microsoftnews.cc
+- msocsp.com
 - t-msedge.net
 - tailwindtraders.com
 - techhub.ms
@@ -311,11 +311,12 @@ domain_suffix_set:
 - windowsupdate.com
 - winhec.com
 - winhec.net
-- mono-project.com
+- mmdnn.com
 - microsoft.cl
 - msocdn.com
-- msocsp.com
 - xamarin.com
+- vscode-unpkg.net
+- microsoftnews.com
 - microsoftnews.net
 - microsoftnews.org
 - microsoftnewsforkids.com
@@ -337,7 +338,6 @@ domain_suffix_set:
 - 1drv.com
 - livefilestore.com
 - sharepoint.cn
-- vscode-unpkg.net
 - vscode-cdn.net
 - vscode.dev
 - vsassets.io
@@ -346,6 +346,7 @@ domain_suffix_set:
 - visualstudio.net
 - visualstudio.eu
 - visualstudio.co
+- visualstudio.com
 - microsoft.by
 - forzamotorsport.net
 - forzaracingchampionship.com
@@ -463,7 +464,7 @@ domain_suffix_set:
 - office365love.com
 - office365tw.com
 - renovacionoffice.com
-- visualstudio.com
+- visualstudio-staging.com
 - githubhackathon.com
 - ghcr.io
 - githubnext.com
@@ -489,7 +490,7 @@ domain_suffix_set:
 - atom.io
 - npm.community
 - npmjs.com
-- visualstudio-staging.com
+- uwpcommunitytoolkit.com
 - adaptivecards.io
 - api-extractor.com
 - apisof.net
@@ -514,8 +515,8 @@ domain_suffix_set:
 - microsoftsilverlight.org
 - microsoftsilverlight.net
 - microsoftsqlserver.com
-- mmdnn.com
 - yammer.com
+- mono-project.com
 - msdn.com
 - msinnovationchallenge.com
 - mspairlift.com
@@ -528,10 +529,9 @@ domain_suffix_set:
 - sankie.net
 - sqlserveronlinux.com
 - timelinestoryteller.com
-- uwpcommunitytoolkit.com
 - spoprod-a.akamaihd.net
-- live.com.au
 - visualstudio.co.uk
+- live.com.au
 - skype-edf.akadns.net
 - skypedata.akadns.net
 - microsoftstore.com.hk

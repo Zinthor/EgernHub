@@ -5,6 +5,8 @@ domain_suffix_set:
 - xn--p1ai
 - yandex
 - psk
+- mycdn.me
+- mvk.com
 - userapi.com
 - vk-apps.com
 - vk-cdn.me
@@ -45,6 +47,7 @@ domain_suffix_set:
 - yandex.ee
 - yandex.eu
 - yandex.aero
+- yandex.kg
 - yandex.kz
 - yandex.lt
 - yandex.lv
@@ -53,10 +56,7 @@ domain_suffix_set:
 - yandex.jobs
 - yandex.st
 - yandex.sx
-- mycdn.me
 - emias.info
-- mvk.com
-- yandex.kg
 - yandex.com.tr
 - yandex.com.ua
 - yandex.com.ge

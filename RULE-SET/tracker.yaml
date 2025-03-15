@@ -10,7 +10,6 @@ domain_set:
 - bt.ktrackers.com
 - bt.okmp3.ru
 - bt.poletracker.org
-- bt.rer.lol
 - bt1.xxxxbt.cc
 - buny.uk
 - ch3oh.ru
@@ -29,7 +28,6 @@ domain_set:
 - ipv6.rer.lol
 - isk.richardsw.club
 - ismaarino.com
-- leet-tracker.moe
 - lucke.fenesisu.moe
 - martin-gebhardt.eu
 - ns-1.x-fins.com
@@ -61,13 +59,10 @@ domain_set:
 - threads.canofsocks.com
 - tk.greedland.net
 - torrent.hificode.in
-- torrent.i.ng
 - torrentsmd.com
-- tr.abir.ga
 - tr.burnabyhighstar.com
 - tr.nyacat.pw
 - tr.zukizuki.org
-- tr2.trkb.ru
 - tr4ck3r.duckdns.org
 - tracker-udp.gbitt.info
 - tracker.0x7c0.com
@@ -76,7 +71,6 @@ domain_set:
 - tracker.beeimg.com
 - tracker.bittor.pw
 - tracker.bjut.jp
-- tracker.breizh.pm
 - tracker.bt-hash.com
 - tracker.bt4g.com
 - tracker.bz
@@ -96,6 +90,7 @@ domain_set:
 - tracker.gigantino.net
 - tracker.gmi.gd
 - tracker.home.kmzs123.cn
+- tracker.iperson.xyz
 - tracker.ipv6tracker.org
 - tracker.ipv6tracker.ru
 - tracker.itscraftsoftware.my.id
@@ -109,6 +104,7 @@ domain_set:
 - tracker.moeking.me
 - tracker.moxing.party
 - tracker.mywaifu.best
+- tracker.netmap.top
 - tracker.nitrix.me
 - tracker.ololosh.space
 - tracker.opentrackr.org
