@@ -6925,6 +6925,7 @@ domain_suffix_set:
 - adashx.ut.amap.com
 - amap-aos-info-nogw.amap.com
 - v6-adashx.ut.amap.com
+- h-adashx.ut.amap.com
 - amarceusan.com
 - amarfa.ir
 - ablinks.info.amaro.com
@@ -77874,6 +77875,10 @@ domain_suffix_set:
 - wmedia-track.uc.cn
 - coral-task.uc.cn
 - applogios.uc.cn
+- applog-perf.uc.cn
+- adashx.ut.uc.cn
+- h-adashx.ut.uc.cn
+- s-adashx.ut.uc.cn
 - gm.uc003.com
 - uc123.com
 - 1.uc129.com
