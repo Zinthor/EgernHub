@@ -1,6 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- weui.io
 - battlecare.net
 - gameitop.com
 - gameloop.com
@@ -86,3 +85,4 @@ domain_suffix_set:
 - anticheatexpert.com
 - 17roco.com
 - roco.qq.com
+- weui.io
