@@ -13,6 +13,12 @@ domain_set:
 - log-sdk.gifshow.com
 - wlog.kuaishou.com
 domain_suffix_set:
+- click.hunantv.com
+- da.hunantv.com
+- da.mgtv.com
+- log.hunantv.com
+- log.v2.hunantv.com
+- res.hunantv.com
 - ads.service.kugou.com
 - adserviceretry.kglink.cn
 - adserviceretry.kugou.com
@@ -51,9 +57,3 @@ domain_suffix_set:
 - adukwai.com
 - e.kuaishou.cn
 - e.kuaishou.com
-- click.hunantv.com
-- da.hunantv.com
-- da.mgtv.com
-- log.hunantv.com
-- log.v2.hunantv.com
-- res.hunantv.com
