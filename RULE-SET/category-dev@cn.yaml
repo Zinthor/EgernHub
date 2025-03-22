@@ -3,6 +3,8 @@ domain_set:
 - firebase-settings.crashlytics.com
 - cdn.ampproject.org
 domain_suffix_set:
+- cdn.jetbrains.com
+- download-cdn.jetbrains.com.cn
 - microsoftreactor.cn
 - microsoftreactor.com.cn
 - reactorms.com.cn
@@ -10,5 +12,3 @@ domain_suffix_set:
 - researchkit.com.cn
 - swiftui.cn
 - swiftui.com.cn
-- cdn.jetbrains.com
-- download-cdn.jetbrains.com.cn
