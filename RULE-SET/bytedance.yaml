@@ -11,7 +11,6 @@ domain_set:
 - p7-juejin.byteimg.com
 - p8-juejin.byteimg.com
 - p9-juejin.byteimg.com
-- p16-tiktokcdn-com.akamaized.net
 - ads3-normal-hl.zijieapi.com
 - ads5-normal-hl.zijieapi.com
 - log3-applog-hl.fqnovel.com
@@ -21,6 +20,7 @@ domain_set:
 - p9-ad-sign.byteimg.com
 - rtlog3-applog-hl.fqnovel.com
 - rtlog5-applog-hl.fqnovel.com
+- p16-tiktokcdn-com.akamaized.net
 domain_suffix_set:
 - toutiaocloud.net
 - vecloudgame.com
