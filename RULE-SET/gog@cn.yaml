@@ -6,6 +6,8 @@ domain_set:
 - productcard.gog-statics.com
 - static-login.gog-statics.com
 - www4-static.gog-statics.com
+- gog-cdn-fastly.gog.com
+- gog-cdn.akamaized.net
 domain_regex_set:
 - ^cdn-akamai-.+\.gog-services\.com$
 - ^gog-cdn-.+\.footprint\.net$

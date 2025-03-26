@@ -1,3 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
+- baltamatica.cn
+- baltamatica.net
 - baltamatica.com
+- baltamatica.org.cn

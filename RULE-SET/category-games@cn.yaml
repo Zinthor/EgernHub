@@ -1,15 +1,20 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
+- uplaypc-s-ubisoft.cdn.ubi.com
 - gog.qtlglb.com
 - gogalaxy.gog-statics.com
 - menu-static.gog-statics.com
 - productcard.gog-statics.com
 - static-login.gog-statics.com
 - www4-static.gog-statics.com
+- gog-cdn-fastly.gog.com
+- gog-cdn.akamaized.net
 - xz.pphimalayanrt.com
-- uplaypc-s-ubisoft.cdn.ubi.com
 domain_suffix_set:
-- xboxlive.cn
+- kurogames.com
+- aki-game.com
+- bluearchive-cn.com
+- sl916.com
 - legendofzelda.cn
 - legendofzelda.com.cn
 - miitomo.com.cn
@@ -22,14 +27,13 @@ domain_suffix_set:
 - mariokart.cn
 - mariokart.com.cn
 - supermariobros.com.cn
+- xboxlive.cn
 - bilibiligame.cn
 - bilibiligame.co
 - bilibiligame.net
 - biligame.co
 - biligame.com
 - biligame.net
-- kurogames.com
-- aki-game.com
 - steamcontent.com
 - steamserver.net
 - steamusercontent.com
@@ -131,7 +135,8 @@ domain_suffix_set:
 - anticheatexpert.com
 - 17roco.com
 - roco.qq.com
-- sl916.com
+- leagueoflegends.cn
+- lpl.com.cn
 - mhystatic.com
 - mhyurl.cn
 - mihayo.com
@@ -147,9 +152,6 @@ domain_suffix_set:
 - themisweeps.com
 - yuanshen.com
 - juequling.com
-- leagueoflegends.cn
-- lpl.com.cn
-- bluearchive-cn.com
 domain_regex_set:
 - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 - ^epicgames-download\d-\d+\.file\.myqcloud\.com$

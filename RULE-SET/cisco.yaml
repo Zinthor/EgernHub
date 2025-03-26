@@ -5,7 +5,7 @@ domain_set:
 domain_suffix_set:
 - cisco
 - mcisco.com
-- app-dynamics.com
+- mindmeld.com
 - cciesecuritylabs.com
 - ccievoicelabs.com
 - ccna5.net
@@ -28,7 +28,7 @@ domain_suffix_set:
 - ciscolearningsystem.com
 - ciscolive.com
 - cisconetspace.com
-- cisconetspace.info
+- mediafiles-cisco.com
 - cisconetspace.net
 - cisconetapp.com
 - ciscopartnermarketing.com
@@ -39,7 +39,7 @@ domain_suffix_set:
 - ciscospark.ca
 - ciscospark.com
 - ciscospark.jp
-- ciscotaccc.com
+- metacloud.com
 - ciscotr.com
 - ciscoturk.net
 - ciscovideo.com
@@ -60,9 +60,9 @@ domain_suffix_set:
 - kscisco.com
 - m2m.com
 - academynetriders.com
-- obsrvbl.com
-- metacloud.com
-- mindmeld.com
+- cisconetspace.info
+- cciernslabs.com
+- ciscotaccc.com
 - multiplydiversity.com
 - myciscobenefits.com
 - mysdn.com
@@ -71,7 +71,7 @@ domain_suffix_set:
 - netacad.com
 - netacad.net
 - observable.net
-- mediafiles-cisco.com
+- obsrvbl.com
 - parstream.com
 - parstream.net
 - parstream.org
@@ -86,7 +86,7 @@ domain_suffix_set:
 - whyiwantciscotelepresence.com
 - wifi-mx.com
 - youtubecisco.com
-- cciernslabs.com
+- app-dynamics.com
 - webex.com
 - appdynamics.com
 - appdynamics.de
@@ -100,6 +100,8 @@ domain_suffix_set:
 - merakigo.com
 - tail-f.com
 - tailf.com
+- umbrella.com
+- opendns.com
 - webex.ca
 - webex.fr
 - webex.es

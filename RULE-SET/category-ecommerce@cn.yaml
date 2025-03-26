@@ -1,12 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- ikea.cn
-- ingka-dt.cn
-- ingka-internal.cn
-- ingka-system.cn
-- farfetch.cn
-- farfetch.com.cn
-- farfetch.net.cn
+- hm.com.cn
+- adidas.com.cn
 - miniso.cn
 - minisohome.cn
 - minsio.cn
@@ -30,12 +25,22 @@ domain_suffix_set:
 - nikerunclub.com.cn
 - nikerunning.com.cn
 - nikestore.cn
+- farfetch.cn
+- farfetch.com.cn
+- farfetch.net.cn
+- gucci.cn
+- shopee.cn
+- shopeesz.com
+- booking.cn
+- muji.com.cn
 - walmart.cn
 - bestbuy.cn
 - bestbuy.com.cn
 - magnoliaav.com.cn
-- adidas.com.cn
-- booking.cn
+- ikea.cn
+- ingka-dt.cn
+- ingka-internal.cn
+- ingka-system.cn
 - adcommerce.cn
 - appforebay.cn
 - connectcommerce.cn
@@ -73,8 +78,3 @@ domain_suffix_set:
 - kijijidns.com.cn
 - mobileinternational.com.cn
 - terapeak.cn
-- hm.com.cn
-- muji.com.cn
-- gucci.cn
-- shopee.cn
-- shopeesz.com
