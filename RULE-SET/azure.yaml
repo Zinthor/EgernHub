@@ -4,6 +4,7 @@ domain_set:
 - azuremarketplace.microsoft.com
 domain_suffix_set:
 - azure
+- aadrm.com
 - azure-devices-int.net
 - azure-devices.net
 - azure-mobile.net
@@ -44,10 +45,13 @@ domain_suffix_set:
 - gotcosmos.com
 - management-azure-devices-int.net
 - management-azure-devices.net
+- microsoftazuread-sso.com
 - microsoftazuresponsorships.com
 - microsofteca.com
 - microsoftiotcentral.com
 - msn.net
+- playfab.com
+- playfabapi.com
 - serverlesslibrary.net
 - trafficmanager.net
 - tryfunctions.com

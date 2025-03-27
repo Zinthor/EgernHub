@@ -1,4 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
 - eca.hinet.net
+- pki.hinet.net
+- publicca.hinet.net
+- tls.hinet.net
 - gtlsca.nat.gov.tw

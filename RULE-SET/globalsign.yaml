@@ -1,6 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
 - cdn.globalsigncdn.com.cdn.cloudflare.net
+- crl.globalsign.net
 domain_suffix_set:
 - globalsign.es
 - globalsign-media.com
