@@ -6,10 +6,8 @@ domain_set:
 - analytics.google.com
 - sentry.hetzner.company
 domain_suffix_set:
-- graph.instagram.com
-- graph-fallback.instagram.com
-- graph.whatsapp.com
-- graph.whatsapp.net
+- nelreports.net
+- snapads.com
 - 2mdn-cn.net
 - 2mdn.net
 - admob-cn.com
@@ -53,24 +51,26 @@ domain_suffix_set:
 - mail-ads.google.com
 - marketingplatform.google.com
 - urchin.com
+- graph.instagram.com
+- graph-fallback.instagram.com
+- graph.whatsapp.com
+- graph.whatsapp.net
 - ads-api.duolingo.com
 - metrics.duolingo.com
 - analytics.vpc.duolingo.com
-- nelreports.net
 - ads.yahoo.com
 - gemini.yahoo.com
 - ysm.yahoo.com
-- snapads.com
 - amazon-adsystem.com
 - serving-sys.com
-- api-adservices.apple.com
-- iadsdk.apple.com
-- iad.apple.com
-- qwapi.com
 - ads.yahoo.com
 - gemini.yahoo.com
 - ysm.yahoo.com
 - advertising.adobe.com
 - tubemogul.com
+- api-adservices.apple.com
+- iadsdk.apple.com
+- iad.apple.com
+- qwapi.com
 domain_regex_set:
 - ^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
