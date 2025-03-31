@@ -3,7 +3,6 @@ domain_set:
 - 0123456789nonexistent.com
 - 0d.kebhana.mx
 - 1337.abcvg.info
-- admin.52ywp.com
 - bandito.byterunner.io
 - bittorrent-tracker.e-n-c-r-y-p-t.net
 - bt.ktrackers.com
@@ -15,10 +14,13 @@ domain_set:
 - ch3oh.ru
 - concen.org
 - d40969.acod.regrucolo.ru
+- discord.heihachi.pw
 - ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 - evan.im
 - exodus.desync.com
+- explodie.org
 - finbytes.org
+- fosstorrents.com
 - ftp.pet
 - highteahop.top
 - home.yxgz.club
@@ -32,7 +34,7 @@ domain_set:
 - nyaa.tracker.wf
 - open.acgtracker.com
 - open.demonii.com
-- open.free-tracker.ga
+- open.dstud.io
 - open.stealth.si
 - open.tracker.ink
 - open.trackerlist.xyz
@@ -82,7 +84,7 @@ domain_set:
 - tracker.dler.com
 - tracker.dler.org
 - tracker.dmcomic.org
-- tracker.edkj.club
+- tracker.dump.cl
 - tracker.filemail.com
 - tracker.fnix.net
 - tracker.foreverpirates.co
@@ -90,6 +92,7 @@ domain_set:
 - tracker.ghostchu-services.top
 - tracker.gigantino.net
 - tracker.gmi.gd
+- tracker.guguan.dpdns.org
 - tracker.home.kmzs123.cn
 - tracker.iperson.xyz
 - tracker.ipv6tracker.org
@@ -105,6 +108,7 @@ domain_set:
 - tracker.lyretain.site
 - tracker.moxing.party
 - tracker.mywaifu.best
+- tracker.netmap.top
 - tracker.ololosh.space
 - tracker.opentrackr.org
 - tracker.openwebtorrent.com
@@ -116,6 +120,7 @@ domain_set:
 - tracker.theoks.net
 - tracker.tiny-vps.com
 - tracker.torrent.eu.org
+- tracker.torrust-demo.com
 - tracker.tryhackx.org
 - tracker.valete.tf
 - tracker.vanitycore.co
