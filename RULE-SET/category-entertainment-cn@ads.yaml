@@ -21,6 +21,12 @@ domain_suffix_set:
 - ads.service.kugou.com
 - adserviceretry.kglink.cn
 - adserviceretry.kugou.com
+- click.hunantv.com
+- da.hunantv.com
+- da.mgtv.com
+- log.hunantv.com
+- log.v2.hunantv.com
+- res.hunantv.com
 - a.ckm.iqiyi.com
 - ad.m.iqiyi.com
 - afp.iqiyi.com
@@ -38,12 +44,6 @@ domain_suffix_set:
 - msg2.video.qiyi.com
 - policy.video.iqiyi.com
 - yuedu.iqiyi.com
-- click.hunantv.com
-- da.hunantv.com
-- da.mgtv.com
-- log.hunantv.com
-- log.v2.hunantv.com
-- res.hunantv.com
 - api.game.letvstore.com
 - ark.letv.com
 - dc.letv.com
