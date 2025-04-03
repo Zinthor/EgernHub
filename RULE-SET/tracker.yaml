@@ -16,7 +16,6 @@ domain_set:
 - ch3oh.ru
 - concen.org
 - d40969.acod.regrucolo.ru
-- discord.heihachi.pw
 - ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 - evan.im
 - exodus.desync.com
@@ -28,8 +27,8 @@ domain_set:
 - home.yxgz.club
 - ipv4announce.sktorrent.eu
 - ipv6.rer.lol
+- isk.richardsw.club
 - ismaarino.com
-- leet-tracker.moe
 - lucke.fenesisu.moe
 - martin-gebhardt.eu
 - ns-1.x-fins.com
@@ -64,6 +63,7 @@ domain_set:
 - torrent.i.ng
 - torrentsmd.com
 - tr.abiir.top
+- tr.abir.ga
 - tr.burnabyhighstar.com
 - tr.nyacat.pw
 - tr.zukizuki.org
@@ -72,10 +72,10 @@ domain_set:
 - tracker-udp.gbitt.info
 - tracker.0x7c0.com
 - tracker.23794.top
+- tracker.aburaya.live
 - tracker.beeimg.com
 - tracker.bittor.pw
 - tracker.bjut.jp
-- tracker.breizh.pm
 - tracker.bt-hash.com
 - tracker.bt4g.com
 - tracker.bz
@@ -86,7 +86,7 @@ domain_set:
 - tracker.dler.com
 - tracker.dler.org
 - tracker.dmcomic.org
-- tracker.dump.cl
+- tracker.edkj.club
 - tracker.filemail.com
 - tracker.fnix.net
 - tracker.foreverpirates.co
@@ -119,9 +119,9 @@ domain_set:
 - tracker.renfei.net
 - tracker.sbsub.com
 - tracker.srv00.com
+- tracker.theoks.net
 - tracker.tiny-vps.com
 - tracker.torrent.eu.org
-- tracker.torrust-demo.com
 - tracker.tryhackx.org
 - tracker.valete.tf
 - tracker.vanitycore.co

@@ -29,6 +29,7 @@ domain_suffix_set:
 - watchanimeattheoffice.com
 - discordapp.io
 - discordcdn.com
+- freenode.net
 - linemobile.com
 - lineshoppingseller.com
 - line-apps-beta.com
@@ -104,7 +105,6 @@ domain_suffix_set:
 - clubhouse.com
 - clubhouseapi.com
 - joinclubhouse.com
-- freenode.net
 - intercom.com
 - intercom.io
 - intercomassets.com
