@@ -1,7 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- chdbits.xyz
-- lemonhd.club
+- chdbits.co
+- lemonhd.org
 - beyond-hd.me
 - bibliotik.me
 - blutopia.cc
@@ -19,13 +19,14 @@ domain_suffix_set:
 - hdfans.org
 - hdtime.org
 - hhanclub.top
-- privatehd.to
+- hddolby.com
 - hdpt.xyz
 - iptorrents.com
 - jpopsuki.eu
 - jptv.club
-- lemonhd.org
 - totheglory.im
+- lemonhd.club
+- lemonhd.net
 - ilovelemonhd.me
 - pttime.org
 - pttime.top
@@ -37,14 +38,14 @@ domain_suffix_set:
 - nicept.net
 - hdmayi.com
 - carpt.net
-- hdvideo.one
+- springsunday.net
 - pterclub.com
 - morethantv.me
 - open.cd
 - passthepopcorn.me
-- hddolby.com
+- privatehd.to
+- hdvideo.one
 - avistaz.to
-- springsunday.net
 - ourbits.club
 - npupt.com
 - nanyangpt.com
@@ -65,8 +66,8 @@ domain_suffix_set:
 - byr.pt
 - tju.pt
 - tjupt.org
-- chdbits.co
 - audiences.me
+- chdbits.xyz
 - ptchdbits.co
 - chddiy.xyz
 - rainbowisland.co
@@ -80,8 +81,8 @@ domain_suffix_set:
 - share.ilolicon.com
 - neu6.edu.cn
 - pt.soulvoice.club
-- pt.hd4fans.org
 - pt.0ff.cc
+- pt.hd4fans.org
 - pt.btschool.club
 - hudbt.hust.edu.cn
 - pt.xauat.edu.cn

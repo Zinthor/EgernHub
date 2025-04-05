@@ -1,19 +1,18 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
+- alibaba.cdn.steampipe.steamcontent.com
+- lv.queniujq.cn
 - xz.pphimalayanrt.com
 domain_suffix_set:
-- steamcontent.com
 - steamserver.net
 - steamusercontent.com
 - csgo.wmsj.cn
 - dota2.wmsj.cn
 - wmsjsteam.com
 - dl.steam.clngaa.com
-- dl.steam.ksyna.com
 - st.dl.bscstorage.net
 - st.dl.eccdnx.com
 - st.dl.pinyuncloud.com
-- steampipe.steamcontent.tnkjmec.com
 - steampowered.com.8686c.com
 - steamstatic.com.8686c.com
 - steamchina.com
