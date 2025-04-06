@@ -5,11 +5,9 @@ domain_set:
 - 1337.abcvg.info
 - 4.tracker.devnak.win
 - 6.tracker.devnak.win
-- admin.52ywp.com
 - bandito.byterunner.io
 - bittorrent-tracker.e-n-c-r-y-p-t.net
 - bt.ktrackers.com
-- bt.okmp3.ru
 - bt.poletracker.org
 - bt.rer.lol
 - bt1.xxxxbt.cc
@@ -17,14 +15,12 @@ domain_set:
 - ch3oh.ru
 - concen.org
 - d40969.acod.regrucolo.ru
-- discord.heihachi.pw
 - ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 - evan.im
 - exodus.desync.com
 - explodie.org
 - finbytes.org
 - fosstorrents.com
-- ftp.pet
 - highteahop.top
 - home.yxgz.club
 - ipv4.rer.lol
@@ -32,9 +28,11 @@ domain_set:
 - ipv6.rer.lol
 - isk.richardsw.club
 - ismaarino.com
+- leet-tracker.moe
 - lucke.fenesisu.moe
 - martin-gebhardt.eu
 - new-line.net
+- ns-1.x-fins.com
 - nyaa.tracker.wf
 - open.acgtracker.com
 - open.demonii.com
@@ -46,7 +44,6 @@ domain_set:
 - opentracker.io
 - p2p.publictracker.xyz
 - p4p.arenabg.com
-- public.tracker.vraphim.com
 - retracker.hotplug.ru
 - retracker.lanta.me
 - retracker.spark-rostov.ru
@@ -64,13 +61,13 @@ domain_set:
 - torrent.i.ng
 - torrentsmd.com
 - tr.abiir.top
+- tr.abir.ga
 - tr.burnabyhighstar.com
 - tr.nyacat.pw
 - tr.zukizuki.org
 - tr3.ysagin.top
 - tr4ck3r.duckdns.org
 - tracker-udp.gbitt.info
-- tracker-v6.opendev.cloud
 - tracker.0x7c0.com
 - tracker.23794.top
 - tracker.aburaya.live
@@ -87,6 +84,7 @@ domain_set:
 - tracker.dler.com
 - tracker.dler.org
 - tracker.dmcomic.org
+- tracker.edkj.club
 - tracker.filemail.com
 - tracker.fnix.net
 - tracker.foreverpirates.co
@@ -95,6 +93,7 @@ domain_set:
 - tracker.gigantino.net
 - tracker.gmi.gd
 - tracker.home.kmzs123.cn
+- tracker.iperson.xyz
 - tracker.ipv6tracker.org
 - tracker.ipv6tracker.ru
 - tracker.jdx3.org
@@ -109,6 +108,8 @@ domain_set:
 - tracker.moxing.party
 - tracker.mywaifu.best
 - tracker.netmap.top
+- tracker.nitrix.me
+- tracker.ololosh.space
 - tracker.opentrackr.org
 - tracker.openwebtorrent.com
 - tracker.pmman.tech
@@ -131,7 +132,6 @@ domain_set:
 - tracker.zhuqiy.top
 - tracker1.520.jp
 - tracker1.itzmx.com
-- tracker1.myporn.club
 - tracker2.dler.org
 - tracker2.itzmx.com
 - tracker3.itzmx.com
