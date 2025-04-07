@@ -1,5 +1,9 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
+- alibaba.cdn.steampipe.steamcontent.com
+- lv.queniujq.cn
+- xz.pphimalayanrt.com
+- uplaypc-s-ubisoft.cdn.ubi.com
 - gog.qtlglb.com
 - gogalaxy.gog-statics.com
 - menu-static.gog-statics.com
@@ -8,20 +12,22 @@ domain_set:
 - www4-static.gog-statics.com
 - gog-cdn-fastly.gog.com
 - gog-cdn.akamaized.net
-- alibaba.cdn.steampipe.steamcontent.com
-- lv.queniujq.cn
-- xz.pphimalayanrt.com
-- uplaypc-s-ubisoft.cdn.ubi.com
 domain_suffix_set:
-- leagueoflegends.cn
-- lpl.com.cn
-- bilibiligame.cn
-- bilibiligame.co
-- bilibiligame.net
-- biligame.co
-- biligame.com
-- biligame.net
-- sl916.com
+- steamserver.net
+- steamusercontent.com
+- csgo.wmsj.cn
+- dota2.wmsj.cn
+- wmsjsteam.com
+- dl.steam.clngaa.com
+- st.dl.bscstorage.net
+- st.dl.eccdnx.com
+- st.dl.pinyuncloud.com
+- steampowered.com.8686c.com
+- steamstatic.com.8686c.com
+- steamchina.com
+- gstore.val.manlaxy.com
+- kurogames.com
+- aki-game.com
 - mhystatic.com
 - mhyurl.cn
 - mihayo.com
@@ -37,19 +43,6 @@ domain_suffix_set:
 - themisweeps.com
 - yuanshen.com
 - juequling.com
-- steamserver.net
-- steamusercontent.com
-- csgo.wmsj.cn
-- dota2.wmsj.cn
-- wmsjsteam.com
-- dl.steam.clngaa.com
-- st.dl.bscstorage.net
-- st.dl.eccdnx.com
-- st.dl.pinyuncloud.com
-- steampowered.com.8686c.com
-- steamstatic.com.8686c.com
-- steamchina.com
-- gstore.val.manlaxy.com
 - xboxlive.cn
 - legendofzelda.cn
 - legendofzelda.com.cn
@@ -63,9 +56,6 @@ domain_suffix_set:
 - mariokart.cn
 - mariokart.com.cn
 - supermariobros.com.cn
-- bluearchive-cn.com
-- kurogames.com
-- aki-game.com
 - battlecare.net
 - gameitop.com
 - gameloop.com
@@ -151,10 +141,20 @@ domain_suffix_set:
 - anticheatexpert.com
 - 17roco.com
 - roco.qq.com
+- leagueoflegends.cn
+- lpl.com.cn
+- sl916.com
+- bilibiligame.cn
+- bilibiligame.co
+- bilibiligame.net
+- biligame.co
+- biligame.com
+- biligame.net
+- bluearchive-cn.com
 domain_regex_set:
 - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 - ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+- ^.+-mihayo\.akamaized\.net$
 - ^cdn-akamai-.+\.gog-services\.com$
 - ^gog-cdn-.+\.footprint\.net$
 - ^images(-\d)?\.gog-statics\.com$
-- ^.+-mihayo\.akamaized\.net$

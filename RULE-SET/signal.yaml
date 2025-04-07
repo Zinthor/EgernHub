@@ -1,6 +1,10 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
 - signal.art
+- signal.group
+- signal.link
+- signal.me
+- signal.tube
 - signal.org
 - signalusers.org
 - whispersystems.org
