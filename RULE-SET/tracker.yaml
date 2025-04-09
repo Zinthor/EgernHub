@@ -9,6 +9,7 @@ domain_set:
 - bandito.byterunner.io
 - bittorrent-tracker.e-n-c-r-y-p-t.net
 - bt.ktrackers.com
+- bt.okmp3.ru
 - bt.poletracker.org
 - bt.rer.lol
 - bt1.xxxxbt.cc
@@ -16,6 +17,7 @@ domain_set:
 - ch3oh.ru
 - concen.org
 - d40969.acod.regrucolo.ru
+- discord.heihachi.pw
 - ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 - evan.im
 - exodus.desync.com
@@ -26,6 +28,7 @@ domain_set:
 - ipv4.rer.lol
 - ipv4announce.sktorrent.eu
 - ipv6.rer.lol
+- isk.richardsw.club
 - ismaarino.com
 - lucke.fenesisu.moe
 - martin-gebhardt.eu
@@ -35,6 +38,7 @@ domain_set:
 - open.acgtracker.com
 - open.demonii.com
 - open.dstud.io
+- open.free-tracker.ga
 - open.stealth.si
 - open.tracker.ink
 - open.trackerlist.xyz
@@ -57,12 +61,14 @@ domain_set:
 - taciturn-shadow.spb.ru
 - thouvenin.cloud
 - tk.greedland.net
+- torrent.hificode.in
 - torrent.i.ng
 - torrentsmd.com
 - tr.abiir.top
 - tr.abir.ga
 - tr.nyacat.pw
 - tr.zukizuki.org
+- tr3.ysagin.top
 - tr4ck3r.duckdns.org
 - tracker-udp.gbitt.info
 - tracker.0x7c0.com
@@ -86,11 +92,12 @@ domain_set:
 - tracker.filemail.com
 - tracker.fnix.net
 - tracker.foreverpirates.co
+- tracker.gbitt.info
 - tracker.gcrenwp.top
 - tracker.ghostchu-services.top
 - tracker.gigantino.net
 - tracker.gmi.gd
-- tracker.iperson.xyz
+- tracker.home.kmzs123.cn
 - tracker.ipv6tracker.org
 - tracker.ipv6tracker.ru
 - tracker.jdx3.org
@@ -107,7 +114,6 @@ domain_set:
 - tracker.netmap.top
 - tracker.nitrix.me
 - tracker.ololosh.space
-- tracker.opendev.cloud
 - tracker.opentrackr.org
 - tracker.openwebtorrent.com
 - tracker.pmman.tech
@@ -117,9 +123,9 @@ domain_set:
 - tracker.sbsub.com
 - tracker.skyts.net
 - tracker.srv00.com
+- tracker.theoks.net
 - tracker.tiny-vps.com
 - tracker.torrent.eu.org
-- tracker.torrust-demo.com
 - tracker.tryhackx.org
 - tracker.valete.tf
 - tracker.vanitycore.co
@@ -137,7 +143,6 @@ domain_set:
 - tracker810.xyz
 - ttk2.nbaonlineservice.com
 - udp.tracker.projectk.org
-- utracker.ghostchu-services.top
 - wepzone.net
 - www.all4nothin.net
 - www.genesis-sp.org
