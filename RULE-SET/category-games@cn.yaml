@@ -1,8 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
-- alibaba.cdn.steampipe.steamcontent.com
-- lv.queniujq.cn
-- xz.pphimalayanrt.com
+- uplaypc-s-ubisoft.cdn.ubi.com
 - gog.qtlglb.com
 - gogalaxy.gog-statics.com
 - menu-static.gog-statics.com
@@ -11,8 +9,21 @@ domain_set:
 - www4-static.gog-statics.com
 - gog-cdn-fastly.gog.com
 - gog-cdn.akamaized.net
-- uplaypc-s-ubisoft.cdn.ubi.com
+- alibaba.cdn.steampipe.steamcontent.com
+- lv.queniujq.cn
+- xz.pphimalayanrt.com
 domain_suffix_set:
+- bilibiligame.cn
+- bilibiligame.co
+- bilibiligame.net
+- biligame.co
+- biligame.com
+- biligame.net
+- bluearchive-cn.com
+- leagueoflegends.cn
+- lpl.com.cn
+- kurogames.com
+- aki-game.com
 - mhystatic.com
 - mhyurl.cn
 - mihayo.com
@@ -28,6 +39,8 @@ domain_suffix_set:
 - themisweeps.com
 - yuanshen.com
 - juequling.com
+- xboxlive.cn
+- sl916.com
 - steamserver.net
 - steamusercontent.com
 - csgo.wmsj.cn
@@ -41,14 +54,6 @@ domain_suffix_set:
 - steamstatic.com.8686c.com
 - steamchina.com
 - gstore.val.manlaxy.com
-- sl916.com
-- xboxlive.cn
-- bilibiligame.cn
-- bilibiligame.co
-- bilibiligame.net
-- biligame.co
-- biligame.com
-- biligame.net
 - legendofzelda.cn
 - legendofzelda.com.cn
 - miitomo.com.cn
@@ -61,11 +66,6 @@ domain_suffix_set:
 - mariokart.cn
 - mariokart.com.cn
 - supermariobros.com.cn
-- kurogames.com
-- aki-game.com
-- bluearchive-cn.com
-- leagueoflegends.cn
-- lpl.com.cn
 - battlecare.net
 - gameitop.com
 - gameloop.com
@@ -152,9 +152,9 @@ domain_suffix_set:
 - 17roco.com
 - roco.qq.com
 domain_regex_set:
+- ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+- ^epicgames-download\d-\d+\.file\.myqcloud\.com$
 - ^.+-mihayo\.akamaized\.net$
 - ^cdn-akamai-.+\.gog-services\.com$
 - ^gog-cdn-.+\.footprint\.net$
 - ^images(-\d)?\.gog-statics\.com$
-- ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-- ^epicgames-download\d-\d+\.file\.myqcloud\.com$
