@@ -5,6 +5,7 @@ domain_set:
 - licdn.cn.cdn20.com
 - linkedin.sc.omtrdc.net
 domain_suffix_set:
+- threads.net
 - twtrdns.net
 - twvid.com
 - periscope.tv
@@ -553,7 +554,6 @@ domain_suffix_set:
 - misskey.design
 - misskey.flowers
 - 9ineverse.com
-- threads.net
 - l-0005.dc-msedge.net
 - l-0005.l-msedge.net
 - misskey.gamelore.fun
