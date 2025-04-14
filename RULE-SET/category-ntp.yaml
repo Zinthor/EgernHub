@@ -2,6 +2,7 @@
 domain_set:
 - time.apple.com
 - time.euro.apple.com
+- time.aws.com
 - time.facebook.com
 - time1.facebook.com
 - time2.facebook.com
@@ -54,6 +55,7 @@ domain_set:
 - ntp5.aliyun.com
 - ntp6.aliyun.com
 - ntp7.aliyun.com
+- time.amazonaws.cn
 - time.izatcloud.net
 - time.xtracloud.net
 - ntp.tencent.com

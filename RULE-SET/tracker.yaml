@@ -12,6 +12,7 @@ domain_set:
 - bt1.xxxxbt.cc
 - buny.uk
 - ch3oh.ru
+- chihaya.de
 - concen.org
 - d40969.acod.regrucolo.ru
 - ec2-18-191-163-220.us-east-2.compute.amazonaws.com
@@ -29,13 +30,11 @@ domain_set:
 - leet-tracker.moe
 - lucke.fenesisu.moe
 - martin-gebhardt.eu
-- ns-1.x-fins.com
 - ns3109441.mypdns.org
 - nyaa.tracker.wf
 - open.acgtracker.com
 - open.demonii.com
 - open.dstud.io
-- open.free-tracker.ga
 - open.stealth.si
 - open.trackerlist.xyz
 - opentor.org
@@ -59,9 +58,9 @@ domain_set:
 - tk.greedland.net
 - torrentsmd.com
 - tr.abiir.top
+- tr.abir.ga
 - tr.nyacat.pw
 - tr.zukizuki.org
-- tr3.ysagin.top
 - tr4ck3r.duckdns.org
 - tracker-udp.gbitt.info
 - tracker.0x7c0.com
@@ -70,7 +69,6 @@ domain_set:
 - tracker.beeimg.com
 - tracker.bittor.pw
 - tracker.bjut.jp
-- tracker.breizh.pm
 - tracker.bt-hash.com
 - tracker.bt4g.com
 - tracker.bz
@@ -81,7 +79,6 @@ domain_set:
 - tracker.dler.com
 - tracker.dler.org
 - tracker.dmcomic.org
-- tracker.dump.cl
 - tracker.expli.top
 - tracker.filemail.com
 - tracker.fnix.net
@@ -90,6 +87,7 @@ domain_set:
 - tracker.ghostchu-services.top
 - tracker.gigantino.net
 - tracker.gmi.gd
+- tracker.home.kmzs123.cn
 - tracker.iperson.xyz
 - tracker.ipv6tracker.org
 - tracker.ipv6tracker.ru
@@ -105,8 +103,8 @@ domain_set:
 - tracker.moeblog.cn
 - tracker.moxing.party
 - tracker.mywaifu.best
-- tracker.netmap.top
 - tracker.nitrix.me
+- tracker.ololosh.space
 - tracker.opentrackr.org
 - tracker.openwebtorrent.com
 - tracker.pmman.tech
@@ -138,7 +136,6 @@ domain_set:
 - tracker810.xyz
 - ttk2.nbaonlineservice.com
 - udp.tracker.projectk.org
-- utracker.ghostchu-services.top
 - wepzone.net
 - www.all4nothin.net
 - www.genesis-sp.org

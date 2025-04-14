@@ -1,9 +1,9 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
-- uplaypc-s-ubisoft.cdn.ubi.com
 - alibaba.cdn.steampipe.steamcontent.com
 - lv.queniujq.cn
 - xz.pphimalayanrt.com
+- uplaypc-s-ubisoft.cdn.ubi.com
 - gog.qtlglb.com
 - gogalaxy.gog-statics.com
 - menu-static.gog-statics.com
@@ -13,7 +13,6 @@ domain_set:
 - gog-cdn-fastly.gog.com
 - gog-cdn.akamaized.net
 domain_suffix_set:
-- ggpht.cn
 - mhystatic.com
 - mhyurl.cn
 - mihayo.com
@@ -29,11 +28,6 @@ domain_suffix_set:
 - themisweeps.com
 - yuanshen.com
 - juequling.com
-- amazonprimevideo.cn
-- amazonprimevideo.com.cn
-- kurogames.com
-- aki-game.com
-- sl916.com
 - steamserver.net
 - steamusercontent.com
 - csgo.wmsj.cn
@@ -47,6 +41,13 @@ domain_suffix_set:
 - steamstatic.com.8686c.com
 - steamchina.com
 - gstore.val.manlaxy.com
+- bilibiligame.cn
+- bilibiligame.co
+- bilibiligame.net
+- biligame.co
+- biligame.com
+- biligame.net
+- bluearchive-cn.com
 - mhystatic.com
 - mhyurl.cn
 - mihayo.com
@@ -74,15 +75,10 @@ domain_suffix_set:
 - mariokart.cn
 - mariokart.com.cn
 - supermariobros.com.cn
-- bilibiligame.cn
-- bilibiligame.co
-- bilibiligame.net
-- biligame.co
-- biligame.com
-- biligame.net
-- bluearchive-cn.com
+- xboxlive.cn
 - leagueoflegends.cn
 - lpl.com.cn
+- sl916.com
 - battlecare.net
 - gameitop.com
 - gameloop.com
@@ -168,12 +164,16 @@ domain_suffix_set:
 - anticheatexpert.com
 - 17roco.com
 - roco.qq.com
-- xboxlive.cn
+- kurogames.com
+- aki-game.com
+- amazonprimevideo.cn
+- amazonprimevideo.com.cn
+- ggpht.cn
 domain_regex_set:
 - ^.+-mihayo\.akamaized\.net$
+- ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+- ^epicgames-download\d-\d+\.file\.myqcloud\.com$
 - ^cdn-akamai-.+\.gog-services\.com$
 - ^gog-cdn-.+\.footprint\.net$
 - ^images(-\d)?\.gog-statics\.com$
 - ^.+-mihayo\.akamaized\.net$
-- ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-- ^epicgames-download\d-\d+\.file\.myqcloud\.com$
