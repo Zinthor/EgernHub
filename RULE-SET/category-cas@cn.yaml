@@ -21,16 +21,16 @@ domain_set:
 - ocsp2.apple.com
 - valid.apple.com
 domain_suffix_set:
-- yahoo.cn
-- yahoo.com.cn
-- dcocsp.cn
-- digicert.cn
+- sslcom.cn
 - alphassl.com
 - easy-signing.com
 - globalsign.cn
 - globalsign.com
 - globalsigncdn.com
-- sslcom.cn
+- yahoo.cn
+- yahoo.com.cn
+- dcocsp.cn
+- digicert.cn
 - oemssl.cn
 - oemssl.cn.cdn.cloudflare.net
 - sectigochina.com

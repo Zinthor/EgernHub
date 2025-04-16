@@ -1,6 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- bochk.com
 - ccbintl.com.hk
 - ccbseoul.com
 - citics.com.hk
@@ -53,3 +52,4 @@ domain_suffix_set:
 - icbcthai.com
 - icbkfs.com
 - icbkus.com
+- bochk.com
