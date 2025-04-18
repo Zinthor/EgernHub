@@ -189,7 +189,6 @@ domain_set:
 - uberproxy-with-cn4.l.google.com
 - uberproxy-with-cn6.l.google.com
 - qiao-cn.com
-- firebase-settings.crashlytics.com
 - redirector.c.play.google.com
 - pki-goog.l.google.com
 - c.pki.goog
@@ -198,6 +197,7 @@ domain_set:
 - crl.pki.goog
 - crls.pki.goog
 - ocsp.pki.goog
+- firebase-settings.crashlytics.com
 domain_suffix_set:
 - google.cn
 - g.cn

@@ -314,11 +314,6 @@ domain_suffix_set:
 - beatsbydre.com
 - beatsbydre.com.cn
 - beatsep.cn
-- apple-itunes.cn
-- itunes-apple.cn
-- itunesapple.cn
-- itunesradio.cn
-- itunesradio.com.cn
 - swiftui.cn
 - swiftui.com.cn
 - apple-icloud.cn
@@ -327,3 +322,8 @@ domain_suffix_set:
 - icloud.com.cn
 - icloud.net.cn
 - icloudapple.cn
+- apple-itunes.cn
+- itunes-apple.cn
+- itunesapple.cn
+- itunesradio.cn
+- itunesradio.com.cn

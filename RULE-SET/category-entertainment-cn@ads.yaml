@@ -30,11 +30,6 @@ domain_suffix_set:
 - msg2.video.qiyi.com
 - policy.video.iqiyi.com
 - yuedu.iqiyi.com
-- adbkwai.com
-- adkwai.com
-- adukwai.com
-- e.kuaishou.cn
-- e.kuaishou.com
 - click.hunantv.com
 - da.hunantv.com
 - da.mgtv.com
@@ -57,3 +52,8 @@ domain_suffix_set:
 - pro.letv.com
 - stat.letv.com
 - static.app.m.letv.com
+- adbkwai.com
+- adkwai.com
+- adukwai.com
+- e.kuaishou.cn
+- e.kuaishou.com
