@@ -1,5 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
+- apilog-web.acfun.cn
 - ads3-normal-hl.zijieapi.com
 - ads5-normal-hl.zijieapi.com
 - log3-applog-hl.fqnovel.com
@@ -11,7 +12,6 @@ domain_set:
 - rtlog5-applog-hl.fqnovel.com
 - log-sdk.gifshow.com
 - wlog.kuaishou.com
-- apilog-web.acfun.cn
 domain_suffix_set:
 - a.ckm.iqiyi.com
 - ad.m.iqiyi.com
@@ -30,15 +30,15 @@ domain_suffix_set:
 - msg2.video.qiyi.com
 - policy.video.iqiyi.com
 - yuedu.iqiyi.com
+- ads.service.kugou.com
+- adserviceretry.kglink.cn
+- adserviceretry.kugou.com
 - click.hunantv.com
 - da.hunantv.com
 - da.mgtv.com
 - log.hunantv.com
 - log.v2.hunantv.com
 - res.hunantv.com
-- ads.service.kugou.com
-- adserviceretry.kglink.cn
-- adserviceretry.kugou.com
 - api.game.letvstore.com
 - ark.letv.com
 - dc.letv.com

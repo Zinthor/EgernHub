@@ -2,5 +2,10 @@
 domain_set:
 - apilog-web.acfun.cn
 domain_suffix_set:
+- ac.fun
 - acfun.cn
+- acfun.net
+- acfunchina.cn
+- acfunchina.com
+- acfunchina.net
 - aixifan.com

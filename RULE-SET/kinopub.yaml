@@ -1,0 +1,8 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- kino.pub
+- kinopub.online
+- gfw.ovh
+- mos-gorsud.co
+domain_regex_set:
+- (\w+)-static-[0-9]+\.cdntogo\.net$
