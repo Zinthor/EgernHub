@@ -1,6 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- pwnedpasswords.com
+- epicbrowser.com
 - proxifier.com
 - browserleaks.com
 - bypasscensorship.org
@@ -11,7 +11,7 @@ domain_suffix_set:
 - ffprofile.com
 - freenetproject.org
 - fteproxy.org
-- lantern.io
+- pwnedpasswords.com
 - getoutline.org
 - gfw.report
 - guardianproject.info
@@ -23,7 +23,7 @@ domain_suffix_set:
 - ooni.org
 - openvpn.net
 - privacytools.io
-- getlantern.org
+- haveibeenpwned.com
 - psiphon.ca
 - psiphon3.com
 - sagernet.org
@@ -42,16 +42,15 @@ domain_suffix_set:
 - wireguard.com
 - zeronet.io
 - censorship.no
-- epicbrowser.com
-- haveibeenpwned.com
+- citizenlab.ca
+- citizenlab.org
 - censorship.ai
 - akasha.world
 - geti2p.net
+- getlantern.org
+- lantern.io
 - softether.org
 - softether-download.com
-- opengw.net
-- vpngate.jp
-- vpngate.net
 - ipns.co
 - ipfs.tech
 - cloudflare-ipfs.com
@@ -67,19 +66,20 @@ domain_suffix_set:
 - dweb.link
 - applecensorship.com
 - freebrowser.org
-- citizenlab.org
-- citizenlab.ca
+- vpngate.net
+- vpngate.jp
+- opengw.net
 - v2fly.org
 - v2ray.cool
 - v2ray.com
 - torproject.org
 - paskoocheh.com
-- wikiunblocked.org
 - freewechat.com
 - freeweibo.com
 - freezhihu.org
 - greatfire.org
 - pao-pao.net
+- wikiunblocked.org
 - ipfs.lain.la
 - ipfs.best-practice.se
 - ipfs.eternum.io
