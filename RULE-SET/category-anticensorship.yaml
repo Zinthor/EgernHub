@@ -1,6 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- cf-ipfs.com
+- vpngate.net
 - proxifier.com
 - browserleaks.com
 - bypasscensorship.org
@@ -11,7 +11,7 @@ domain_suffix_set:
 - ffprofile.com
 - freenetproject.org
 - fteproxy.org
-- ipfs-gateway.cloud
+- ipfs.tech
 - getoutline.org
 - gfw.report
 - guardianproject.info
@@ -23,7 +23,7 @@ domain_suffix_set:
 - ooni.org
 - openvpn.net
 - privacytools.io
-- ipfs.io
+- ipns.co
 - psiphon.ca
 - psiphon3.com
 - sagernet.org
@@ -41,12 +41,16 @@ domain_suffix_set:
 - wikileaks.org
 - wireguard.com
 - zeronet.io
-- ipns.co
-- ipfs.tech
-- cloudflare-ipfs.com
+- paskoocheh.com
+- opengw.net
+- vpngate.jp
 - censorship.ai
 - akasha.world
 - geti2p.net
+- cloudflare-ipfs.com
+- cf-ipfs.com
+- ipfs.io
+- ipfs-gateway.cloud
 - c4rex.co
 - via0.com
 - nftstorage.link
@@ -54,20 +58,17 @@ domain_suffix_set:
 - crustwebsites.net
 - 4everland.io
 - dweb.link
-- censorship.no
+- haveibeenpwned.com
+- pwnedpasswords.com
+- citizenlab.org
 - citizenlab.ca
-- vpngate.net
-- vpngate.jp
-- opengw.net
+- censorship.no
 - v2fly.org
 - v2ray.cool
 - v2ray.com
 - torproject.org
 - softether-download.com
-- citizenlab.org
 - epicbrowser.com
-- getlantern.org
-- lantern.io
 - applecensorship.com
 - freebrowser.org
 - freewechat.com
@@ -76,9 +77,8 @@ domain_suffix_set:
 - greatfire.org
 - pao-pao.net
 - wikiunblocked.org
-- haveibeenpwned.com
-- pwnedpasswords.com
-- paskoocheh.com
+- getlantern.org
+- lantern.io
 - softether.org
 - ipfs.lain.la
 - ipfs.best-practice.se
