@@ -1,6 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
-- csis-prod.s3.amazonaws.com
 - a.ppy.sh
 - assets.ppy.sh
 - c.ppy.sh
@@ -10,6 +9,7 @@ domain_set:
 - notify.ppy.sh
 - sentry.ppy.sh
 - spectator.ppy.sh
+- csis-prod.s3.amazonaws.com
 domain_suffix_set:
 - aomedia.org
 - atypi.org
@@ -29,6 +29,22 @@ domain_suffix_set:
 - f-droid.com
 - f-droid.org
 - fdroid.org
+- nist.gov
+- time.gov
+- ppy.sh
+- rolfoundation.org
+- rolsociety.org
+- archive-it.org
+- archive.org
+- archive.ph
+- archive.today
+- openlibrary.org
+- 4pcdn.org
+- 4plebs.org
+- ccstatic.org
+- creativecommons.org
+- creativecommons.engineering
+- licensebuttons.net
 - ieee.org
 - ieee.tv
 - tryengineering.org
@@ -83,17 +99,6 @@ domain_suffix_set:
 - signalprocessingsociety.org
 - technologyandsociety.org
 - vtsociety.org
-- nist.gov
-- time.gov
-- emojipedia.org
-- worldemojiawards.com
-- worldemojiday.com
-- xn--yt8h.la
-- ccstatic.org
-- creativecommons.org
-- creativecommons.engineering
-- licensebuttons.net
-- csis.org
 - acousticbrainz.org
 - bookbrainz.org
 - coverartarchive.org
@@ -112,13 +117,8 @@ domain_suffix_set:
 - stateofthemap.com
 - stateofthemap.org
 - paskoocheh.com
-- ppy.sh
-- rolfoundation.org
-- rolsociety.org
-- archive-it.org
-- archive.org
-- archive.ph
-- archive.today
-- openlibrary.org
-- 4pcdn.org
-- 4plebs.org
+- csis.org
+- emojipedia.org
+- worldemojiawards.com
+- worldemojiday.com
+- xn--yt8h.la
