@@ -6,7 +6,6 @@ domain_set:
 - bandito.byterunner.io
 - bittorrent-tracker.e-n-c-r-y-p-t.net
 - bt.ktrackers.com
-- bt.okmp3.ru
 - bt.poletracker.org
 - bt.rer.lol
 - bt1.xxxxbt.cc
@@ -23,9 +22,7 @@ domain_set:
 - ipv4.rer.lol
 - ipv4announce.sktorrent.eu
 - ipv6.rer.lol
-- isk.richardsw.club
 - ismaarino.com
-- leet-tracker.moe
 - lucke.fenesisu.moe
 - martin-gebhardt.eu
 - ns3109441.mypdns.org
@@ -57,8 +54,10 @@ domain_set:
 - torrent.i.ng
 - torrentsmd.com
 - tr.abiir.top
+- tr.abir.ga
 - tr.nyacat.pw
 - tr.zukizuki.org
+- tr3.ysagin.top
 - tr4ck3r.duckdns.org
 - trackarr.org
 - tracker-udp.gbitt.info
@@ -75,7 +74,6 @@ domain_set:
 - tracker.corpscorp.online
 - tracker.cyberia.is
 - tracker.darkness.services
-- tracker.ddunlimited.net
 - tracker.deadorbit.nl
 - tracker.dler.com
 - tracker.dler.org
@@ -90,6 +88,7 @@ domain_set:
 - tracker.ghostchu-services.top
 - tracker.gigantino.net
 - tracker.gmi.gd
+- tracker.iperson.xyz
 - tracker.ipv6tracker.org
 - tracker.ipv6tracker.ru
 - tracker.itscraftsoftware.my.id
@@ -107,7 +106,6 @@ domain_set:
 - tracker.netmap.top
 - tracker.opentrackr.org
 - tracker.openwebtorrent.com
-- tracker.privateseedbox.xyz
 - tracker.qu.ax
 - tracker.renfei.net
 - tracker.sbsub.com
@@ -118,7 +116,6 @@ domain_set:
 - tracker.torrent.eu.org
 - tracker.torrust-demo.com
 - tracker.trackarr.org
-- tracker.tritan.gg
 - tracker.tryhackx.org
 - tracker.valete.tf
 - tracker.vanitycore.co
@@ -129,6 +126,7 @@ domain_set:
 - tracker.zhuqiy.top
 - tracker1.520.jp
 - tracker1.itzmx.com
+- tracker1.myporn.club
 - tracker2.dler.org
 - tracker2.itzmx.com
 - tracker3.itzmx.com
