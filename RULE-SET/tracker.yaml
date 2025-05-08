@@ -3,6 +3,7 @@ domain_set:
 - 0123456789nonexistent.com
 - 0d.kebhana.mx
 - 1337.abcvg.info
+- admin.52ywp.com
 - bandito.byterunner.io
 - bt.ktrackers.com
 - bt.okmp3.ru
@@ -28,11 +29,11 @@ domain_set:
 - leet-tracker.moe
 - lucke.fenesisu.moe
 - martin-gebhardt.eu
+- ns-1.x-fins.com
 - ns3109441.mypdns.org
 - nyaa.tracker.wf
 - open.demonii.com
 - open.dstud.io
-- open.free-tracker.ga
 - open.stealth.si
 - open.trackerlist.xyz
 - opentor.org
@@ -40,7 +41,6 @@ domain_set:
 - p2p.publictracker.xyz
 - p4p.arenabg.com
 - public.tracker.vraphim.com
-- region.nl1.privex.cc
 - retracker.hotplug.ru
 - retracker.lanta.me
 - retracker.spark-rostov.ru
@@ -59,8 +59,6 @@ domain_set:
 - torrent.i.ng
 - torrentsmd.com
 - tr.abiir.top
-- tr.abir.ga
-- tr.nyacat.pw
 - tr.zukizuki.org
 - tr3.ysagin.top
 - tr4ck3r.duckdns.org
@@ -79,6 +77,7 @@ domain_set:
 - tracker.corpscorp.online
 - tracker.cyberia.is
 - tracker.darkness.services
+- tracker.ddunlimited.net
 - tracker.deadorbit.nl
 - tracker.dler.com
 - tracker.dler.org
@@ -104,14 +103,13 @@ domain_set:
 - tracker.leechshield.link
 - tracker.lilithraws.org
 - tracker.lintk.me
+- tracker.linvk.com
 - tracker.moeblog.cn
 - tracker.moxing.party
 - tracker.mywaifu.best
 - tracker.netmap.top
-- tracker.ololosh.space
 - tracker.opentrackr.org
 - tracker.openwebtorrent.com
-- tracker.privateseedbox.xyz
 - tracker.qu.ax
 - tracker.renfei.net
 - tracker.sbsub.com
@@ -122,7 +120,6 @@ domain_set:
 - tracker.tiny-vps.com
 - tracker.torrent.eu.org
 - tracker.torrust-demo.com
-- tracker.trackarr.org
 - tracker.tritan.gg
 - tracker.tryhackx.org
 - tracker.valete.tf
