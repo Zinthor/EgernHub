@@ -316,10 +316,6 @@ domain_suffix_set:
 - itunesradio.com.cn
 - swiftui.cn
 - swiftui.com.cn
-- researchkit.cn
-- researchkit.com.cn
-- swiftui.cn
-- swiftui.com.cn
 - beats1.cn
 - beats1.com.cn
 - beats2.com.cn
@@ -327,3 +323,7 @@ domain_suffix_set:
 - beatsbydre.com
 - beatsbydre.com.cn
 - beatsep.cn
+- researchkit.cn
+- researchkit.com.cn
+- swiftui.cn
+- swiftui.com.cn

@@ -1,6 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- qyyjt.cn
 - jindidata.com
 - tianyancha.com
 - x315.com
@@ -8,5 +7,6 @@ domain_suffix_set:
 - qichacha.com
 - qichamao.com
 - qixin.com
+- qyyjt.cn
 - aiqicha.baidu.com
 - hongdunwang.com.cn
