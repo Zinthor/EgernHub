@@ -3,6 +3,7 @@ domain_set:
 - 0123456789nonexistent.com
 - 0d.kebhana.mx
 - 1337.abcvg.info
+- admin.52ywp.com
 - bandito.byterunner.io
 - bittorrent-tracker.e-n-c-r-y-p-t.net
 - bt.ktrackers.com
@@ -12,6 +13,7 @@ domain_set:
 - bt1.xxxxbt.cc
 - buny.uk
 - chihaya.de
+- concen.org
 - d40969.acod.regrucolo.ru
 - discord.heihachi.pw
 - evan.im
@@ -27,7 +29,6 @@ domain_set:
 - ipv6.rer.lol
 - isk.richardsw.club
 - ismaarino.com
-- leet-tracker.moe
 - lucke.fenesisu.moe
 - martin-gebhardt.eu
 - ns-1.x-fins.com
@@ -35,7 +36,6 @@ domain_set:
 - nyaa.tracker.wf
 - open.demonii.com
 - open.dstud.io
-- open.free-tracker.ga
 - open.stealth.si
 - open.trackerlist.xyz
 - opentor.org
@@ -56,10 +56,10 @@ domain_set:
 - taciturn-shadow.spb.ru
 - thouvenin.cloud
 - tk.greedland.net
-- torrent.hificode.in
 - torrent.i.ng
 - torrentsmd.com
 - tr.abiir.top
+- tr.abir.ga
 - tr.nyacat.pw
 - tr.zukizuki.org
 - tr3.ysagin.top
@@ -71,14 +71,12 @@ domain_set:
 - tracker.beeimg.com
 - tracker.bittor.pw
 - tracker.bjut.jp
-- tracker.breizh.pm
 - tracker.bt-hash.com
 - tracker.bt4g.com
 - tracker.bz
 - tracker.corpscorp.online
 - tracker.cyberia.is
 - tracker.darkness.services
-- tracker.ddunlimited.net
 - tracker.deadorbit.nl
 - tracker.dler.com
 - tracker.dler.org
@@ -111,7 +109,6 @@ domain_set:
 - tracker.netmap.top
 - tracker.opentrackr.org
 - tracker.openwebtorrent.com
-- tracker.privateseedbox.xyz
 - tracker.qu.ax
 - tracker.renfei.net
 - tracker.sbsub.com
@@ -122,7 +119,6 @@ domain_set:
 - tracker.tiny-vps.com
 - tracker.torrent.eu.org
 - tracker.torrust-demo.com
-- tracker.tritan.gg
 - tracker.tryhackx.org
 - tracker.valete.tf
 - tracker.vanitycore.co
