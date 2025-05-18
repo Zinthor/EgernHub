@@ -1,12 +1,13 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- 95311.com
+- ztoapp.com
 - izto.com
+- tuxi.com
 - zt-express.com
 - zto.cn
 - zto.com
 - zto.net
-- ztoapp.com
+- 95311.com
 - ztoglobal.com
 - ztogroup.com
 - ztoyh.com

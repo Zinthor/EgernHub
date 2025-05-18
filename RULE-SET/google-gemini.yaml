@@ -3,6 +3,7 @@ domain_set:
 - ai.google.dev
 - alkalicore-pa.clients6.google.com
 - alkalimakersuite-pa.clients6.google.com
+- webchannel-alkalimakersuite-pa.clients6.google.com
 domain_suffix_set:
 - deepmind.com
 - deepmind.google

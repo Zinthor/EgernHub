@@ -1,6 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
 - ibkr.com
+- ibllc.com
 - interactivebrokers.ca
 - interactivebrokers.com
 - interactivebrokers.eu
