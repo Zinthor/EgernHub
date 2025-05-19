@@ -5,6 +5,7 @@ domain_set:
 - 1337.abcvg.info
 - admin.52ywp.com
 - bandito.byterunner.io
+- bittorrent-tracker.e-n-c-r-y-p-t.net
 - bt.ktrackers.com
 - bt.okmp3.ru
 - bt.poletracker.org
@@ -13,7 +14,6 @@ domain_set:
 - buny.uk
 - concen.org
 - d40969.acod.regrucolo.ru
-- discord.heihachi.pw
 - evan.im
 - exodus.desync.com
 - explodie.org
@@ -24,12 +24,16 @@ domain_set:
 - ipv4.rer.lol
 - ipv4announce.sktorrent.eu
 - ipv6.rer.lol
+- isk.richardsw.club
+- leet-tracker.moe
 - lucke.fenesisu.moe
 - martin-gebhardt.eu
+- ns-1.x-fins.com
 - ns3109441.mypdns.org
 - nyaa.tracker.wf
 - open.demonii.com
 - open.dstud.io
+- open.free-tracker.ga
 - open.stealth.si
 - open.trackerlist.xyz
 - opentor.org
@@ -98,6 +102,7 @@ domain_set:
 - tracker.lilithraws.org
 - tracker.lintk.me
 - tracker.linvk.com
+- tracker.lyretain.site
 - tracker.moeblog.cn
 - tracker.moxing.party
 - tracker.mywaifu.best
@@ -105,11 +110,13 @@ domain_set:
 - tracker.ololosh.space
 - tracker.opentrackr.org
 - tracker.openwebtorrent.com
+- tracker.privateseedbox.xyz
 - tracker.qu.ax
 - tracker.renfei.net
 - tracker.sbsub.com
 - tracker.skyts.net
 - tracker.srv00.com
+- tracker.theoks.net
 - tracker.therarbg.to
 - tracker.tiny-vps.com
 - tracker.torrent.eu.org
@@ -124,6 +131,7 @@ domain_set:
 - tracker.zhuqiy.top
 - tracker1.520.jp
 - tracker1.itzmx.com
+- tracker1.myporn.club
 - tracker2.dler.org
 - tracker2.itzmx.com
 - tracker3.itzmx.com
