@@ -1,6 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- gamersky.com
 - click.gamersky.com
 - ja.gamersky.com
 - ja1.gamersky.com
