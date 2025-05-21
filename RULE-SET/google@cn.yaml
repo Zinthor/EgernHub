@@ -142,7 +142,6 @@ domain_set:
 - www.gstatic.com
 - www.pxcc.com
 - xn--flw351e.com
-- firebase-settings.crashlytics.com
 - pki-goog.l.google.com
 - c.pki.goog
 - i.pki.goog
@@ -151,6 +150,7 @@ domain_set:
 - crls.pki.goog
 - ocsp.pki.goog
 - redirector.c.play.google.com
+- firebase-settings.crashlytics.com
 domain_suffix_set:
 - google.cn
 - g.cn
