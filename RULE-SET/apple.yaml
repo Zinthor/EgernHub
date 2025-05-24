@@ -9,6 +9,7 @@ domain_set:
 - appleworldwidedeveloper.hb-api.omtrdc.net
 - appleworldwidedeveloper.sc.omtrdc.net
 - p-events-delivery.akamaized.net
+- beatselectronicsllc.tt.omtrdc.net
 - apple-tv-plus-press.apple.com
 - hls-amt.itunes.apple.com
 - hls.itunes.apple.com
@@ -16,7 +17,6 @@ domain_set:
 - play-edge.itunes.apple.com
 - tv.applemusic.com
 - uts-api.itunes.apple.com
-- beatselectronicsllc.tt.omtrdc.net
 - www-cdn.icloud.com.akadns.net
 - amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 - amp-api-edge-lb.itunes-apple.com.akadns.net
@@ -284,8 +284,8 @@ domain_set:
 - valid.apple.com
 domain_suffix_set:
 - apple
-- beats-bydreoutletsale.net
-- monsterbeats-solo.com
+- beats-bydreoutletssale.net
+- monsterbeats-solo.net
 - apple.be
 - apple.bg
 - apple.bs
@@ -959,8 +959,8 @@ domain_suffix_set:
 - straightouttasomewhere.com
 - spiritclubs.com
 - specialtyheadphones.com
-- soso7778.com
-- beats-bydreoutletssale.net
+- beats-bydrestore.com
+- solostudioksale.com
 - sneakerskick.com
 - sneakerpage.net
 - sneaker666.com
@@ -972,11 +972,10 @@ domain_suffix_set:
 - shopbydre.com
 - shopbeatsdre.com
 - shop-headphones.net
-- shoestop2.com
-- beats-bydreoutletsale.com
+- beats-bydreoutletsale.net
+- shoers.com
 - scnshop.cc
 - sanvaras.com
-- samebags.com
 - 100beatscheap.com
 - 1monsterbeatsbydreus.com
 - 2013beatsbydrdreonline.com
@@ -1029,10 +1028,10 @@ domain_suffix_set:
 - beats-bydre-mall.com
 - beats-bydrecheapsale.com
 - beats-bydreoutletonline.com
-- shoers.com
+- beats-bydreoutletsale.com
+- shoestop2.com
 - apple.at
-- solostudioksale.com
-- beats-bydrestore.com
+- soso7778.com
 - beats-bydreuk.com
 - beats-deal.com
 - beats-dre-us.com
@@ -1523,8 +1522,8 @@ domain_suffix_set:
 - monsterbeats-cheap.com
 - monsterbeats-headphone.com
 - monsterbeats-onsale.com
+- monsterbeats-solo.com
 - apple.ae
-- monsterbeats-solo.net
 - monsterbeats365buy.com
 - monsterbeats8beatsbydre.com
 - monsterbeatsale.com
@@ -1629,10 +1628,10 @@ domain_suffix_set:
 - salebeatslasteststyle4you.com
 - saleblackfridaydrebeats.com
 - salecheaphandbags.com
-- applecomputer.co.nz
-- applepay.co.rs
+- samebags.com
+- applecomputer.co.in
+- apple.comscoreresearch.com
 - iphone4.com.br
-- webobjects.co.uk
 - quicktime.com.au
 - mr-apple.com.tw
 - macos.com.au
@@ -1649,8 +1648,8 @@ domain_suffix_set:
 - applecomputers.co.nz
 - applecomputer.com.tw
 - applecomputer.com.hk
+- applecomputer.co.nz
 - iphone.net.gr
-- applecomputer.co.in
 - appleclub.com.hk
 - applecentre.com.au
 - applecentar.co.rs
@@ -1660,7 +1659,8 @@ domain_suffix_set:
 - 1to1computing.com.au
 - ibook.co.nz
 - applepay.com.tw
-- apple.comscoreresearch.com
+- applepay.co.rs
+- webobjects.co.uk
 - applemusic.com.au
 - apple-watch.com.ru
 - macbookpro.com.au
@@ -1790,6 +1790,10 @@ domain_suffix_set:
 - xn--czrs0t4phtr3a.cn
 - xn--fiqs8sxootzz.cn
 - xn--ohq11k7pl25iyo8a.cn
+- api-adservices.apple.com
+- iadsdk.apple.com
+- iad.apple.com
+- qwapi.com
 - researchkit.cn
 - researchkit.com.cn
 - swiftui.cn
@@ -1801,10 +1805,6 @@ domain_suffix_set:
 - beatsbydre.com
 - beatsbydre.com.cn
 - beatsep.cn
-- api-adservices.apple.com
-- iadsdk.apple.com
-- iad.apple.com
-- qwapi.com
 - apple-icloud.cn
 - appleicloud.cn
 - icloud-apple.cn

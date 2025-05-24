@@ -8,16 +8,9 @@ domain_set:
 domain_suffix_set:
 - clarity.ms
 - nelreports.net
-- samsungads.com
 - ads-api.duolingo.com
 - metrics.duolingo.com
 - analytics.vpc.duolingo.com
-- advertising.adobe.com
-- tubemogul.com
-- graph.instagram.com
-- graph-fallback.instagram.com
-- graph.whatsapp.com
-- graph.whatsapp.net
 - 2mdn-cn.net
 - 2mdn.net
 - admob-cn.com
@@ -61,18 +54,25 @@ domain_suffix_set:
 - mail-ads.google.com
 - marketingplatform.google.com
 - urchin.com
+- graph.instagram.com
+- graph-fallback.instagram.com
+- graph.whatsapp.com
+- graph.whatsapp.net
+- amazon-adsystem.com
+- serving-sys.com
 - api-adservices.apple.com
 - iadsdk.apple.com
 - iad.apple.com
 - qwapi.com
+- ads.yahoo.com
+- gemini.yahoo.com
+- ysm.yahoo.com
 - snapads.com
+- advertising.adobe.com
+- tubemogul.com
+- samsungads.com
 - ads.yahoo.com
 - gemini.yahoo.com
 - ysm.yahoo.com
-- ads.yahoo.com
-- gemini.yahoo.com
-- ysm.yahoo.com
-- amazon-adsystem.com
-- serving-sys.com
 domain_regex_set:
 - ^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
