@@ -1,6 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
 - archive-it.org
+- archive.md
 - archive.org
 - archive.ph
 - archive.today

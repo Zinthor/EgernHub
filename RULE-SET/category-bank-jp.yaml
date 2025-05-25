@@ -1,10 +1,13 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
 - a-bank.jp
+- smtb.jp
+- sonybank.jp
 - 114bank.co.jp
 - 77bank.co.jp
 - 82bank.co.jp
 - akita-bank.co.jp
+- aozorabank.co.jp
 - ashikagabank.co.jp
 - awabank.co.jp
 - bk.mufg.jp
@@ -13,6 +16,7 @@ domain_suffix_set:
 - chibakogyo-bank.co.jp
 - chikubank.co.jp
 - chugokubank.co.jp
+- citibank.co.jp
 - daiichibank.co.jp
 - fukuibank.co.jp
 - fukuokabank.co.jp
@@ -27,7 +31,10 @@ domain_suffix_set:
 - ikedashinsen.co.jp
 - iwatebank.co.jp
 - iyobank.co.jp
+- jfc.go.jp
+- jibunbank.co.jp
 - joyobank.co.jp
+- jp-bank.japanpost.jp
 - juhachibank.co.jp
 - juroku.co.jp
 - kagobank.co.jp
@@ -42,23 +49,31 @@ domain_suffix_set:
 - musashinobank.co.jp
 - nantobank.co.jp
 - nishinipponbank.co.jp
+- nochubank.or.jp
 - ogakikyoritsu.co.jp
 - oitabank.co.jp
 - okinawabank.co.jp
+- paypay-bank.co.jp
+- rakuten-bank.co.jp
 - resonabank.co.jp
 - ryukyubank.co.jp
 - sagabank.co.jp
 - saitama-resona.co.jp
 - saninbank.co.jp
+- sbishinseibank.co.jp
+- sevenbank.co.jp
 - shigagin.co.jp
 - shikokubank.co.jp
 - shimizubank.co.jp
 - shinwabank.co.jp
 - shizuokabank.co.jp
+- shokochukin.co.jp
 - shonai.co.jp
 - smbc.co.jp
+- smbctb.co.jp
 - surugabank.co.jp
 - tajimabank.co.jp
+- tochigibank.co.jp
 - tohobank.co.jp
 - tohoku-bank.co.jp
 - tomibank.co.jp

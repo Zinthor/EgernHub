@@ -1,7 +1,9 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
+- mradx.net
 - mvk.com
 - userapi.com
+- vk-analytics.ru
 - vk-apps.com
 - vk-apps.ru
 - vk-cdn.me

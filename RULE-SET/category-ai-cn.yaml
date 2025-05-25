@@ -3,10 +3,10 @@ domain_set:
 - cueme-api.quark.cn
 - ai.zhaomi.cn
 domain_suffix_set:
-- zhipuai.cn
 - chatglm.cn
-- moonshot.cn
+- bigmodel.cn
 - rwkv.cn
+- zhipuai.cn
 - qwen.ai
 - qwenlm.ai
 - tongyi.com
@@ -15,17 +15,18 @@ domain_suffix_set:
 - doubao.com
 - marscode.cn
 - liblib.art
-- deepseek.com
 - namiso.com
+- deepseek.com
+- botvip.cn
 - n.cn
 - hailuoai.com
 - minimaxi.com
 - xingyeai.com
 - cueme.cn
 - baichuan-ai.com
-- botvip.cn
+- moonshot.cn
 - yiyan.baidu.com
 - hunyuan.tencent.com
-- qianwen.aliyun.com
-- tongyi.aliyun.com
 - xinghuo.xfyun.cn
+- tongyi.aliyun.com
+- qianwen.aliyun.com
