@@ -9,9 +9,9 @@ domain_suffix_set:
 - xn--d1acj3b
 - xn--p1acf
 - xn--p1ai
-- psk
 - yandex
-- emias.info
+- psk
+- vk.me
 - mycdn.me
 - ozonusercontent.com
 - mradx.net
@@ -26,7 +26,6 @@ domain_suffix_set:
 - vk.company
 - vk.design
 - vk.link
-- vk.me
 - vk.team
 - vkcache.com
 - vkgo.app
@@ -66,13 +65,14 @@ domain_suffix_set:
 - yandex.lv
 - yandex.md
 - yandex.net
-- yandex.org
 - yandex.sx
 - yandex.tj
 - yandex.tm
-- yandex.com.ge
-- yandex.com.ua
+- emias.info
+- yandex.org
 - yandex.com.tr
+- yandex.com.ua
+- yandex.com.ge
 - yandex.com.am
 - yandex.co.il
 - yandex-images.clstorage.net
