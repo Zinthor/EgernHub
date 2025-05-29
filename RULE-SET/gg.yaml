@@ -2,6 +2,7 @@ no_resolve: true
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 ip_cidr_set:
 - 5.62.84.0/24
+- 23.230.104.48/28
 - 37.72.152.0/21
 - 45.11.144.0/22
 - 45.59.149.0/24
