@@ -1,9 +1,9 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- flightsimulator.azureedge.net
+- prodforza.blob.core.windows.net
 domain_suffix_set:
 - xbox
-- forzamotorsport.net
-- forzaracingchampionship.com
-- forzarc.com
 - gamepass.com
 - orithegame.com
 - renovacionxboxlive.com
@@ -27,12 +27,18 @@ domain_suffix_set:
 - xboxservices.com
 - xboxstudios.com
 - xbx.lv
+- asobostudio.com
+- flightsimulator.com
 - beth.games
 - bethesda.net
 - bethesdagamestudios.com
 - bethsoft.com
 - doom.com
 - elderscrolls.com
+- forza.net
+- forzamotorsport.net
+- forzaracingchampionship.com
+- forzarc.com
 - callersbane.com
 - minecraft-services.net
 - minecraft.net

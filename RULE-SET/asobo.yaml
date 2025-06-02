@@ -1,8 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
-- upos-hz-mirrorakam.akamaized.net
+- flightsimulator.azureedge.net
 domain_suffix_set:
-- iq.com
-- bilibili.tv
-- biliintl.com
-- dreamcast.hk
+- asobostudio.com
+- flightsimulator.com

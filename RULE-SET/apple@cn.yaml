@@ -98,15 +98,14 @@ domain_set:
 - a5.mzstatic.com
 - adcdownload.apple.com
 - adcdownload.apple.com.akadns.net
+- amp-api-updates.apps.apple.com
 - amp-api.media.apple.com
-- api-p-ap-c.smoot.apple.com
-- api-p-ap-d.smoot.apple.com
-- api-p-ap-e.smoot.apple.com
 - app-site-association.cdn-apple.com
 - appldnld.apple.com
 - appldnld.g.aaplimg.com
 - appleid.cdn-apple.com
 - apps.mzstatic.com
+- bag-cdn.itunes-apple.com.akadns.net
 - cdn-cn1.apple-mapkit.com
 - cdn-cn2.apple-mapkit.com
 - cdn-cn3.apple-mapkit.com
@@ -120,6 +119,7 @@ domain_set:
 - cds.apple.com
 - cds.apple.com.akadns.net
 - cdsassets.apple.com
+- certs.apple.com
 - cl1-cdn.origin-apple.com.akadns.net
 - cl1.apple.com
 - cl2-cn.apple.com
@@ -136,10 +136,13 @@ domain_set:
 - cn-smp-paymentservices.apple.com
 - configuration.apple.com
 - configuration.apple.com.akadns.net
+- crl.apple.com
 - cstat.apple.com
 - cstat.cdn-apple.com
 - dd-cdn.origin-apple.com.akadns.net
 - dejavu.apple.com
+- devimages-cdn.apple.com
+- devstreaming-cdn.apple.com
 - download.developer.apple.com
 - experiments.apple.com
 - gs-loc-cn.apple.com
@@ -148,16 +151,15 @@ domain_set:
 - gsp12-cn.ls.apple.com
 - gsp13-cn.ls.apple.com
 - gsp4-cn.ls.apple.com
-- gsp4-cn.ls.apple.com.edgekey.net
 - gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 - gsp5-cn.ls.apple.com
 - gsp85-cn-ssl.ls.apple.com
+- gspe19-2-cn-ssl.ls-apple.com.akadns.net
 - gspe19-2-cn-ssl.ls.apple.com
 - gspe19-cn-ssl.ls.apple.com
 - gspe19-cn.ls-apple.com.akadns.net
 - gspe19-cn.ls.apple.com
 - gspe21-ssl.ls.apple.com
-- gspe21.ls.apple.com
 - gspe35-ssl.ls.apple.com
 - gspe79-cn-ssl.ls.apple.com
 - guzzoni-apple-com.v.aaplimg.com
@@ -165,8 +167,6 @@ domain_set:
 - guzzoni.smoot.apple.com
 - icloud-cdn.icloud.com.akadns.net
 - icloud.cdn-apple.com
-- images.apple.com
-- images.apple.com.akadns.net
 - images.apple.com.edgekey.net.globalredir.akadns.net
 - init-kt.apple.com
 - init-p01md-lb.push-apple.com.akadns.net
@@ -180,6 +180,7 @@ domain_set:
 - ipcdn.apple.com
 - iphone-ld.apple.com
 - iphone-ld.origin-apple.com.akadns.net
+- is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
 - is1-ssl.mzstatic.com
 - is1.mzstatic.com
 - is2-ssl.mzstatic.com
@@ -245,6 +246,7 @@ domain_set:
 - updates-http.cdn-apple.com
 - updates-http.cdn-apple.com.akadns.net
 - updates.cdn-apple.com
+- valid.apple.com
 - valid.origin-apple.com.akadns.net
 - weather-data.apple.com
 - weather-data.apple.com.akadns.net
@@ -252,7 +254,6 @@ domain_set:
 - weather-map2.apple.com
 - weatherkit.apple.com
 - www.apple.com
-- www.apple.com.edgekey.net
 - www.apple.com.edgekey.net.globalredir.akadns.net
 - xp.apple.com
 - certs-lb.apple.com.akadns.net
@@ -303,6 +304,8 @@ domain_suffix_set:
 - xn--czrs0t4phtr3a.cn
 - xn--fiqs8sxootzz.cn
 - xn--ohq11k7pl25iyo8a.cn
+- swiftui.cn
+- swiftui.com.cn
 - researchkit.cn
 - researchkit.com.cn
 - swiftui.cn
@@ -325,5 +328,3 @@ domain_suffix_set:
 - itunesapple.cn
 - itunesradio.cn
 - itunesradio.com.cn
-- swiftui.cn
-- swiftui.com.cn
