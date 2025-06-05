@@ -3,13 +3,19 @@ domain_set:
 - log-sdk.gifshow.com
 - wlog.kuaishou.com
 domain_suffix_set:
+- ecukwai.com
 - gifshow.com
 - inkwai.com
 - ksapisrv.com
+- kskwai.com
 - kuaishou.com
-- kwaizt.com
+- kuaishouapps.com
+- kuaishoupay.com
 - kuaishouzt.com
+- kwaicdn.com
+- kwaizt.com
 - kwimgs.com
+- wsukwai.com
 - yximgs.com
 - adbkwai.com
 - adkwai.com

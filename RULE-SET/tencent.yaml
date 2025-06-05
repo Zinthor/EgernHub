@@ -2,8 +2,8 @@
 domain_set:
 - wetv.qq.com
 domain_suffix_set:
-- tcloudhw.net
-- vxo7tu.com
+- tcloudhw.com
+- yunjitele.com
 - acimg.cn
 - apcdns.net
 - foxmail.com
@@ -12,6 +12,7 @@ domain_suffix_set:
 - idqqimg.com
 - imqq.com
 - myapp.com
+- qlivecdn.com
 - qlogo.cn
 - qpic.cn
 - qq.com
@@ -117,7 +118,7 @@ domain_suffix_set:
 - doh.pub
 - myqcloud.com
 - onexmail.com
-- tcloudedu.com
+- openapp.run
 - ovscdns.com
 - ovscdns.net
 - pn1waq.com
@@ -178,17 +179,17 @@ domain_suffix_set:
 - tcloudbaseapp.com
 - tcloudbi.com
 - tclouddrive.com
-- openapp.run
+- tcloudedu.com
+- um.run
 - xn--r70as2s.xn--fiqs8s
-- tencdns.net
-- tcloudscdn.com
+- testwaf.com
 - tcloudscdn.net
 - tdnsx1.com
 - techo.chat
 - tefscloud.com
 - tefscloud.net
 - tenant-zone-dev.com
-- qq.xn--fiqs8s
+- tencdns.net
 - tencent-cloud.com
 - tencent-cloud.net
 - tencentapps.com
@@ -228,7 +229,7 @@ domain_suffix_set:
 - tendis.net
 - dnsapi.cn
 - testmeet.cn
-- testwaf.com
+- tcloudscdn.com
 - tgovcloud.com
 - tidaas.com
 - dnspod.mobi
@@ -251,13 +252,13 @@ domain_suffix_set:
 - vcloudstc.net
 - vcloudvod.com
 - vodtcbk.com
-- tcloudhw.com
+- vxo7tu.com
 - wework-studio.com
 - xqymuy.com
 - yufuid.com
 - dot.pub
 - yufuid.net
-- yunjitele.com
+- tcloudhw.net
 - dnse0.cn
 - dnse1.cn
 - dnse2.cn
@@ -308,7 +309,7 @@ domain_suffix_set:
 - discuz.net
 - comsenz.com
 - ym.run
-- um.run
+- qq.xn--fiqs8s
 - ma.run
 - oracle-tencent.cn
 - oracle-tencent.com
