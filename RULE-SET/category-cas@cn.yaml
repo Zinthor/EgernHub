@@ -27,12 +27,12 @@ domain_suffix_set:
 - sectigochina.com.cdn.cloudflare.net
 - trust-provider.cn
 - sslcom.cn
-- dcocsp.cn
-- digicert.cn
 - alphassl.com
 - easy-signing.com
 - globalsign.cn
 - globalsign.com
 - globalsigncdn.com
+- dcocsp.cn
+- digicert.cn
 - yahoo.cn
 - yahoo.com.cn
