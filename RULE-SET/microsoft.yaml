@@ -7,10 +7,6 @@ domain_set:
 - statics-marketingsites-eas-ms-com.akamaized.net
 - statics-marketingsites-eus-ms-com.akamaized.net
 - statics-marketingsites-wcus-ms-com.akamaized.net
-- crl.microsoft.com
-- mscrl.microsoft.com
-- ocsp.microsoft.com
-- oneocsp.microsoft.com
 - flightsimulator.azureedge.net
 - prodforza.blob.core.windows.net
 - azure.microsoft.com
@@ -32,6 +28,10 @@ domain_set:
 - vscode.blob.core.windows.net
 - vscode.search.windows.net
 - vsmarketplacebadge.apphb.com
+- crl.microsoft.com
+- mscrl.microsoft.com
+- ocsp.microsoft.com
+- oneocsp.microsoft.com
 - b.c2r.ts.cdn.office.net
 - bg.v4.a.dl.ws.microsoft.com
 - bg4.v4.a.dl.ws.microsoft.com
@@ -69,9 +69,9 @@ domain_set:
 - wscont1.apps.microsoft.com
 - wscont2.apps.microsoft.com
 - xb.dlservice.microsoft.com
-- www.microsoft.com
 - bj1.api.bing.com
 - emoi-cncdn.bing.com
+- www.microsoft.com
 domain_suffix_set:
 - microsoft
 - hotmail
@@ -89,7 +89,7 @@ domain_suffix_set:
 - microsoft.cz
 - microsoft.de
 - microsoft.dk
-- xamarin.com
+- msocsp.com
 - microsoft.es
 - microsoft.eu
 - microsoft.fi
@@ -238,7 +238,7 @@ domain_suffix_set:
 - msftncsi.com
 - msftnet.org
 - msgamesresearch.com
-- microsoftnews.com
+- microsoftnews.net
 - mshome.net
 - msidentity.com
 - msocdn.com
@@ -318,12 +318,12 @@ domain_suffix_set:
 - microsoft.ch
 - winhec.net
 - yammer.com
-- msocsp.com
 - microsoftnews.cc
-- vscode-unpkg.net
+- microsoftnews.com
+- xamarin.com
 - microsoft.ee
 - microsoft.cl
-- microsoftnews.org
+- onedrive.com
 - microsoftnewsforkids.com
 - microsoftnewsforkids.net
 - microsoftnewsforkids.org
@@ -339,11 +339,11 @@ domain_suffix_set:
 - start.com
 - microsoft.cat
 - microsoft.ca
-- microsoftnews.net
-- onedrive.com
+- microsoftnews.org
 - 1drv.com
 - livefilestore.com
 - sharepoint.cn
+- vscode-unpkg.net
 - vscode-cdn.net
 - vscode.dev
 - vsassets.io
@@ -352,7 +352,6 @@ domain_suffix_set:
 - visualstudio.net
 - visualstudio.eu
 - visualstudio.co
-- visualstudio.com
 - microsoft.by
 - gamepass.com
 - orithegame.com
@@ -479,7 +478,7 @@ domain_suffix_set:
 - office365love.com
 - office365tw.com
 - renovacionoffice.com
-- visualstudio-staging.com
+- visualstudio.com
 - githubhackathon.com
 - ghcr.io
 - githubnext.com
@@ -505,7 +504,7 @@ domain_suffix_set:
 - atom.io
 - npm.community
 - npmjs.com
-- uwpcommunitytoolkit.com
+- visualstudio-staging.com
 - adaptivecards.io
 - api-extractor.com
 - apisof.net
@@ -543,9 +542,10 @@ domain_suffix_set:
 - sankie.net
 - sqlserveronlinux.com
 - timelinestoryteller.com
+- uwpcommunitytoolkit.com
 - spoprod-a.akamaihd.net
-- visualstudio.co.uk
 - microsoftstore.com.hk
+- visualstudio.co.uk
 - skype-edf.akadns.net
 - skypedata.akadns.net
 - live.com.au
