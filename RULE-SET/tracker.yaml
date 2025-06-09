@@ -14,7 +14,6 @@ domain_set:
 - buny.uk
 - concen.org
 - d40969.acod.regrucolo.ru
-- discord.heihachi.pw
 - evan.im
 - exodus.desync.com
 - explodie.org
@@ -25,14 +24,11 @@ domain_set:
 - ipv4.rer.lol
 - ipv4announce.sktorrent.eu
 - ipv6.rer.lol
-- isk.richardsw.club
-- leet-tracker.moe
 - martin-gebhardt.eu
 - ns-1.x-fins.com
 - ns3109441.mypdns.org
 - nyaa.tracker.wf
 - open.demonii.com
-- open.dstud.io
 - open.free-tracker.ga
 - open.stealth.si
 - open.trackerlist.xyz
@@ -41,6 +37,7 @@ domain_set:
 - p2p.publictracker.xyz
 - p4p.arenabg.com
 - public.tracker.vraphim.com
+- region.nl1.privex.cc
 - retracker.hotplug.ru
 - retracker.lanta.me
 - retracker.spark-rostov.ru
@@ -55,15 +52,16 @@ domain_set:
 - taciturn-shadow.spb.ru
 - threads.canofsocks.com
 - tk.greedland.net
-- torrent.i.ng
+- torrent.hificode.in
 - torrentsmd.com
 - tr.abiir.top
+- tr.abir.ga
 - tr.kxmp.cf
+- tr.nyacat.pw
 - tr.zukizuki.org
 - tr3.ysagin.top
 - tr4ck3r.duckdns.org
 - tracker-udp.gbitt.info
-- tracker-zhuqiy.dgj055.icu
 - tracker.23794.top
 - tracker.aburaya.live
 - tracker.bittor.pw
@@ -92,7 +90,6 @@ domain_set:
 - tracker.iperson.xyz
 - tracker.ipv6tracker.org
 - tracker.ipv6tracker.ru
-- tracker.itscraftsoftware.my.id
 - tracker.jdx3.org
 - tracker.kmzs123.cn
 - tracker.kmzs123.top
@@ -100,14 +97,17 @@ domain_set:
 - tracker.leechshield.link
 - tracker.lintk.me
 - tracker.linvk.com
+- tracker.lyretain.site
 - tracker.moeblog.cn
 - tracker.moxing.party
 - tracker.mywaifu.best
 - tracker.netmap.top
+- tracker.ololosh.space
 - tracker.opentrackr.org
 - tracker.openwebtorrent.com
 - tracker.plx.im
 - tracker.pmman.tech
+- tracker.privateseedbox.xyz
 - tracker.qu.ax
 - tracker.renfei.net
 - tracker.sbsub.com
@@ -116,7 +116,6 @@ domain_set:
 - tracker.theoks.net
 - tracker.therarbg.to
 - tracker.torrent.eu.org
-- tracker.torrust-demo.com
 - tracker.tritan.gg
 - tracker.tryhackx.org
 - tracker.valete.tf
@@ -138,11 +137,11 @@ domain_set:
 - ttk2.nbaonlineservice.com
 - udp.tracker.projectk.org
 - wepzone.net
-- www.2600.com
 - www.all4nothin.net
 - www.genesis-sp.org
 - www.torrent.eu.org
 - www.torrentsnipe.info
+- www.wareztorrent.com
 domain_suffix_set:
 - hdsky.me
 - hdbits.org
