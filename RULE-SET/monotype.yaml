@@ -6,8 +6,6 @@ domain_suffix_set:
 - monotypeimaging.com
 - bitstream.com
 - itcfonts.com
-- myfonts.com
-- myfonts.net
 - fontexplorerx.com
 - fonts.com
 - fonts.net
@@ -15,3 +13,5 @@ domain_suffix_set:
 - fontshop.com
 - fstopimages.com
 - linotype.com
+- myfonts.com
+- myfonts.net
