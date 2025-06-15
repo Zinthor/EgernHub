@@ -1,9 +1,8 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
 - kucoin.com
-- ddex.io
+- shooshtime.com
 - 0rz.tw
-- zzux.com
 - 1000giri.net
 - 10beasts.net
 - 10conditionsoflove.com
@@ -17,7 +16,6 @@ domain_suffix_set:
 - 141hongkong.com
 - 141jj.com
 - 141tube.com
-- zzcloud.me
 - 173ng.com
 - 177pic.info
 - 17t17p.com
@@ -44,9 +42,9 @@ domain_suffix_set:
 - 2049bbs.xyz
 - 21andy.com
 - 21sextury.com
-- zzcartoon.com
 - 233abc.com
 - 24hrs.ca
+- zzux.com
 - 25u.com
 - 2lipstube.com
 - 2shared.com
@@ -82,6 +80,8 @@ domain_suffix_set:
 - 51luoben.com
 - 5278.cc
 - 5299.tv
+- zzcloud.me
+- zzcartoon.com
 - zyxel.com
 - 5i01.com
 - 5isotoi5.org
@@ -307,7 +307,7 @@ domain_suffix_set:
 - zillionk.com
 - ziddu.com
 - zi.media
-- apiary.io
+- kukuku.uk
 - apigee.com
 - apk.support
 - apkcombo.com
@@ -344,7 +344,7 @@ domain_suffix_set:
 - archives.gov
 - zhongguorenquan.org
 - arctosia.com
-- 000webhost.com
+- areca-backup.org
 - arena.taipei
 - arethusa.su
 - arlingtoncemetery.mil
@@ -402,7 +402,7 @@ domain_suffix_set:
 - avmoo.pw
 - avoision.com
 - avyahoo.com
-- axios.com
+- 000webhost.com
 - axureformac.com
 - azerimix.com
 - azirevpn.com
@@ -1243,7 +1243,7 @@ domain_suffix_set:
 - dcard.tw
 - dcmilitary.com
 - xiaobaiwu.com
-- kui.name
+- ddex.io
 - ddns.info
 - xianjian.tw
 - ddns.mobi
@@ -1966,6 +1966,7 @@ domain_suffix_set:
 - githubassets.com
 - githubcopilot.com
 - githubusercontent.com
+- gitlab.net
 - gizlen.net
 - gjczz.com
 - glarity.app
@@ -2393,6 +2394,7 @@ domain_suffix_set:
 - himalayanglacier.com
 - himemix.com
 - hindustantimes.com
+- hinet.net
 - hitbtc.com
 - hitomi.la
 - hiveon.net
@@ -2705,7 +2707,7 @@ domain_suffix_set:
 - isaacmao.com
 - isasecret.com
 - vpnvip.com
-- kukuku.uk
+- isgreat.org
 - ishr.ch
 - islahhaber.net
 - vpnunlimitedapp.com
@@ -2924,9 +2926,9 @@ domain_suffix_set:
 - kspcoin.com
 - ktzhk.com
 - kuaichedao.co
-- areca-backup.org
+- axios.com
 - 030buy.com
-- isgreat.org
+- apiary.io
 - kun.im
 - kurashsultan.com
 - kurtmunger.com
@@ -4315,7 +4317,7 @@ domain_suffix_set:
 - shizhao.org
 - shkspr.mobi
 - shodanhq.com
-- shooshtime.com
+- kui.name
 - udnbkk.com
 - shopee.tw
 - shopping.com
