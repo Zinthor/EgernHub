@@ -1,6 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- cf-ipfs.com
+- lantern.io
 - ooni.org
 - browserleaks.com
 - bypasscensorship.org
@@ -20,7 +20,7 @@ domain_suffix_set:
 - lokinet.org
 - ntc.party
 - onionshare.org
-- ipfs.io
+- torproject.org
 - openvpn.net
 - privacytools.io
 - proxifier.com
@@ -43,19 +43,25 @@ domain_suffix_set:
 - wireguard.com
 - zeronet.io
 - metacubex.one
-- ipns.co
-- ipfs.tech
-- cloudflare-ipfs.com
+- haveibeenpwned.com
+- pwnedpasswords.com
+- getlantern.org
 - stunnel.org
 - akasha.world
-- nftstorage.link
+- cf-ipfs.com
+- ipfs.tech
+- cloudflare-ipfs.com
+- ipns.co
+- ipfs.io
+- ipfs-gateway.cloud
 - c4rex.co
 - via0.com
-- ipfs-gateway.cloud
+- nftstorage.link
 - jorropo.net
 - crustwebsites.net
 - 4everland.io
 - dweb.link
+- citizenlab.ca
 - censorship.no
 - vpngate.net
 - vpngate.jp
@@ -63,16 +69,9 @@ domain_suffix_set:
 - v2fly.org
 - v2ray.cool
 - v2ray.com
-- torproject.org
 - softether-download.com
 - softether.org
-- wikiunblocked.org
-- haveibeenpwned.com
-- pwnedpasswords.com
-- getlantern.org
-- lantern.io
 - paskoocheh.com
-- citizenlab.ca
 - citizenlab.org
 - epicbrowser.com
 - applecensorship.com
@@ -82,6 +81,7 @@ domain_suffix_set:
 - freezhihu.org
 - greatfire.org
 - pao-pao.net
+- wikiunblocked.org
 - ipfs.fleek.co
 - ipfs.lain.la
 - ipfs.best-practice.se
