@@ -6,11 +6,6 @@ domain_set:
 - sentry.hetzner.company
 - analytics.google.com
 domain_suffix_set:
-- snapads.com
-- advertising.adobe.com
-- tubemogul.com
-- amazon-adsystem.com
-- serving-sys.com
 - ads.yahoo.com
 - gemini.yahoo.com
 - ysm.yahoo.com
@@ -20,6 +15,9 @@ domain_suffix_set:
 - qwapi.com
 - clarity.ms
 - nelreports.net
+- ads.yahoo.com
+- gemini.yahoo.com
+- ysm.yahoo.com
 - ads-api.duolingo.com
 - metrics.duolingo.com
 - analytics.vpc.duolingo.com
@@ -66,13 +64,15 @@ domain_suffix_set:
 - mail-ads.google.com
 - marketingplatform.google.com
 - urchin.com
-- ads.yahoo.com
-- gemini.yahoo.com
-- ysm.yahoo.com
 - samsungads.com
 - graph.whatsapp.com
 - graph.whatsapp.net
 - graph.instagram.com
 - graph-fallback.instagram.com
+- amazon-adsystem.com
+- serving-sys.com
+- snapads.com
+- advertising.adobe.com
+- tubemogul.com
 domain_regex_set:
 - ^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$

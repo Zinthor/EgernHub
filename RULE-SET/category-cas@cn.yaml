@@ -23,12 +23,6 @@ domain_set:
 domain_suffix_set:
 - yahoo.cn
 - yahoo.com.cn
-- oemssl.cn
-- oemssl.cn.cdn.cloudflare.net
-- sectigochina.com
-- sectigochina.com.cdn.cloudflare.net
-- trust-provider.cn
-- sslcom.cn
 - alphassl.com
 - easy-signing.com
 - globalsign.cn
@@ -36,3 +30,9 @@ domain_suffix_set:
 - globalsigncdn.com
 - dcocsp.cn
 - digicert.cn
+- oemssl.cn
+- oemssl.cn.cdn.cloudflare.net
+- sectigochina.com
+- sectigochina.com.cdn.cloudflare.net
+- trust-provider.cn
+- sslcom.cn

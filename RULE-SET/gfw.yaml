@@ -1,7 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- kui.name
-- talkboxapp.com
+- kucoin.com
+- appsocks.net
 - 0rz.tw
 - 1000giri.net
 - 10beasts.net
@@ -326,7 +326,7 @@ domain_suffix_set:
 - zhoushuguang.com
 - zhongzidi.com
 - appshopper.com
-- appsocks.net
+- kui.name
 - appspot.com
 - appsto.re
 - aptoide.com
@@ -1549,7 +1549,7 @@ domain_suffix_set:
 - ettoday.net
 - etvonline.hk
 - eucasino.com
-- eulam.com
+- 000webhost.com
 - eurekavpt.com
 - euronews.com
 - wrchina.org
@@ -1648,7 +1648,7 @@ domain_suffix_set:
 - wowporn.com
 - fastestvpn.com
 - fastpic.ru
-- 000webhost.com
+- fastssh.com
 - faststone.org
 - fatbtc.com
 - favstar.fm
@@ -1740,6 +1740,7 @@ domain_suffix_set:
 - focusvpn.com
 - fofg.org
 - fooooo.com
+- forbes.com
 - foreignaffairs.com
 - foreignpolicy.com
 - form.new
@@ -2927,10 +2928,10 @@ domain_suffix_set:
 - kspcoin.com
 - ktzhk.com
 - kuaichedao.co
-- kucoin.com
-- fastssh.com
+- eulam.com
 - 030buy.com
-- thetatoken.org
+- lihkg.com
+- kun.im
 - kurashsultan.com
 - kurtmunger.com
 - kusocity.com
@@ -3010,7 +3011,7 @@ domain_suffix_set:
 - lightnovel.cn
 - lightyearvpn.com
 - lih.kg
-- lihkg.com
+- kukuku.uk
 - like.com
 - lilaoshibushinilaoshi.com
 - limiao.net
@@ -4645,7 +4646,7 @@ domain_suffix_set:
 - taiwanus.net
 - twitgoo.com
 - talk853.com
-- kukuku.uk
+- talkboxapp.com
 - talkcc.com
 - talkonly.net
 - tanc.org
@@ -4750,7 +4751,7 @@ domain_suffix_set:
 - twiggit.org
 - twiffo.com
 - thestandnews.com
-- kun.im
+- thetatoken.org
 - thetibetcenter.org
 - thetibetconnection.org
 - thetibetmuseum.org
