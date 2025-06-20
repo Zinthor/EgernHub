@@ -1,7 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- kucoin.com
-- appsocks.net
+- kui.name
+- fux.com
 - 0rz.tw
 - 1000giri.net
 - 10beasts.net
@@ -257,6 +257,7 @@ domain_suffix_set:
 - amnestyusa.org
 - ampproject.org
 - amtb-taipei.org
+- amuletmc.com
 - anchor.fm
 - anchorfree.com
 - ancsconf.org
@@ -326,7 +327,7 @@ domain_suffix_set:
 - zhoushuguang.com
 - zhongzidi.com
 - appshopper.com
-- kui.name
+- appsocks.net
 - appspot.com
 - appsto.re
 - aptoide.com
@@ -775,7 +776,7 @@ domain_suffix_set:
 - yobt.tv
 - bybit.com
 - yobt.com
-- bypasscensorship.org
+- 000webhost.com
 - byrut.org
 - c-est-simple.com
 - c-span.org
@@ -1549,7 +1550,7 @@ domain_suffix_set:
 - ettoday.net
 - etvonline.hk
 - eucasino.com
-- 000webhost.com
+- eulam.com
 - eurekavpt.com
 - euronews.com
 - wrchina.org
@@ -1581,7 +1582,7 @@ domain_suffix_set:
 - wozy.in
 - facebook.com
 - facebook.de
-- facebook.design
+- kuaichedao.co
 - facebook.hu
 - facebook.in
 - facebook.nl
@@ -1859,7 +1860,7 @@ domain_suffix_set:
 - furinkan.com
 - futurechinaforum.org
 - futuremessage.org
-- fux.com
+- kucoin.com
 - fuyindiantai.org
 - woeser.com
 - fw.cm
@@ -2927,10 +2928,10 @@ domain_suffix_set:
 - vpnfire.com
 - kspcoin.com
 - ktzhk.com
-- kuaichedao.co
-- eulam.com
+- facebook.design
 - 030buy.com
-- lihkg.com
+- bypasscensorship.org
+- kukuku.uk
 - kun.im
 - kurashsultan.com
 - kurtmunger.com
@@ -3011,7 +3012,7 @@ domain_suffix_set:
 - lightnovel.cn
 - lightyearvpn.com
 - lih.kg
-- kukuku.uk
+- lihkg.com
 - like.com
 - lilaoshibushinilaoshi.com
 - limiao.net
