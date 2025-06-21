@@ -4,7 +4,6 @@ domain_set:
 - 0d.kebhana.mx
 - 1337.abcvg.info
 - 1c.premierzal.ru
-- admin.52ywp.com
 - bandito.byterunner.io
 - bittorrent-tracker.e-n-c-r-y-p-t.net
 - bt.ktrackers.com
@@ -26,8 +25,8 @@ domain_set:
 - ipv4.rer.lol
 - ipv4announce.sktorrent.eu
 - ipv6.rer.lol
+- leet-tracker.moe
 - martin-gebhardt.eu
-- ns-1.x-fins.com
 - ns3109441.mypdns.org
 - nyaa.tracker.wf
 - open.demonii.com
@@ -54,10 +53,7 @@ domain_set:
 - taciturn-shadow.spb.ru
 - threads.canofsocks.com
 - tk.greedland.net
-- torrent.hificode.in
 - torrentsmd.com
-- tr-rh-zhuqiy.dgj055.icu
-- tr-zhuqiy-1.dgj055.icu
 - tr.abiir.top
 - tr.kxmp.cf
 - tr.nyacat.pw
@@ -81,6 +77,7 @@ domain_set:
 - tracker.dler.org
 - tracker.dmcomic.org
 - tracker.ducks.party
+- tracker.dump.cl
 - tracker.expli.top
 - tracker.filemail.com
 - tracker.fnix.net
@@ -89,10 +86,10 @@ domain_set:
 - tracker.ghostchu-services.top
 - tracker.gigantino.net
 - tracker.gmi.gd
+- tracker.guguan.dpdns.org
 - tracker.hifitechindia.com
 - tracker.iperson.xyz
 - tracker.ipv6tracker.org
-- tracker.ipv6tracker.ru
 - tracker.jdx3.org
 - tracker.kmzs123.cn
 - tracker.kmzs123.top
@@ -125,7 +122,6 @@ domain_set:
 - tracker.tritan.gg
 - tracker.tryhackx.org
 - tracker.tvunderground.org.ru
-- tracker.valete.tf
 - tracker.vanitycore.co
 - tracker.waaa.moe
 - tracker.xiaoduola.xyz
@@ -139,6 +135,7 @@ domain_set:
 - tracker3.itzmx.com
 - tracker4.itzmx.com
 - tracker810.xyz
+- trl-zhuqiy.dgj055.icu
 - ttk2.nbaonlineservice.com
 - udp.tracker.projectk.org
 - v74853.hosted-by-vdsina.com
