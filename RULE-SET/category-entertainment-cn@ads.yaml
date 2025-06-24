@@ -9,9 +9,9 @@ domain_set:
 - p9-ad-sign.byteimg.com
 - rtlog3-applog-hl.fqnovel.com
 - rtlog5-applog-hl.fqnovel.com
+- apilog-web.acfun.cn
 - log-sdk.gifshow.com
 - wlog.kuaishou.com
-- apilog-web.acfun.cn
 domain_suffix_set:
 - api.game.letvstore.com
 - ark.letv.com
@@ -31,11 +31,6 @@ domain_suffix_set:
 - ja1.gamersky.com
 - ja2.gamersky.com
 - wmbd.gamersky.com
-- adbkwai.com
-- adkwai.com
-- adukwai.com
-- e.kuaishou.cn
-- e.kuaishou.com
 - click.hunantv.com
 - da.hunantv.com
 - da.mgtv.com
@@ -62,3 +57,8 @@ domain_suffix_set:
 - ads.service.kugou.com
 - adserviceretry.kglink.cn
 - adserviceretry.kugou.com
+- adbkwai.com
+- adkwai.com
+- adukwai.com
+- e.kuaishou.cn
+- e.kuaishou.com
