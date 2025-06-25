@@ -1,10 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
-- alt7-mtalk.google.com
-- alt8-mtalk.google.com
-- mtalk-dev.google.com
-- mtalk-staging.google.com
-- mtalk4.google.com
 - alt1-mtalk.google.com
 - alt2-mtalk.google.com
 - alt3-mtalk.google.com

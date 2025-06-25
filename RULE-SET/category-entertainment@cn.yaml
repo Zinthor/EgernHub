@@ -13,10 +13,6 @@ domain_set:
 - gog-cdn-fastly.gog.com
 - gog-cdn.akamaized.net
 domain_suffix_set:
-- amazonprimevideo.cn
-- amazonprimevideo.com.cn
-- ggpht.cn
-- bluearchive-cn.com
 - legendofzelda.cn
 - legendofzelda.com.cn
 - miitomo.com.cn
@@ -45,6 +41,7 @@ domain_suffix_set:
 - gstore.val.manlaxy.com
 - leagueoflegends.cn
 - lpl.com.cn
+- bluearchive-cn.com
 - xboxlive.cn
 - mhystatic.com
 - mhyurl.cn
@@ -61,6 +58,9 @@ domain_suffix_set:
 - themisweeps.com
 - yuanshen.com
 - juequling.com
+- amazonprimevideo.cn
+- amazonprimevideo.com.cn
+- ggpht.cn
 domain_regex_set:
 - ^cdn-akamai-.+\.gog-services\.com$
 - ^gog-cdn-.+\.footprint\.net$

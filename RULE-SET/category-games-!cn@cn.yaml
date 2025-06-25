@@ -13,7 +13,6 @@ domain_set:
 - gog-cdn-fastly.gog.com
 - gog-cdn.akamaized.net
 domain_suffix_set:
-- bluearchive-cn.com
 - legendofzelda.cn
 - legendofzelda.com.cn
 - miitomo.com.cn
@@ -42,6 +41,7 @@ domain_suffix_set:
 - gstore.val.manlaxy.com
 - leagueoflegends.cn
 - lpl.com.cn
+- bluearchive-cn.com
 - xboxlive.cn
 domain_regex_set:
 - ^cdn-akamai-.+\.gog-services\.com$
