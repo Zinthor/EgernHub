@@ -1,7 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- kuaichedao.co
-- dw-world.com
+- kucoin.com
+- gov.tw
 - 0rz.tw
 - 1000giri.net
 - 10beasts.net
@@ -36,7 +36,7 @@ domain_suffix_set:
 - 2-hand.info
 - 2000fun.com
 - 2008xianzhang.info
-- 2021hkcharter.com
+- kui.name
 - 2047.name
 - 2047.one
 - 2049bbs.xyz
@@ -923,7 +923,6 @@ domain_suffix_set:
 - xys.org
 - cherrysave.com
 - chhongbi.org
-- chicagoncmtv.com
 - xxxymovies.com
 - china-mmm.net
 - xxxy.info
@@ -1070,7 +1069,7 @@ domain_suffix_set:
 - xn--oiq.cc
 - cn6.eu
 - xn--noss43i.com
-- kucoin.com
+- cnabc.com
 - xn--ngstr-lra8j.com
 - xn--i2ru8q2qg.com
 - cnd.org
@@ -1401,7 +1400,7 @@ domain_suffix_set:
 - duyaoss.com
 - dvdpac.com
 - dvorak.org
-- kui.name
+- dw-world.com
 - dw-world.de
 - dw.com
 - dw.de
@@ -1674,7 +1673,7 @@ domain_suffix_set:
 - fdc89.jp
 - feedburner.com
 - feeder.co
-- wowgirls.com
+- 000webhost.com
 - feedx.net
 - feelssh.com
 - feer.com
@@ -1692,7 +1691,7 @@ domain_suffix_set:
 - fgmtv.net
 - fgmtv.org
 - fhreports.net
-- wow.com
+- wowgirls.com
 - figprayer.com
 - fileflyer.com
 - fileserve.com
@@ -1736,7 +1735,7 @@ domain_suffix_set:
 - flyzy2005.com
 - fnac.be
 - fnac.com
-- worldvpn.net
+- wow.com
 - fochk.org
 - focustaiwan.tw
 - focusvpn.com
@@ -1747,13 +1746,13 @@ domain_suffix_set:
 - foreignpolicy.com
 - form.new
 - forms.new
+- worldvpn.net
 - worldjournal.com
 - worldcat.org
 - workers.dev
 - workerempowerment.org
 - workatruna.com
 - work2icu.org
-- wordpress.com
 - forum4hk.com
 - fountmedia.io
 - fourthinternational.org
@@ -1764,7 +1763,7 @@ domain_suffix_set:
 - fpmt.org
 - fpmt.tw
 - fpmtmexico.org
-- woopie.tv
+- wordpress.com
 - fqrouter.com
 - frank2019.me
 - franklc.com
@@ -1774,7 +1773,7 @@ domain_suffix_set:
 - free-proxy.cz
 - free-ss.site
 - free.bg
-- woopie.jp
+- woopie.tv
 - free.fr
 - freebeacon.com
 - freebrowser.org
@@ -1786,11 +1785,9 @@ domain_suffix_set:
 - freeddns.org
 - freedomcollection.org
 - freedomhouse.org
-- woolyss.com
+- woopie.jp
 - freedomsherald.org
 - freeforums.org
-- freefq.com
-- freefuckvids.com
 - freegao.com
 - freehongkong.org
 - freeilhamtohti.org
@@ -1811,7 +1808,7 @@ domain_suffix_set:
 - freetibet.net
 - freetibet.org
 - freetibetanheroes.org
-- wombo.ai
+- woolyss.com
 - freetribe.me
 - freeviewmovies.com
 - freevpn.me
@@ -1843,8 +1840,8 @@ domain_suffix_set:
 - ftchinese.com
 - ftp1.biz
 - ftpserver.biz
+- wombo.ai
 - wolfax.com
-- wokar.org
 - ftx.com
 - fucd.com
 - fuchsia.dev
@@ -1863,7 +1860,7 @@ domain_suffix_set:
 - futuremessage.org
 - fux.com
 - fuyindiantai.org
-- 000webhost.com
+- wokar.org
 - fw.cm
 - fxcm-chinese.com
 - fxnetworks.com
@@ -2266,7 +2263,7 @@ domain_suffix_set:
 - gotw.ca
 - gov.ir
 - gov.taipei
-- gov.tw
+- kukuku.uk
 - gr8domain.biz
 - gr8name.biz
 - grammaly.com
@@ -2932,10 +2929,10 @@ domain_suffix_set:
 - vpnforgame.net
 - kspcoin.com
 - ktzhk.com
+- kuaichedao.co
 - vpnfire.com
-- cnabc.com
+- 2021hkcharter.com
 - 030buy.com
-- kukuku.uk
 - kun.im
 - kurashsultan.com
 - kurtmunger.com
@@ -4052,6 +4049,7 @@ domain_suffix_set:
 - radioline.co
 - radiovaticana.org
 - radiovncr.com
+- radmin-vpn.com
 - rael.org
 - raggedbanner.com
 - uraban.me
@@ -5302,7 +5300,7 @@ domain_suffix_set:
 - lama.com.tw
 - lab.skk.moe
 - kwongwah.com.my
-- fuyu.org.tw
+- feeds.fileforum.com
 - ksnews.com.tw
 - kmuh.org.tw
 - kk-whys.co.jp
@@ -5483,6 +5481,7 @@ domain_suffix_set:
 - gamez.com.tw
 - gamer.com.tw
 - gamebase.com.tw
+- fuyu.org.tw
 - ftvnews.com.tw
 - ftv.com.tw
 - freetls.fastly.net
@@ -5497,7 +5496,6 @@ domain_suffix_set:
 - forum.baby-kingdom.com
 - app.box.com
 - fiddle.jshell.net
-- feeds.fileforum.com
 - fast.wistia.com
 - fangong.forums-free.com
 - falungong.org.uk
