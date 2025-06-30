@@ -51468,7 +51468,6 @@ domain_suffix_set:
 - rabbit.tg.meitu.com
 - xiuxiu.android.dl.meitu.com
 - report.meituan.com
-- analytics.meituan.net
 - data-sdk-uuid-log.d.meituan.net
 - dreport.meituan.net
 - xiuxiu.mobile.meitudata.com
