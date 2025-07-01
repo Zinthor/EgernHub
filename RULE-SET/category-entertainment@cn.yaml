@@ -13,6 +13,9 @@ domain_set:
 - gog-cdn-fastly.gog.com
 - gog-cdn.akamaized.net
 domain_suffix_set:
+- ggpht.cn
+- leagueoflegends.cn
+- lpl.com.cn
 - steamserver.net
 - steamusercontent.com
 - csgo.wmsj.cn
@@ -27,6 +30,7 @@ domain_suffix_set:
 - steamstatic.com.8686c.com
 - steamchina.com
 - gstore.val.manlaxy.com
+- xboxlive.cn
 - legendofzelda.cn
 - legendofzelda.com.cn
 - miitomo.com.cn
@@ -40,12 +44,6 @@ domain_suffix_set:
 - mariokart.com.cn
 - supermariobros.com.cn
 - bluearchive-cn.com
-- leagueoflegends.cn
-- lpl.com.cn
-- xboxlive.cn
-- ggpht.cn
-- amazonprimevideo.cn
-- amazonprimevideo.com.cn
 - mhystatic.com
 - mhyurl.cn
 - mihayo.com
@@ -61,10 +59,12 @@ domain_suffix_set:
 - themisweeps.com
 - yuanshen.com
 - juequling.com
+- amazonprimevideo.cn
+- amazonprimevideo.com.cn
 domain_regex_set:
+- ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+- ^epicgames-download\d-\d+\.file\.myqcloud\.com$
 - ^cdn-akamai-.+\.gog-services\.com$
 - ^gog-cdn-.+\.footprint\.net$
 - ^images(-\d)?\.gog-statics\.com$
-- ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-- ^epicgames-download\d-\d+\.file\.myqcloud\.com$
 - ^.+-mihayo\.akamaized\.net$
