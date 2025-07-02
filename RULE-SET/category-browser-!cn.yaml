@@ -2,7 +2,7 @@
 domain_suffix_set:
 - chrome
 - librewolf.net
-- censorship.no
+- epicbrowser.com
 - kmeleonbrowser.org
 - brave.com
 - bromite.org
@@ -23,8 +23,8 @@ domain_suffix_set:
 - qutebrowser.org
 - vivaldi.com
 - minbrowser.org
-- epicbrowser.com
 - firefox.com
 - firefoxusercontent.com
 - torproject.org
+- censorship.no
 - browser.kagi.com
