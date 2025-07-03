@@ -1,8 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
 - canonical.com
-- snapcraft.io
-- snapstore.io
 - ubuntu.com
 - ubuntu.net
 - ubuntuforums.org
@@ -12,3 +10,5 @@ domain_suffix_set:
 - launchpadlibrarian.com
 - launchpadlibrarian.net
 - launchpadlibrarian.org
+- snapcraft.io
+- snapstore.io

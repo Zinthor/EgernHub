@@ -26,8 +26,8 @@ domain_set:
 - mscrl.microsoft.com
 - ocsp.microsoft.com
 - oneocsp.microsoft.com
-- flightsimulator.azureedge.net
 - prodforza.blob.core.windows.net
+- flightsimulator.azureedge.net
 - azure.microsoft.com
 - azuremarketplace.microsoft.com
 - location.microsoft.com
@@ -429,8 +429,6 @@ domain_suffix_set:
 - xboxservices.com
 - xboxstudios.com
 - xbx.lv
-- asobostudio.com
-- flightsimulator.com
 - beth.games
 - bethesda.net
 - bethesdagamestudios.com
@@ -447,6 +445,8 @@ domain_suffix_set:
 - minecraftservices.com
 - minecraftshop.com
 - mojang.com
+- asobostudio.com
+- flightsimulator.com
 - microsoft.be
 - aadrm.com
 - azure-devices-int.net

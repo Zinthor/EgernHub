@@ -1,13 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- kurogames.com
-- aki-game.com
-- bilibiligame.cn
-- bilibiligame.co
-- bilibiligame.net
-- biligame.co
-- biligame.com
-- biligame.net
 - sl916.com
 - mhystatic.com
 - mhyurl.cn
@@ -24,6 +16,14 @@ domain_suffix_set:
 - themisweeps.com
 - yuanshen.com
 - juequling.com
+- bilibiligame.cn
+- bilibiligame.co
+- bilibiligame.net
+- biligame.co
+- biligame.com
+- biligame.net
+- kurogames.com
+- aki-game.com
 - battlecare.net
 - gameitop.com
 - gameloop.com
