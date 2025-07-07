@@ -1,6 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- freeweibo.com
+- applecensorship.com
 - ooni.org
 - browserleaks.com
 - bypasscensorship.org
@@ -20,7 +20,7 @@ domain_suffix_set:
 - lokinet.org
 - ntc.party
 - onionshare.org
-- freezhihu.org
+- freebrowser.org
 - openvpn.net
 - privacytools.io
 - proxifier.com
@@ -43,16 +43,17 @@ domain_suffix_set:
 - wireguard.com
 - zeronet.io
 - metacubex.one
-- applecensorship.com
-- freebrowser.org
-- freewechat.com
+- citizenlab.ca
+- citizenlab.org
+- epicbrowser.com
 - stunnel.org
 - akasha.world
-- haveibeenpwned.com
+- greatfire.org
+- freeweibo.com
+- freezhihu.org
+- freewechat.com
 - pao-pao.net
 - wikiunblocked.org
-- greatfire.org
-- pwnedpasswords.com
 - softether.org
 - softether-download.com
 - torproject.org
@@ -79,11 +80,10 @@ domain_suffix_set:
 - paskoocheh.com
 - lantern.io
 - getlantern.org
-- epicbrowser.com
-- citizenlab.org
-- citizenlab.ca
-- ipfs.fleek.co
+- pwnedpasswords.com
+- haveibeenpwned.com
 - ipfs.lain.la
+- ipfs.fleek.co
 - ipfs.best-practice.se
 - ipfs.eternum.io
 - gateway.pinata.cloud
