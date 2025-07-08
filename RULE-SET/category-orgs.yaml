@@ -1,6 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
-- csis-prod.s3.amazonaws.com
 - a.ppy.sh
 - assets.ppy.sh
 - c.ppy.sh
@@ -10,6 +9,7 @@ domain_set:
 - notify.ppy.sh
 - sentry.ppy.sh
 - spectator.ppy.sh
+- csis-prod.s3.amazonaws.com
 domain_suffix_set:
 - aomedia.org
 - atypi.org
@@ -25,11 +25,6 @@ domain_suffix_set:
 - who.int
 - wi-fi.org
 - wto.org
-- ccstatic.org
-- creativecommons.org
-- creativecommons.engineering
-- licensebuttons.net
-- csis.org
 - emojipedia.org
 - worldemojiawards.com
 - worldemojiday.com
@@ -38,15 +33,21 @@ domain_suffix_set:
 - f-droid.com
 - f-droid.org
 - fdroid.org
-- acousticbrainz.org
-- bookbrainz.org
-- coverartarchive.org
-- critiquebrainz.org
-- listenbrainz.org
-- messybrainz.org
-- metabrainz.org
-- musicbrainz.org
+- nist.gov
+- time.gov
+- openmaps.org
+- openstreetmap.com
+- openstreetmap.net
+- openstreetmap.org
+- openstreetmaps.org
+- osm.org
+- osmfoundation.org
+- stateofthemap.com
+- stateofthemap.org
 - paskoocheh.com
+- ppy.sh
+- rolfoundation.org
+- rolsociety.org
 - archive-it.org
 - archive.md
 - archive.org
@@ -55,6 +56,11 @@ domain_suffix_set:
 - openlibrary.org
 - 4pcdn.org
 - 4plebs.org
+- ccstatic.org
+- creativecommons.org
+- creativecommons.engineering
+- licensebuttons.net
+- csis.org
 - ieee.org
 - ieee.tv
 - tryengineering.org
@@ -109,17 +115,11 @@ domain_suffix_set:
 - signalprocessingsociety.org
 - technologyandsociety.org
 - vtsociety.org
-- nist.gov
-- time.gov
-- openmaps.org
-- openstreetmap.com
-- openstreetmap.net
-- openstreetmap.org
-- openstreetmaps.org
-- osm.org
-- osmfoundation.org
-- stateofthemap.com
-- stateofthemap.org
-- ppy.sh
-- rolfoundation.org
-- rolsociety.org
+- acousticbrainz.org
+- bookbrainz.org
+- coverartarchive.org
+- critiquebrainz.org
+- listenbrainz.org
+- messybrainz.org
+- metabrainz.org
+- musicbrainz.org
