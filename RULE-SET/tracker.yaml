@@ -4,6 +4,7 @@ domain_set:
 - 0d.kebhana.mx
 - 1337.abcvg.info
 - 1c.premierzal.ru
+- admin.52ywp.com
 - bandito.byterunner.io
 - bittorrent-tracker.e-n-c-r-y-p-t.net
 - bt.ktrackers.com
@@ -26,7 +27,6 @@ domain_set:
 - ipv4announce.sktorrent.eu
 - ipv6.rer.lol
 - isk.richardsw.club
-- leet-tracker.moe
 - martin-gebhardt.eu
 - ns-1.x-fins.com
 - ns3109441.mypdns.org
@@ -56,8 +56,8 @@ domain_set:
 - taciturn-shadow.spb.ru
 - threads.canofsocks.com
 - tk.greedland.net
+- torrent.hificode.in
 - torrentsmd.com
-- tr-zhuqiy-1.dgj055.icu
 - tr-zhuqiy-2.dgj055.icu
 - tr.abiir.top
 - tr.abir.ga
@@ -72,6 +72,7 @@ domain_set:
 - tracker.bitcoinindia.space
 - tracker.bittor.pw
 - tracker.bjut.jp
+- tracker.breizh.pm
 - tracker.bt-hash.com
 - tracker.bt4g.com
 - tracker.bz
@@ -91,6 +92,7 @@ domain_set:
 - tracker.ghostchu-services.top
 - tracker.gigantino.net
 - tracker.gmi.gd
+- tracker.hifimarket.in
 - tracker.hifitechindia.com
 - tracker.iperson.xyz
 - tracker.ipv6tracker.org
@@ -102,6 +104,7 @@ domain_set:
 - tracker.leechshield.link
 - tracker.lintk.me
 - tracker.linvk.com
+- tracker.lyretain.site
 - tracker.moeblog.cn
 - tracker.moeking.me
 - tracker.moxing.party
@@ -115,13 +118,16 @@ domain_set:
 - tracker.privateseedbox.xyz
 - tracker.qu.ax
 - tracker.renfei.net
+- tracker.rescuecrew7.com
 - tracker.sbsub.com
 - tracker.skillindia.site
 - tracker.skyts.net
 - tracker.srv00.com
+- tracker.theoks.net
 - tracker.therarbg.to
 - tracker.torrent.eu.org
 - tracker.torrust-demo.com
+- tracker.tritan.gg
 - tracker.tryhackx.org
 - tracker.tvunderground.org.ru
 - tracker.valete.tf
@@ -132,7 +138,6 @@ domain_set:
 - tracker.yume-hatsuyuki.moe
 - tracker.zhuqiy.top
 - tracker1.520.jp
-- tracker1.bt.moack.co.kr
 - tracker1.itzmx.com
 - tracker2.dler.org
 - tracker2.itzmx.com
