@@ -28,6 +28,9 @@ domain_suffix_set:
 - steamchina.com
 - gstore.val.manlaxy.com
 - bluearchive-cn.com
+- xboxlive.cn
+- leagueoflegends.cn
+- lpl.com.cn
 - legendofzelda.cn
 - legendofzelda.com.cn
 - miitomo.com.cn
@@ -40,12 +43,9 @@ domain_suffix_set:
 - mariokart.cn
 - mariokart.com.cn
 - supermariobros.com.cn
-- xboxlive.cn
-- leagueoflegends.cn
-- lpl.com.cn
 domain_regex_set:
-- ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-- ^epicgames-download\d-\d+\.file\.myqcloud\.com$
 - ^cdn-akamai-.+\.gog-services\.com$
 - ^gog-cdn-.+\.footprint\.net$
 - ^images(-\d)?\.gog-statics\.com$
+- ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+- ^epicgames-download\d-\d+\.file\.myqcloud\.com$
