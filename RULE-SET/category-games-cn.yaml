@@ -10,8 +10,6 @@ domain_suffix_set:
 - wo1wan.com
 - tiancity.com
 - tiancitycdn.com
-- tgbus.com
-- vgtime.com
 - vrzwk.cn
 - vrzwk.com
 - vrzwk.net
@@ -73,6 +71,7 @@ domain_suffix_set:
 - yxhhdl.com
 - cowlevel.net
 - cdncl.net
+- vgtime.com
 - ro.com
 - xd.cn
 - xd.com
@@ -84,6 +83,7 @@ domain_suffix_set:
 - taptap.com
 - taptap.io
 - taptapdada.com
+- tgbus.com
 - mhystatic.com
 - mhyurl.cn
 - mihayo.com

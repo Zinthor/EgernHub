@@ -122,7 +122,6 @@ domain_suffix_set:
 - sl916.com
 - kurogames.com
 - aki-game.com
-- xboxlive.cn
 - legendofzelda.cn
 - legendofzelda.com.cn
 - miitomo.com.cn
@@ -137,7 +136,6 @@ domain_suffix_set:
 - supermariobros.com.cn
 - leagueoflegends.cn
 - lpl.com.cn
-- bluearchive-cn.com
 - steamserver.net
 - steamusercontent.com
 - csgo.wmsj.cn
@@ -152,6 +150,8 @@ domain_suffix_set:
 - steamstatic.com.8686c.com
 - steamchina.com
 - gstore.val.manlaxy.com
+- xboxlive.cn
+- bluearchive-cn.com
 domain_regex_set:
 - ^.+-mihayo\.akamaized\.net$
 - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
