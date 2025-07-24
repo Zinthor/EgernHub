@@ -11,7 +11,7 @@ domain_suffix_set:
 - xn--p1ai
 - yandex
 - psk
-- vkgo.app
+- vkcache.com
 - ozonusercontent.com
 - mradx.net
 - mvk.com
@@ -27,7 +27,7 @@ domain_suffix_set:
 - vk.link
 - vk.me
 - vk.team
-- vkcache.com
+- vkgo.app
 - vklive.app
 - vkmessenger.app
 - vkmessenger.com
@@ -65,11 +65,11 @@ domain_suffix_set:
 - yandex.md
 - yandex.net
 - yandex.org
+- yandex.sx
 - yandex.tj
 - yandex.tm
 - mycdn.me
 - emias.info
-- yandex.sx
 - yandex.com.tr
 - yandex.com.ua
 - yandex.com.ge

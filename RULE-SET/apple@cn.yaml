@@ -306,6 +306,13 @@ domain_suffix_set:
 - xn--ohq11k7pl25iyo8a.cn
 - swiftui.cn
 - swiftui.com.cn
+- beats1.cn
+- beats1.com.cn
+- beats2.com.cn
+- beats4.cn
+- beatsbydre.com
+- beatsbydre.com.cn
+- beatsep.cn
 - apple-icloud.cn
 - appleicloud.cn
 - icloud-apple.cn
@@ -321,10 +328,3 @@ domain_suffix_set:
 - researchkit.com.cn
 - swiftui.cn
 - swiftui.com.cn
-- beats1.cn
-- beats1.com.cn
-- beats2.com.cn
-- beats4.cn
-- beatsbydre.com
-- beatsbydre.com.cn
-- beatsep.cn
