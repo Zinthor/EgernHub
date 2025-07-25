@@ -4,7 +4,7 @@ domain_set:
 - 0d.kebhana.mx
 - 1337.abcvg.info
 - 1c.premierzal.ru
-- asiatorrent.ddns.net
+- admin.52ywp.com
 - bandito.byterunner.io
 - bittorrent-tracker.e-n-c-r-y-p-t.net
 - bt.ktrackers.com
@@ -27,13 +27,13 @@ domain_set:
 - ipv4announce.sktorrent.eu
 - ipv6.rer.lol
 - isk.richardsw.club
+- leet-tracker.moe
 - martin-gebhardt.eu
 - ns-1.x-fins.com
 - ns3109441.mypdns.org
 - nyaa.tracker.wf
 - open.demonii.com
 - open.dstud.io
-- open.free-tracker.ga
 - open.stealth.si
 - open.tracker.cl
 - open.trackerlist.xyz
@@ -42,7 +42,6 @@ domain_set:
 - p4p.arenabg.com
 - public.tracker.vraphim.com
 - pybittrack.retiolus.net
-- region.nl1.privex.cc
 - retracker.hotplug.ru
 - retracker.lanta.me
 - retracker.spark-rostov.ru
@@ -63,13 +62,14 @@ domain_set:
 - tr.abir.ga
 - tr.nyacat.pw
 - tr.zukizuki.org
+- tr3.ysagin.top
 - tr4ck3r.duckdns.org
 - tracker-udp.gbitt.info
-- tracker.23794.top
 - tracker.aburaya.live
 - tracker.beeimg.com
 - tracker.bitcoinindia.space
 - tracker.bittor.pw
+- tracker.breizh.pm
 - tracker.bt-hash.com
 - tracker.bt4g.com
 - tracker.bz
@@ -92,9 +92,7 @@ domain_set:
 - tracker.gmi.gd
 - tracker.hifimarket.in
 - tracker.hifitechindia.com
-- tracker.home.kmzs123.cn
 - tracker.internetwarriors.net
-- tracker.iperson.xyz
 - tracker.ipv6tracker.org
 - tracker.ipv6tracker.ru
 - tracker.itscraftsoftware.my.id
@@ -120,6 +118,7 @@ domain_set:
 - tracker.skillindia.site
 - tracker.skyts.net
 - tracker.srv00.com
+- tracker.theoks.net
 - tracker.therarbg.to
 - tracker.torrent.eu.org
 - tracker.torrust-demo.com
