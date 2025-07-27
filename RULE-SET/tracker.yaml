@@ -34,6 +34,7 @@ domain_set:
 - nyaa.tracker.wf
 - open.demonii.com
 - open.dstud.io
+- open.free-tracker.ga
 - open.stealth.si
 - open.tracker.cl
 - open.trackerlist.xyz
@@ -55,7 +56,6 @@ domain_set:
 - t.overflow.biz
 - taciturn-shadow.spb.ru
 - tk.greedland.net
-- torrent.hificode.in
 - torrent.tracker.durukanbal.com
 - torrentsmd.com
 - tr.abiir.top
@@ -65,11 +65,11 @@ domain_set:
 - tr3.ysagin.top
 - tr4ck3r.duckdns.org
 - tracker-udp.gbitt.info
+- tracker.23794.top
 - tracker.aburaya.live
 - tracker.beeimg.com
 - tracker.bitcoinindia.space
 - tracker.bittor.pw
-- tracker.breizh.pm
 - tracker.bt-hash.com
 - tracker.bt4g.com
 - tracker.bz
@@ -80,8 +80,6 @@ domain_set:
 - tracker.dler.com
 - tracker.dler.org
 - tracker.dmcomic.org
-- tracker.ducks.party
-- tracker.dump.cl
 - tracker.expli.top
 - tracker.filemail.com
 - tracker.fnix.net
@@ -92,10 +90,11 @@ domain_set:
 - tracker.gmi.gd
 - tracker.hifimarket.in
 - tracker.hifitechindia.com
+- tracker.home.kmzs123.cn
 - tracker.internetwarriors.net
+- tracker.iperson.xyz
 - tracker.ipv6tracker.org
 - tracker.ipv6tracker.ru
-- tracker.itscraftsoftware.my.id
 - tracker.jdx3.org
 - tracker.kmzs123.cn
 - tracker.kuroy.me
@@ -122,10 +121,8 @@ domain_set:
 - tracker.therarbg.to
 - tracker.torrent.eu.org
 - tracker.torrust-demo.com
-- tracker.tricitytorrents.com
 - tracker.tritan.gg
 - tracker.tryhackx.org
-- tracker.tvunderground.org.ru
 - tracker.valete.tf
 - tracker.vanitycore.co
 - tracker.waaa.moe
