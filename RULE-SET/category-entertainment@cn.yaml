@@ -1,9 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
-- alibaba.cdn.steampipe.steamcontent.com
-- lv.queniujq.cn
-- xz.pphimalayanrt.com
-- uplaypc-s-ubisoft.cdn.ubi.com
 - gog.qtlglb.com
 - gogalaxy.gog-statics.com
 - menu-static.gog-statics.com
@@ -12,10 +8,11 @@ domain_set:
 - www4-static.gog-statics.com
 - gog-cdn-fastly.gog.com
 - gog-cdn.akamaized.net
+- alibaba.cdn.steampipe.steamcontent.com
+- lv.queniujq.cn
+- xz.pphimalayanrt.com
+- uplaypc-s-ubisoft.cdn.ubi.com
 domain_suffix_set:
-- ggpht.cn
-- amazonprimevideo.cn
-- amazonprimevideo.com.cn
 - mhystatic.com
 - mhyurl.cn
 - mihayo.com
@@ -31,6 +28,9 @@ domain_suffix_set:
 - themisweeps.com
 - yuanshen.com
 - juequling.com
+- amazonprimevideo.cn
+- amazonprimevideo.com.cn
+- ggpht.cn
 - legendofzelda.cn
 - legendofzelda.com.cn
 - miitomo.com.cn
@@ -43,6 +43,8 @@ domain_suffix_set:
 - mariokart.cn
 - mariokart.com.cn
 - supermariobros.com.cn
+- leagueoflegends.cn
+- lpl.com.cn
 - steamserver.net
 - steamusercontent.com
 - csgo.wmsj.cn
@@ -57,8 +59,6 @@ domain_suffix_set:
 - steamstatic.com.8686c.com
 - steamchina.com
 - gstore.val.manlaxy.com
-- leagueoflegends.cn
-- lpl.com.cn
 - bluearchive-cn.com
 - xboxlive.cn
 domain_regex_set:
