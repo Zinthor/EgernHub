@@ -25,6 +25,16 @@ domain_suffix_set:
 - who.int
 - wi-fi.org
 - wto.org
+- acousticbrainz.org
+- bookbrainz.org
+- coverartarchive.org
+- critiquebrainz.org
+- listenbrainz.org
+- messybrainz.org
+- metabrainz.org
+- musicbrainz.org
+- paskoocheh.com
+- ppy.sh
 - archive-it.org
 - archive.md
 - archive.org
@@ -37,6 +47,7 @@ domain_suffix_set:
 - creativecommons.org
 - creativecommons.engineering
 - licensebuttons.net
+- csis.org
 - emojipedia.org
 - worldemojiawards.com
 - worldemojiday.com
@@ -45,11 +56,6 @@ domain_suffix_set:
 - f-droid.com
 - f-droid.org
 - fdroid.org
-- paskoocheh.com
-- ppy.sh
-- rolfoundation.org
-- rolsociety.org
-- csis.org
 - ieee.org
 - ieee.tv
 - tryengineering.org
@@ -104,14 +110,6 @@ domain_suffix_set:
 - signalprocessingsociety.org
 - technologyandsociety.org
 - vtsociety.org
-- acousticbrainz.org
-- bookbrainz.org
-- coverartarchive.org
-- critiquebrainz.org
-- listenbrainz.org
-- messybrainz.org
-- metabrainz.org
-- musicbrainz.org
 - nist.gov
 - time.gov
 - openmaps.org
@@ -123,3 +121,5 @@ domain_suffix_set:
 - osmfoundation.org
 - stateofthemap.com
 - stateofthemap.org
+- rolfoundation.org
+- rolsociety.org
