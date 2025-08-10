@@ -13,6 +13,13 @@ domain_set:
 - lv.queniujq.cn
 - xz.pphimalayanrt.com
 domain_suffix_set:
+- bilibiligame.cn
+- bilibiligame.co
+- bilibiligame.net
+- biligame.co
+- biligame.com
+- biligame.net
+- sl916.com
 - mhystatic.com
 - mhyurl.cn
 - mihayo.com
@@ -28,15 +35,6 @@ domain_suffix_set:
 - themisweeps.com
 - yuanshen.com
 - juequling.com
-- bilibiligame.cn
-- bilibiligame.co
-- bilibiligame.net
-- biligame.co
-- biligame.com
-- biligame.net
-- sl916.com
-- kurogames.com
-- aki-game.com
 - battlecare.net
 - gameitop.com
 - gameloop.com
@@ -122,9 +120,10 @@ domain_suffix_set:
 - anticheatexpert.com
 - 17roco.com
 - roco.qq.com
+- kurogames.com
+- aki-game.com
 - leagueoflegends.cn
 - lpl.com.cn
-- bluearchive-cn.com
 - legendofzelda.cn
 - legendofzelda.com.cn
 - miitomo.com.cn
@@ -151,6 +150,7 @@ domain_suffix_set:
 - steamstatic.com.8686c.com
 - steamchina.com
 - gstore.val.manlaxy.com
+- bluearchive-cn.com
 - xboxlive.cn
 domain_regex_set:
 - ^.+-mihayo\.akamaized\.net$

@@ -15,7 +15,6 @@ domain_set:
 domain_suffix_set:
 - leagueoflegends.cn
 - lpl.com.cn
-- bluearchive-cn.com
 - legendofzelda.cn
 - legendofzelda.com.cn
 - miitomo.com.cn
@@ -42,6 +41,7 @@ domain_suffix_set:
 - steamstatic.com.8686c.com
 - steamchina.com
 - gstore.val.manlaxy.com
+- bluearchive-cn.com
 - xboxlive.cn
 domain_regex_set:
 - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
