@@ -5,7 +5,6 @@ domain_set:
 - 1337.abcvg.info
 - 1c.premierzal.ru
 - 6ahddutb1ucc3cp.ru
-- admin.52ywp.com
 - asiatorrent.ddns.net
 - asiatorrent.giize.com
 - bandito.byterunner.io
@@ -18,7 +17,6 @@ domain_set:
 - buny.uk
 - concen.org
 - d40969.acod.regrucolo.ru
-- discord.heihachi.pw
 - evan.im
 - exodus.desync.com
 - explodie.org
@@ -33,9 +31,12 @@ domain_set:
 - isk.richardsw.club
 - lucke.fenesisu.moe
 - martin-gebhardt.eu
+- ns-1.x-fins.com
+- ns3109441.mypdns.org
 - nyaa.tracker.wf
 - open.demonii.com
 - open.dstud.io
+- open.free-tracker.ga
 - open.stealth.si
 - open.tracker.cl
 - open.trackerlist.xyz
@@ -43,7 +44,6 @@ domain_set:
 - opentracker.io
 - p4p.arenabg.com
 - public.tracker.vraphim.com
-- pybittrack.retiolus.net
 - retracker.hotplug.ru
 - retracker.lanta.me
 - retracker.spark-rostov.ru
@@ -61,10 +61,8 @@ domain_set:
 - torrentsmd.com
 - tr.abiir.top
 - tr.abir.ga
-- tr.kxmp.cf
 - tr.nyacat.pw
 - tr.zukizuki.org
-- tr3.ysagin.top
 - tr4ck3r.duckdns.org
 - tracker-udp.gbitt.info
 - tracker.23794.top
@@ -72,7 +70,6 @@ domain_set:
 - tracker.beeimg.com
 - tracker.bitcoinindia.space
 - tracker.bittor.pw
-- tracker.breizh.pm
 - tracker.bt-hash.com
 - tracker.bt4g.com
 - tracker.bz
@@ -94,8 +91,8 @@ domain_set:
 - tracker.healthcareindia.store
 - tracker.hifimarket.in
 - tracker.hifitechindia.com
-- tracker.internetwarriors.net
 - tracker.ipv6tracker.org
+- tracker.ipv6tracker.ru
 - tracker.jdx3.org
 - tracker.kmzs123.cn
 - tracker.kuroy.me
@@ -104,7 +101,7 @@ domain_set:
 - tracker.moeblog.cn
 - tracker.moxing.party
 - tracker.mywaifu.best
-- tracker.ololosh.space
+- tracker.netmap.top
 - tracker.opentrackr.org
 - tracker.openwebtorrent.com
 - tracker.plx.im
@@ -122,6 +119,7 @@ domain_set:
 - tracker.torrent.eu.org
 - tracker.torrust-demo.com
 - tracker.tritan.gg
+- tracker.tryhackx.org
 - tracker.tvunderground.org.ru
 - tracker.valete.tf
 - tracker.vanitycore.co

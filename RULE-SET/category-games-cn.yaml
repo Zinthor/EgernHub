@@ -8,11 +8,6 @@ domain_suffix_set:
 - tgpro.top
 - tgprocs.net
 - wo1wan.com
-- vgtime.com
-- vrzwk.cn
-- vrzwk.com
-- vrzwk.net
-- vrzwk.top
 - ro.com
 - xd.cn
 - xd.com
@@ -24,6 +19,14 @@ domain_suffix_set:
 - taptap.com
 - taptap.io
 - taptapdada.com
+- tiancity.com
+- tiancitycdn.com
+- tgbus.com
+- vgtime.com
+- vrzwk.cn
+- vrzwk.com
+- vrzwk.net
+- vrzwk.top
 - 3304399.com
 - 3304399.net
 - 3839.com
@@ -81,16 +84,12 @@ domain_suffix_set:
 - yxhhdl.com
 - cowlevel.net
 - cdncl.net
-- tgbus.com
-- tiancity.com
-- tiancitycdn.com
 - bilibiligame.cn
 - bilibiligame.co
 - bilibiligame.net
 - biligame.co
 - biligame.com
 - biligame.net
-- sl916.com
 - mhystatic.com
 - mhyurl.cn
 - mihayo.com
@@ -106,6 +105,8 @@ domain_suffix_set:
 - themisweeps.com
 - yuanshen.com
 - juequling.com
+- kurogames.com
+- aki-game.com
 - battlecare.net
 - gameitop.com
 - gameloop.com
@@ -192,7 +193,6 @@ domain_suffix_set:
 - anticheatexpert.com
 - 17roco.com
 - roco.qq.com
-- kurogames.com
-- aki-game.com
+- sl916.com
 domain_regex_set:
 - ^.+-mihayo\.akamaized\.net$
