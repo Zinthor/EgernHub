@@ -1,7 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
 - kui.name
-- dynamicdns.biz
+- crazypool.org
 - 0rz.tw
 - 1000giri.net
 - 10beasts.net
@@ -539,6 +539,7 @@ domain_suffix_set:
 - biliworld.com
 - billypan.com
 - binance.com
+- binance.org
 - binancezh.cc
 - binux.me
 - bird.so
@@ -1086,7 +1087,7 @@ domain_suffix_set:
 - cobinhood.com
 - cochina.org
 - codeshare.io
-- 000webhost.com
+- codeskulptor.org
 - cofacts.tw
 - coffeemanga.to
 - coinbase.com
@@ -1136,7 +1137,7 @@ domain_suffix_set:
 - cpu-monkey.com
 - cq99.us
 - crackle.com
-- crazypool.org
+- kukuku.uk
 - crazys.cc
 - crazyshit.com
 - crbug.com
@@ -1209,7 +1210,7 @@ domain_suffix_set:
 - dalailama-archives.org
 - dalailama.com
 - dalailama.mn
-- dalailama.ru
+- 000webhost.com
 - dalailama80.org
 - dalailamacenter.org
 - dalailamafellows.org
@@ -1411,7 +1412,7 @@ domain_suffix_set:
 - dwnews.com
 - dwnews.net
 - dynamic-dns.net
-- kukuku.uk
+- dynamicdns.biz
 - x3guide.com
 - x24hr.com
 - x.company
@@ -2325,7 +2326,7 @@ domain_suffix_set:
 - h-moe.com
 - h1n1china.org
 - h528.com
-- kun.im
+- h5dm.com
 - h5galgame.me
 - hacken.cc
 - hacker.org
@@ -2560,7 +2561,7 @@ domain_suffix_set:
 - wangafu.net
 - hustlercash.com
 - hut2.ru
-- hutianyi.net
+- kun.im
 - hutong9.net
 - huyandex.com
 - hwadzan.tw
@@ -2666,6 +2667,7 @@ domain_suffix_set:
 - indiemerch.com
 - vrsmash.com
 - info-graf.fr
+- infura.io
 - inherit.live
 - initiativesforchina.org
 - inkbunny.net
@@ -2936,9 +2938,9 @@ domain_suffix_set:
 - ktzhk.com
 - kuaichedao.co
 - kucoin.com
-- codeskulptor.org
+- dalailama.ru
 - 030buy.com
-- h5dm.com
+- hutianyi.net
 - kurashsultan.com
 - kurtmunger.com
 - kusocity.com
@@ -3090,6 +3092,7 @@ domain_suffix_set:
 - lsxszzg.com
 - voicettank.org
 - luckydesigner.space
+- luckymobile.ca
 - ludepress.com
 - luke54.com
 - luke54.org
@@ -3212,6 +3215,7 @@ domain_suffix_set:
 - messenger.com
 - meta.com
 - metafilter.com
+- metamask.io
 - metart.com
 - metarthunter.com
 - meteorshowersonline.com
