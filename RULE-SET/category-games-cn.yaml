@@ -11,12 +11,6 @@ domain_suffix_set:
 - tgbus.com
 - tiancity.com
 - tiancitycdn.com
-- cowlevel.net
-- cdncl.net
-- vrzwk.cn
-- vrzwk.com
-- vrzwk.net
-- vrzwk.top
 - ro.com
 - xd.cn
 - xd.com
@@ -28,6 +22,13 @@ domain_suffix_set:
 - taptap.com
 - taptap.io
 - taptapdada.com
+- cowlevel.net
+- cdncl.net
+- vgtime.com
+- vrzwk.cn
+- vrzwk.com
+- vrzwk.net
+- vrzwk.top
 - 3304399.com
 - 3304399.net
 - 3839.com
@@ -83,7 +84,7 @@ domain_suffix_set:
 - webgame163.com
 - youba.com
 - yxhhdl.com
-- vgtime.com
+- sl916.com
 - kurogames.com
 - aki-game.com
 - mhystatic.com
@@ -193,6 +194,5 @@ domain_suffix_set:
 - biligame.co
 - biligame.com
 - biligame.net
-- sl916.com
 domain_regex_set:
 - ^.+-mihayo\.akamaized\.net$

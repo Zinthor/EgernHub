@@ -2,6 +2,7 @@
 domain_set:
 - 0123456789nonexistent.com
 - 0d.kebhana.mx
+- 1.tracker.eu.org
 - 1337.abcvg.info
 - 1c.premierzal.ru
 - 6ahddutb1ucc3cp.ru
@@ -25,9 +26,12 @@ domain_set:
 - hificode.in
 - highteahop.top
 - home.yxgz.club
+- ibksturm.synology.me
 - ipv4.rer.lol
 - ipv4announce.sktorrent.eu
 - ipv6.rer.lol
+- isk.richardsw.club
+- leet-tracker.moe
 - lucke.fenesisu.moe
 - martin-gebhardt.eu
 - ns-1.x-fins.com
@@ -52,6 +56,7 @@ domain_set:
 - shahidrazi.online
 - share.hkg-fansub.info
 - shubt.net
+- speedtest.iperson.xyz
 - t.jaekr.sh
 - t.overflow.biz
 - tk.greedland.net
@@ -60,9 +65,8 @@ domain_set:
 - torrentsmd.com
 - tr.abiir.top
 - tr.abir.ga
-- tr.kxmp.cf
 - tr.nyacat.pw
-- tr.zukizuki.org
+- tr3.ysagin.top
 - tr4ck3r.duckdns.org
 - tracker-udp.gbitt.info
 - tracker.23794.top
@@ -73,6 +77,7 @@ domain_set:
 - tracker.bt-hash.com
 - tracker.bt4g.com
 - tracker.bz
+- tracker.cangku.moe
 - tracker.corpscorp.online
 - tracker.cutie.dating
 - tracker.cyberia.is
@@ -92,7 +97,7 @@ domain_set:
 - tracker.healthcareindia.store
 - tracker.hifimarket.in
 - tracker.hifitechindia.com
-- tracker.iperson.xyz
+- tracker.internetwarriors.net
 - tracker.ipv6tracker.org
 - tracker.ipv6tracker.ru
 - tracker.jdx3.org
@@ -113,6 +118,7 @@ domain_set:
 - tracker.sbsub.com
 - tracker.skillindia.site
 - tracker.srv00.com
+- tracker.theoks.net
 - tracker.therarbg.to
 - tracker.torrent.eu.org
 - tracker.torrust-demo.com
@@ -144,7 +150,6 @@ domain_set:
 - www.genesis-sp.org
 - www.torrent.eu.org
 - www.torrentsnipe.info
-- www.wareztorrent.com
 domain_suffix_set:
 - hdsky.me
 - hdbits.org
