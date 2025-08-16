@@ -1,7 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- kucoin.com
-- megurineluka.com
+- kukuku.uk
+- gelbooru.com
 - 0rz.tw
 - 1000giri.net
 - 10beasts.net
@@ -1334,7 +1334,7 @@ domain_suffix_set:
 - dns2go.com
 - dnscrypt.org
 - dnset.com
-- 000webhost.com
+- dnsrd.com
 - dnssec.net
 - dnvod.tv
 - doc.new
@@ -1491,7 +1491,7 @@ domain_suffix_set:
 - wwwhost.biz
 - www1.biz
 - enanyang.my
-- encrypt.me
+- 000webhost.com
 - encyclopedia.com
 - enewstree.com
 - enfal.de
@@ -1919,7 +1919,7 @@ domain_suffix_set:
 - geek-art.net
 - geekerhome.com
 - gekikame.com
-- gelbooru.com
+- kun.im
 - generated.photos
 - genius.com
 - wnacg.org
@@ -2106,7 +2106,7 @@ domain_suffix_set:
 - whispersystems.org
 - whippedass.com
 - wheretowatch.com
-- whereiswerner.com
+- kurashsultan.com
 - wheelockslatin.com
 - whatsonweibo.com
 - whatsapp.net
@@ -2940,11 +2940,11 @@ domain_suffix_set:
 - kspcoin.com
 - ktzhk.com
 - kuaichedao.co
-- dnsrd.com
+- kucoin.com
+- kui.name
+- encrypt.me
 - 030buy.com
-- polymerhk.com
-- kun.im
-- kurashsultan.com
+- whereiswerner.com
 - kurtmunger.com
 - kusocity.com
 - kwcg.ca
@@ -3197,7 +3197,7 @@ domain_suffix_set:
 - mega.nz
 - megalodon.jp
 - megaproxy.com
-- kui.name
+- megurineluka.com
 - meizhong.blog
 - meizhong.report
 - meltoday.com
@@ -3765,6 +3765,7 @@ domain_suffix_set:
 - paljorpublications.com
 - paltalk.com
 - uupool.cn
+- pancakeswap.finance
 - pandafan.pub
 - pandapow.co
 - pandapow.net
@@ -3831,6 +3832,7 @@ domain_suffix_set:
 - perplexity.ai
 - persecutionblog.com
 - persiankitty.com
+- pewresearch.org
 - phapluan.org
 - phayul.com
 - philborges.com
@@ -3901,7 +3903,7 @@ domain_suffix_set:
 - poloniex.com
 - polymarket.com
 - polymer-project.org
-- kukuku.uk
+- polymerhk.com
 - poolbinance.com
 - poolin.com
 - popai.pro
@@ -3960,6 +3962,7 @@ domain_suffix_set:
 - prisoneralert.com
 - pritunl.com
 - privacybox.de
+- privacyguides.org
 - private.com
 - privateinternetaccess.com
 - privatepaste.com
