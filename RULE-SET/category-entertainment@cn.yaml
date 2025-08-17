@@ -13,6 +13,9 @@ domain_set:
 - gog-cdn.akamaized.net
 - uplaypc-s-ubisoft.cdn.ubi.com
 domain_suffix_set:
+- ggpht.cn
+- amazonprimevideo.cn
+- amazonprimevideo.com.cn
 - mhystatic.com
 - mhyurl.cn
 - mihayo.com
@@ -28,21 +31,6 @@ domain_suffix_set:
 - themisweeps.com
 - yuanshen.com
 - juequling.com
-- bluearchive-cn.com
-- leagueoflegends.cn
-- lpl.com.cn
-- legendofzelda.cn
-- legendofzelda.com.cn
-- miitomo.com.cn
-- nintendolabo.cn
-- nintendoswitch.cn
-- nintendoswitch.com.cn
-- supersmashbros.cn
-- supersmashbros.com.cn
-- xn--mts47c3w9b1qr.cn
-- mariokart.cn
-- mariokart.com.cn
-- supermariobros.com.cn
 - steamserver.net
 - steamusercontent.com
 - csgo.wmsj.cn
@@ -57,10 +45,22 @@ domain_suffix_set:
 - steamstatic.com.8686c.com
 - steamchina.com
 - gstore.val.manlaxy.com
+- leagueoflegends.cn
+- lpl.com.cn
+- legendofzelda.cn
+- legendofzelda.com.cn
+- miitomo.com.cn
+- nintendolabo.cn
+- nintendoswitch.cn
+- nintendoswitch.com.cn
+- supersmashbros.cn
+- supersmashbros.com.cn
+- xn--mts47c3w9b1qr.cn
+- mariokart.cn
+- mariokart.com.cn
+- supermariobros.com.cn
+- bluearchive-cn.com
 - xboxlive.cn
-- amazonprimevideo.cn
-- amazonprimevideo.com.cn
-- ggpht.cn
 domain_regex_set:
 - ^.+-mihayo\.akamaized\.net$
 - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
