@@ -3,6 +3,7 @@ domain_set:
 - e8aeb8bbdbbd7.cdn.sohucs.com
 - 643108e7617ef.cdn.sohucs.com
 domain_suffix_set:
+- sohu
 - focus-img.cn
 - focus.cn
 - itc.cn
