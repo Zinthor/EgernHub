@@ -2,31 +2,32 @@
 domain_set:
 - github-cloud.s3.amazonaws.com
 domain_suffix_set:
-- githubcopilot.com
-- npmjs.org
-- atom.io
+- githubhackathon.com
+- npm.community
+- gh.io
 - ghcr.io
 - git.io
+- github.ai
 - github.blog
 - github.com
 - github.community
 - github.dev
 - github.io
 - githubapp.com
-- githubassets.com
-- gh.io
+- npmjs.org
 - dependabot.com
-- repo.new
+- githubuniverse.com
+- githubnext.com
 - githubpreview.dev
 - githubstatus.com
-- githubuniverse.com
+- atom.io
 - githubusercontent.com
 - myoctocat.com
 - opensource.guide
-- githubnext.com
+- repo.new
 - thegithubshop.com
-- githubhackathon.com
-- npm.community
+- githubassets.com
+- githubcopilot.com
 - npmjs.com
 - blob.core.windows.net
 domain_regex_set:
