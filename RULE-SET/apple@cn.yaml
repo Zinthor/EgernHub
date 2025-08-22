@@ -308,6 +308,8 @@ domain_suffix_set:
 - researchkit.com.cn
 - swiftui.cn
 - swiftui.com.cn
+- swiftui.cn
+- swiftui.com.cn
 - beats1.cn
 - beats1.com.cn
 - beats2.com.cn
@@ -326,5 +328,3 @@ domain_suffix_set:
 - itunesapple.cn
 - itunesradio.cn
 - itunesradio.com.cn
-- swiftui.cn
-- swiftui.com.cn
