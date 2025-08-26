@@ -1,8 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
-- alibaba.cdn.steampipe.steamcontent.com
-- lv.queniujq.cn
-- xz.pphimalayanrt.com
 - gog.qtlglb.com
 - gogalaxy.gog-statics.com
 - menu-static.gog-statics.com
@@ -12,7 +9,11 @@ domain_set:
 - gog-cdn-fastly.gog.com
 - gog-cdn.akamaized.net
 - uplaypc-s-ubisoft.cdn.ubi.com
+- alibaba.cdn.steampipe.steamcontent.com
+- lv.queniujq.cn
+- xz.pphimalayanrt.com
 domain_suffix_set:
+- sl916.com
 - battlecare.net
 - gameitop.com
 - gameloop.com
@@ -98,7 +99,12 @@ domain_suffix_set:
 - anticheatexpert.com
 - 17roco.com
 - roco.qq.com
-- sl916.com
+- bilibiligame.cn
+- bilibiligame.co
+- bilibiligame.net
+- biligame.co
+- biligame.com
+- biligame.net
 - kurogames.com
 - aki-game.com
 - mhystatic.com
@@ -116,13 +122,9 @@ domain_suffix_set:
 - themisweeps.com
 - yuanshen.com
 - juequling.com
-- bilibiligame.cn
-- bilibiligame.co
-- bilibiligame.net
-- biligame.co
-- biligame.com
-- biligame.net
 - bluearchive-cn.com
+- leagueoflegends.cn
+- lpl.com.cn
 - steamserver.net
 - steamusercontent.com
 - csgo.wmsj.cn
@@ -150,8 +152,6 @@ domain_suffix_set:
 - mariokart.cn
 - mariokart.com.cn
 - supermariobros.com.cn
-- leagueoflegends.cn
-- lpl.com.cn
 domain_regex_set:
 - ^.+-mihayo\.akamaized\.net$
 - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$

@@ -1,6 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
 - time.apple.com
+- time.asia.apple.com
 - time.euro.apple.com
 - time.aws.com
 - time.cloudflare.com

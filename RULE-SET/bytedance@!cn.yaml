@@ -1,8 +1,11 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
+- bytedance.map.fastly.net
 - p16-tiktokcdn-com.akamaized.net
 domain_suffix_set:
+- byteglb.com
 - byteoversea.com
+- byteoversea.net
 - ibytedtos.com
 - ibyteimg.com
 - coze.com

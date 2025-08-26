@@ -5,18 +5,20 @@ domain_set:
 - alkalimakersuite-pa.clients6.google.com
 - webchannel-alkalimakersuite-pa.clients6.google.com
 domain_suffix_set:
-- gemini.google
-- deepmind.google
-- jules.google
 - deepmind.com
+- deepmind.google
+- labs.google
+- jules.google
 - notebooklm.google
 - generativeai.google
-- generativelanguage.googleapis.com
-- aistudio.google.com
+- gemini.google
 - bard.google.com
+- aistudio.google.com
 - makersuite.google.com
 - gemini.google.com
 - proactivebackend-pa.googleapis.com
 - notebooklm.google.com
-- geller-pa.googleapis.com
+- generativelanguage.googleapis.com
 - jules.google.com
+- geller-pa.googleapis.com
+- aisandbox-pa.googleapis.com

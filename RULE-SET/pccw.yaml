@@ -30,4 +30,4 @@ domain_suffix_set:
 - 1010.com.hk
 - now.com.hk
 domain_regex_set:
-- ^ewcdn[0-9]{2}\.nowe\.com$
+- ^ewcdn[0-9]+\.nowe\.com$
