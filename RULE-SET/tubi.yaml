@@ -1,4 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
 - tubi.io
+- tubi.tv
+- tubi.video
 - tubitv.com

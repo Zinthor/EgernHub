@@ -4,7 +4,7 @@ domain_set:
 domain_suffix_set:
 - fox
 - foxsoccershop.com
-- fox7.com
+- fox9.com
 - fox.com
 - fox.tv
 - fox10.tv
@@ -28,7 +28,7 @@ domain_suffix_set:
 - fox35orlando.com
 - fox38corpuschristi.com
 - fox42kptm.com
-- foxsports-chicago.com
+- fox46.com
 - fox46charlotte.com
 - fox47.com
 - fox49.tv
@@ -39,9 +39,9 @@ domain_suffix_set:
 - fox5ny.com
 - fox5storm.com
 - fox6now.com
-- fox-corporation.com
+- fox7.com
 - fox7austin.com
-- fox9.com
+- foxsports-newyork.com
 - foxacrossamerica.com
 - foxaffiliateportal.com
 - foxandfriends.com
@@ -97,7 +97,7 @@ domain_suffix_set:
 - foxnewsgo.org
 - foxnewsgo.tv
 - foxnewshealth.com
-- foxsoccerplus.tv
+- foxnewslatino.com
 - foxnewsmagazine.com
 - foxnewsnetwork.com
 - foxnewsopinion.com
@@ -123,11 +123,11 @@ domain_suffix_set:
 - foxsoccermatchpass.com
 - foxsoccerplus.com
 - foxsoccerplus.net
-- foxnewslatino.com
+- foxsoccerplus.tv
+- fox-corporation.com
+- foxstudiolot.com
 - fox-news.com
-- fox46.com
-- foxsports-newyork.com
-- foxsports-world.com
+- tubitv.com
 - foxsports.cl
 - foxsports.co
 - foxsports.com
@@ -135,8 +135,10 @@ domain_suffix_set:
 - foxsports.info
 - foxsports.net
 - foxsports.pe
-- tubitv.com
+- tubi.video
+- tubi.tv
 - tubi.io
+- foxsports-world.com
 - wogx.com
 - woflthenewsstation.com
 - wofl.tv
@@ -145,8 +147,6 @@ domain_suffix_set:
 - thegeorgiascene.com
 - thefoxnation.com
 - theclasshroom.com
-- testonfox.com
-- teenchoice.com
 - foxsports.sv
 - foxsports.uy
 - foxsports2.com
@@ -159,11 +159,11 @@ domain_suffix_set:
 - foxsportssupports.com
 - foxsportsuniversity.com
 - foxsportsworld.com
-- foxstudiolot.com
+- foxsports-chicago.com
 - foxsuper6.com
 - foxtel.com
-- speedxtra.com
-- speedracegear.com
+- testonfox.com
+- teenchoice.com
 - foxtelevisionstations.com
 - foxtv.com
 - foxtvdvd.com
@@ -232,6 +232,8 @@ domain_suffix_set:
 - soccermatchpass.com
 - speeddreamride.com
 - speedfantasybid.com
+- speedracegear.com
+- speedxtra.com
 - foxsports.com.gt
 - foxsports.com.mx
 - foxsports.com.ve
@@ -240,9 +242,9 @@ domain_suffix_set:
 - foxtel.com.au
 - foxsports.net.br
 - foxsports.com.pe
-- foxsports.com.br
+- foxsports.com.bo
 - foxsports.com.co
 - foxsports.com.ec
-- foxsports.com.bo
 - foxsports.com.ar
 - foxsports.co.ve
+- foxsports.com.br
