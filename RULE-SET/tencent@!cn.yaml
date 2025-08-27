@@ -6,6 +6,7 @@ domain_suffix_set:
 - tencent.com.hk
 - wetv.vip
 - wetvinfo.com
+- supercell.com
 - intltencentcos.com
 - ap-hongkong.myqcloud.com
 - ap-singapore.myqcloud.com
@@ -69,4 +70,3 @@ domain_suffix_set:
 - ger.file.myqcloud.com
 - rumt-sg.com
 - rumt-us.com
-- supercell.com
