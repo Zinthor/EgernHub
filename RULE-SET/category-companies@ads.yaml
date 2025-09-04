@@ -1,32 +1,19 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
-- analytics.google.com
 - o33249.ingest.sentry.io
 - openaicom.imgix.net
 - browser-intake-datadoghq.com
+- analytics.google.com
 - sentry.hetzner.company
 domain_suffix_set:
+- snapads.com
 - advertising.adobe.com
 - tubemogul.com
 - ads.yahoo.com
 - gemini.yahoo.com
 - ysm.yahoo.com
-- snapads.com
-- graph.whatsapp.com
-- graph.whatsapp.net
-- graph.instagram.com
-- graph-fallback.instagram.com
-- ads-api.duolingo.com
-- metrics.duolingo.com
-- analytics.vpc.duolingo.com
-- ads.yahoo.com
-- gemini.yahoo.com
-- ysm.yahoo.com
 - amazon-adsystem.com
 - serving-sys.com
-- samsungads.com
-- clarity.ms
-- nelreports.net
 - 2mdn-cn.net
 - 2mdn.net
 - admob-cn.com
@@ -70,6 +57,19 @@ domain_suffix_set:
 - mail-ads.google.com
 - marketingplatform.google.com
 - urchin.com
+- ads-api.duolingo.com
+- metrics.duolingo.com
+- analytics.vpc.duolingo.com
+- ads.yahoo.com
+- gemini.yahoo.com
+- ysm.yahoo.com
+- graph.whatsapp.com
+- graph.whatsapp.net
+- graph.instagram.com
+- graph-fallback.instagram.com
+- clarity.ms
+- nelreports.net
+- samsungads.com
 - api-adservices.apple.com
 - iadsdk.apple.com
 - iad.apple.com
