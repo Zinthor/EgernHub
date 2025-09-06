@@ -1,7 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- kucoin.com
-- rolfoundation.org
+- kuaichedao.co
+- blog.jp
 - 0rz.tw
 - 1000giri.net
 - 10beasts.net
@@ -529,7 +529,7 @@ domain_suffix_set:
 - biblesforamerica.org
 - bibox.com
 - biedian.me
-- ktzhk.com
+- big.one
 - bigfools.com
 - bigjapanesesex.com
 - bigmoney.biz
@@ -587,7 +587,7 @@ domain_suffix_set:
 - yuvutu.com
 - yunomi.tokyo
 - yunchao.net
-- blog.jp
+- kucoin.com
 - yulghun.com
 - yuanzhengtang.org
 - yuanming.net
@@ -753,7 +753,7 @@ domain_suffix_set:
 - btdigg.org
 - btguard.com
 - btku.me
-- btku.org
+- 000webhost.com
 - btspread.com
 - btsynckeys.com
 - budaedu.org
@@ -2710,6 +2710,7 @@ domain_suffix_set:
 - iphonetaiwan.org
 - iphonix.fr
 - ipicture.ru
+- ipify.org
 - ipjetable.net
 - ipobar.com
 - ipoock.com
@@ -2948,10 +2949,10 @@ domain_suffix_set:
 - ksdl.org
 - vpnforgame.net
 - kspcoin.com
-- big.one
+- ktzhk.com
+- btku.org
 - 030buy.com
-- usercontent.goog
-- kui.name
+- nybooks.com
 - kukuku.uk
 - kun.im
 - kurashsultan.com
@@ -3634,7 +3635,7 @@ domain_suffix_set:
 - nwtca.org
 - nyaa.eu
 - nyaa.si
-- nybooks.com
+- kui.name
 - nylon-angel.com
 - nylonstockingsonline.com
 - nypost.com
@@ -3822,7 +3823,7 @@ domain_suffix_set:
 - usfk.mil
 - pdetails.com
 - pdproxy.com
-- 000webhost.com
+- usercontent.goog
 - peace.ca
 - peacefire.org
 - peeasian.com
@@ -4174,7 +4175,7 @@ domain_suffix_set:
 - rocket.chat
 - rocksdb.org
 - rojo.com
-- kuaichedao.co
+- rolfoundation.org
 - rolia.net
 - rolsociety.org
 - ronjoneswriter.com

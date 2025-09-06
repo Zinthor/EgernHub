@@ -1,6 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
-- uplaypc-s-ubisoft.cdn.ubi.com
 - gog.qtlglb.com
 - gogalaxy.gog-statics.com
 - menu-static.gog-statics.com
@@ -12,8 +11,8 @@ domain_set:
 - alibaba.cdn.steampipe.steamcontent.com
 - lv.queniujq.cn
 - xz.pphimalayanrt.com
+- uplaypc-s-ubisoft.cdn.ubi.com
 domain_suffix_set:
-- bluearchive-cn.com
 - steamserver.net
 - steamusercontent.com
 - csgo.wmsj.cn
@@ -31,6 +30,7 @@ domain_suffix_set:
 - xboxlive.cn
 - leagueoflegends.cn
 - lpl.com.cn
+- bluearchive-cn.com
 - legendofzelda.cn
 - legendofzelda.com.cn
 - miitomo.com.cn
