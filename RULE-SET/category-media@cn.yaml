@@ -1,7 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
+- tvbc.com.cn
+- cn-cdn1.skymansion.net
 - etnet.com.cn
 - etnetchina.com.cn
-- cn-cdn1.skymansion.net
 - thetype.cloud
-- tvbc.com.cn
