@@ -4,6 +4,7 @@ domain_set:
 - cdn.ampproject.org
 domain_suffix_set:
 - openjsf.org
+- electronjs.org
 - jquery.com
 - jquerymobile.com
 - jqueryui.com
@@ -13,4 +14,3 @@ domain_suffix_set:
 - ampproject.com
 - ampproject.net
 - ampproject.org
-- electronjs.org
