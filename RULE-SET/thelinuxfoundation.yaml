@@ -8,7 +8,6 @@ domain_suffix_set:
 - kernel.org
 - linux.org
 - openjsf.org
-- electronjs.org
 - jquery.com
 - jquerymobile.com
 - jqueryui.com
@@ -18,3 +17,4 @@ domain_suffix_set:
 - ampproject.com
 - ampproject.net
 - ampproject.org
+- electronjs.org
