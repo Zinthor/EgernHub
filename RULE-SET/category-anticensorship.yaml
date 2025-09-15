@@ -1,6 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- v2fly.org
+- softether.org
 - ooni.org
 - browserleaks.com
 - bypasscensorship.org
@@ -20,7 +20,7 @@ domain_suffix_set:
 - lokinet.org
 - ntc.party
 - onionshare.org
-- opengw.net
+- softether-download.com
 - openvpn.net
 - privacytools.io
 - proxifier.com
@@ -43,20 +43,18 @@ domain_suffix_set:
 - wireguard.com
 - zeronet.io
 - metacubex.one
-- censorship.no
-- v2ray.com
-- v2ray.cool
+- haveibeenpwned.com
+- pwnedpasswords.com
+- paskoocheh.com
 - stunnel.org
 - akasha.world
-- pwnedpasswords.com
 - vpngate.net
-- haveibeenpwned.com
+- opengw.net
 - vpngate.jp
-- getlantern.org
-- lantern.io
-- paskoocheh.com
-- softether.org
-- softether-download.com
+- torproject.org
+- v2ray.com
+- v2ray.cool
+- v2fly.org
 - ipns.co
 - ipfs.tech
 - cloudflare-ipfs.com
@@ -70,8 +68,9 @@ domain_suffix_set:
 - crustwebsites.net
 - 4everland.io
 - dweb.link
-- citizenlab.ca
-- torproject.org
+- censorship.no
+- lantern.io
+- getlantern.org
 - wikiunblocked.org
 - pao-pao.net
 - greatfire.org
@@ -80,8 +79,9 @@ domain_suffix_set:
 - freewechat.com
 - freebrowser.org
 - applecensorship.com
-- epicbrowser.com
+- citizenlab.ca
 - citizenlab.org
+- epicbrowser.com
 - ipfs.fleek.co
 - ipfs.lain.la
 - ipfs.best-practice.se
