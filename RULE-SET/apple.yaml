@@ -4,13 +4,6 @@ domain_set:
 - apple.com.akadns.net
 - courier-push-apple.com.akadns.net
 - push-apple.com.akadns.net
-- apple-tv-plus-press.apple.com
-- hls-amt.itunes.apple.com
-- hls.itunes.apple.com
-- np-edge.itunes.apple.com
-- play-edge.itunes.apple.com
-- tv.applemusic.com
-- uts-api.itunes.apple.com
 - beatselectronicsllc.tt.omtrdc.net
 - www-cdn.icloud.com.akadns.net
 - notary-submissions-prod.s3-accelerate.amazonaws.com
@@ -18,6 +11,13 @@ domain_set:
 - appleworldwidedeveloper.hb-api.omtrdc.net
 - appleworldwidedeveloper.sc.omtrdc.net
 - p-events-delivery.akamaized.net
+- apple-tv-plus-press.apple.com
+- hls-amt.itunes.apple.com
+- hls.itunes.apple.com
+- np-edge.itunes.apple.com
+- play-edge.itunes.apple.com
+- tv.applemusic.com
+- uts-api.itunes.apple.com
 - amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 - amp-api-edge-lb.itunes-apple.com.akadns.net
 - amp-api-edge.apps.apple.com
@@ -285,7 +285,7 @@ domain_set:
 - valid.apple.com
 domain_suffix_set:
 - apple
-- beatsbydre-headphonesshop.com
+- beatsbydre-mall.com
 - iphonecases100.com
 - apple.be
 - apple.bg
@@ -421,7 +421,7 @@ domain_suffix_set:
 - appleappstore.net
 - appleappstore.tv
 - appsto.re
-- 12diasderegalosdeitunes.com
+- beatsbydre-outlet.com
 - appstore.hk
 - appstore.my
 - appstore.ph
@@ -432,7 +432,7 @@ domain_suffix_set:
 - imac-apple.com
 - imac-applecomputer.com
 - imac.co
-- beatsbydre-mall.com
+- itunesu.net
 - imac.com
 - imac.eu
 - imac.gr
@@ -507,7 +507,7 @@ domain_suffix_set:
 - me.com
 - iphonecase2013.com
 - iphonecase5.com
-- beatsbydre-outlet.com
+- beatsbydre-outletsale.net
 - iphonecases5.com
 - ios-icloud.com
 - iphonecollcase.com
@@ -779,7 +779,7 @@ domain_suffix_set:
 - applereach.net
 - apples-msk.ru
 - applescreensavers.com
-- beatsbydre-outletsale.net
+- beatsbydre-outletstore.com
 - appleshare.info
 - icloud-content.com
 - applesurveys.com
@@ -930,7 +930,6 @@ domain_suffix_set:
 - xn--hxtr4rozx.xn--czr694b
 - xn--kput3imi374g.xn--hxt814e
 - xn--ruq8a011kt6y.xn--hxt814e
-- vipheadphones.com
 - 100beatscheap.com
 - 1monsterbeatsbydreus.com
 - 2013beatsbydrdreonline.com
@@ -1031,11 +1030,11 @@ domain_suffix_set:
 - beatsbydre-chen.com
 - beatsbydre-club.com
 - beatsbydre-headphones.com
+- beatsbydre-headphonesshop.com
 - apple.ae
-- itunesu.net
+- 12diasderegalosdeitunes.com
 - apple.at
 - applescript.info
-- beatsbydre-outletstore.com
 - beatsbydre-sell.com
 - beatsbydre-store.com
 - beatsbydre-studio.com
@@ -1630,9 +1629,9 @@ domain_suffix_set:
 - v-has.com
 - vip-beats.com
 - vipbeatsbydre.com
-- ipodrocks.com.au
-- applestore.com.ee
-- quicktime.com.au
+- vipheadphones.com
+- ipod.com.tw
+- applestore.com.bn
 - mr-apple.com.tw
 - macos.com.au
 - mac.com.au
@@ -1669,8 +1668,8 @@ domain_suffix_set:
 - macbookair.co.uk
 - macbookair.co.kr
 - ipodshop.com.au
-- applestore.com.eg
-- ipod.com.tw
+- ipodrocks.com.au
+- applestore.com.ee
 - ipod.com.sg
 - ipod.com.hk
 - ipod.com.fr
@@ -1702,9 +1701,9 @@ domain_suffix_set:
 - applestore.com.jo
 - applestore.com.hr
 - applestore.com.hk
-- apple.com.sg
-- webobjects.co.uk
-- applestore.com.au
+- applestore.com.gr
+- apple.com.py
+- quicktime.com.au
 - applestore.co.uk
 - applestore.co.ug
 - applestore.co.jp
@@ -1714,8 +1713,8 @@ domain_suffix_set:
 - apple.com.tw
 - apple.com.tr
 - apple.com.sv
-- applestore.com.gr
-- apple.com.py
+- apple.com.sg
+- applestore.com.eg
 - apple.com.pt
 - apple.com.pr
 - apple.com.pl
@@ -1750,7 +1749,8 @@ domain_suffix_set:
 - apple.co.mz
 - apple.co.kr
 - apple.co.jp
-- applestore.com.bn
+- applestore.com.au
+- webobjects.co.uk
 - apple.co.hu
 - itunes-apple.com.akadns.net
 - apple.cn
@@ -1791,6 +1791,10 @@ domain_suffix_set:
 - xn--czrs0t4phtr3a.cn
 - xn--fiqs8sxootzz.cn
 - xn--ohq11k7pl25iyo8a.cn
+- api-adservices.apple.com
+- iadsdk.apple.com
+- iad.apple.com
+- qwapi.com
 - beats1.cn
 - beats1.com.cn
 - beats2.com.cn
@@ -1815,7 +1819,3 @@ domain_suffix_set:
 - swiftui.com.cn
 - swiftui.cn
 - swiftui.com.cn
-- api-adservices.apple.com
-- iadsdk.apple.com
-- iad.apple.com
-- qwapi.com
