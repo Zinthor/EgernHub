@@ -1,7 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
-- cdn.ampproject.org
 - firebase-settings.crashlytics.com
+- cdn.ampproject.org
 domain_suffix_set:
 - cdn.jetbrains.com
 - download-cdn.jetbrains.com.cn
