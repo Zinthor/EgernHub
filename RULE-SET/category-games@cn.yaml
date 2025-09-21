@@ -13,12 +13,9 @@ domain_set:
 - gog-cdn-fastly.gog.com
 - gog-cdn.akamaized.net
 domain_suffix_set:
-- bilibiligame.cn
-- bilibiligame.co
-- bilibiligame.net
-- biligame.co
-- biligame.com
-- biligame.net
+- sl916.com
+- kurogames.com
+- aki-game.com
 - mhystatic.com
 - mhyurl.cn
 - mihayo.com
@@ -119,10 +116,12 @@ domain_suffix_set:
 - anticheatexpert.com
 - 17roco.com
 - roco.qq.com
-- kurogames.com
-- aki-game.com
-- sl916.com
-- xboxlive.cn
+- bilibiligame.cn
+- bilibiligame.co
+- bilibiligame.net
+- biligame.co
+- biligame.com
+- biligame.net
 - steamserver.net
 - steamusercontent.com
 - csgo.wmsj.cn
@@ -137,7 +136,6 @@ domain_suffix_set:
 - steamstatic.com.8686c.com
 - steamchina.com
 - gstore.val.manlaxy.com
-- bluearchive-cn.com
 - legendofzelda.cn
 - legendofzelda.com.cn
 - miitomo.com.cn
@@ -152,6 +150,8 @@ domain_suffix_set:
 - supermariobros.com.cn
 - leagueoflegends.cn
 - lpl.com.cn
+- xboxlive.cn
+- bluearchive-cn.com
 domain_regex_set:
 - ^.+-mihayo\.akamaized\.net$
 - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$

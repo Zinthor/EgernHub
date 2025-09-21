@@ -8,8 +8,6 @@ domain_suffix_set:
 - tgpro.top
 - tgprocs.net
 - wo1wan.com
-- cowlevel.net
-- cdncl.net
 - tgbus.com
 - tiancity.com
 - tiancitycdn.com
@@ -68,6 +66,8 @@ domain_suffix_set:
 - webgame163.com
 - youba.com
 - yxhhdl.com
+- cowlevel.net
+- cdncl.net
 - vgtime.com
 - vrzwk.cn
 - vrzwk.com
@@ -84,12 +84,9 @@ domain_suffix_set:
 - taptap.com
 - taptap.io
 - taptapdada.com
-- bilibiligame.cn
-- bilibiligame.co
-- bilibiligame.net
-- biligame.co
-- biligame.com
-- biligame.net
+- sl916.com
+- kurogames.com
+- aki-game.com
 - mhystatic.com
 - mhyurl.cn
 - mihayo.com
@@ -191,8 +188,11 @@ domain_suffix_set:
 - anticheatexpert.com
 - 17roco.com
 - roco.qq.com
-- kurogames.com
-- aki-game.com
-- sl916.com
+- bilibiligame.cn
+- bilibiligame.co
+- bilibiligame.net
+- biligame.co
+- biligame.com
+- biligame.net
 domain_regex_set:
 - ^.+-mihayo\.akamaized\.net$
