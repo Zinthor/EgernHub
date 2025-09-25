@@ -1,6 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
-- uplaypc-s-ubisoft.cdn.ubi.com
 - gog.qtlglb.com
 - gogalaxy.gog-statics.com
 - menu-static.gog-statics.com
@@ -9,30 +8,15 @@ domain_set:
 - www4-static.gog-statics.com
 - gog-cdn-fastly.gog.com
 - gog-cdn.akamaized.net
+- uplaypc-s-ubisoft.cdn.ubi.com
 - alibaba.cdn.steampipe.steamcontent.com
 - lv.queniujq.cn
 - xz.pphimalayanrt.com
 domain_suffix_set:
-- amazonprimevideo.cn
-- amazonprimevideo.com.cn
-- mhystatic.com
-- mhyurl.cn
-- mihayo.com
-- mihayou.com
-- mihoyo.com
-- mihoyocg.com
-- mihoyogift.com
-- mihoyomall.com
-- miyoushe.com
-- benghuai.com
-- bh3.com
-- bhsr.com
-- themisweeps.com
-- yuanshen.com
-- juequling.com
-- xboxlive.cn
+- bluearchive-cn.com
 - leagueoflegends.cn
 - lpl.com.cn
+- xboxlive.cn
 - legendofzelda.cn
 - legendofzelda.com.cn
 - miitomo.com.cn
@@ -59,12 +43,28 @@ domain_suffix_set:
 - steamstatic.com.8686c.com
 - steamchina.com
 - gstore.val.manlaxy.com
-- bluearchive-cn.com
+- mhystatic.com
+- mhyurl.cn
+- mihayo.com
+- mihayou.com
+- mihoyo.com
+- mihoyocg.com
+- mihoyogift.com
+- mihoyomall.com
+- miyoushe.com
+- benghuai.com
+- bh3.com
+- bhsr.com
+- themisweeps.com
+- yuanshen.com
+- juequling.com
 - ggpht.cn
+- amazonprimevideo.cn
+- amazonprimevideo.com.cn
 domain_regex_set:
-- ^.+-mihayo\.akamaized\.net$
 - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 - ^epicgames-download\d-\d+\.file\.myqcloud\.com$
 - ^cdn-akamai-.+\.gog-services\.com$
 - ^gog-cdn-.+\.footprint\.net$
 - ^images(-\d)?\.gog-statics\.com$
+- ^.+-mihayo\.akamaized\.net$
