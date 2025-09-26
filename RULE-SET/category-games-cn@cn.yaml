@@ -1,5 +1,22 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
+- kurogames.com
+- aki-game.com
+- mhystatic.com
+- mhyurl.cn
+- mihayo.com
+- mihayou.com
+- mihoyo.com
+- mihoyocg.com
+- mihoyogift.com
+- mihoyomall.com
+- miyoushe.com
+- benghuai.com
+- bh3.com
+- bhsr.com
+- themisweeps.com
+- yuanshen.com
+- juequling.com
 - battlecare.net
 - gameitop.com
 - gameloop.com
@@ -85,29 +102,12 @@ domain_suffix_set:
 - anticheatexpert.com
 - 17roco.com
 - roco.qq.com
-- kurogames.com
-- aki-game.com
-- mhystatic.com
-- mhyurl.cn
-- mihayo.com
-- mihayou.com
-- mihoyo.com
-- mihoyocg.com
-- mihoyogift.com
-- mihoyomall.com
-- miyoushe.com
-- benghuai.com
-- bh3.com
-- bhsr.com
-- themisweeps.com
-- yuanshen.com
-- juequling.com
-- sl916.com
 - bilibiligame.cn
 - bilibiligame.co
 - bilibiligame.net
 - biligame.co
 - biligame.com
 - biligame.net
+- sl916.com
 domain_regex_set:
 - ^.+-mihayo\.akamaized\.net$
