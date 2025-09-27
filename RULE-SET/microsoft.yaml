@@ -343,12 +343,6 @@ domain_suffix_set:
 - xboxservices.com
 - xboxstudios.com
 - xbx.lv
-- callersbane.com
-- minecraft-services.net
-- minecraft.net
-- minecraftservices.com
-- minecraftshop.com
-- mojang.com
 - asobostudio.com
 - flightsimulator.com
 - beth.games
@@ -361,6 +355,12 @@ domain_suffix_set:
 - forzamotorsport.net
 - forzaracingchampionship.com
 - forzarc.com
+- callersbane.com
+- minecraft-services.net
+- minecraft.net
+- minecraftservices.com
+- minecraftshop.com
+- mojang.com
 - microsoft.ca
 - aadrm.com
 - azure-devices-int.net
