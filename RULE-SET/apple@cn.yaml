@@ -304,11 +304,6 @@ domain_suffix_set:
 - xn--czrs0t4phtr3a.cn
 - xn--fiqs8sxootzz.cn
 - xn--ohq11k7pl25iyo8a.cn
-- apple-itunes.cn
-- itunes-apple.cn
-- itunesapple.cn
-- itunesradio.cn
-- itunesradio.com.cn
 - swiftui.cn
 - swiftui.com.cn
 - researchkit.cn
@@ -328,3 +323,8 @@ domain_suffix_set:
 - icloud.com.cn
 - icloud.net.cn
 - icloudapple.cn
+- apple-itunes.cn
+- itunes-apple.cn
+- itunesapple.cn
+- itunesradio.cn
+- itunesradio.com.cn
