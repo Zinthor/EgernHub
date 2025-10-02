@@ -1,7 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
 - kucoin.com
-- democrats.org
+- anchorfree.com
 - 0rz.tw
 - 1000giri.net
 - 10beasts.net
@@ -260,7 +260,7 @@ domain_suffix_set:
 - amtb-taipei.org
 - amuletmc.com
 - anchor.fm
-- anchorfree.com
+- kui.name
 - ancsconf.org
 - andfaraway.net
 - android-x86.org
@@ -912,7 +912,7 @@ domain_suffix_set:
 - changeip.name
 - changeip.net
 - changeip.org
-- ktzhk.com
+- changp.com
 - channelnewsasia.com
 - chanworld.org
 - chaoex.com
@@ -1104,7 +1104,7 @@ domain_suffix_set:
 - xml-training-guide.com
 - cointiger.com
 - cointobe.com
-- coinut.com
+- 000webhost.com
 - colacloud.net
 - collateralmurder.com
 - collateralmurder.org
@@ -1276,7 +1276,7 @@ domain_suffix_set:
 - delcamp.net
 - delicious.com
 - xgmyd.com
-- kuaichedao.co
+- democrats.org
 - demosisto.hk
 - deno.dev
 - depositphotos.com
@@ -1846,7 +1846,7 @@ domain_suffix_set:
 - from-sd.com
 - fromchinatousa.net
 - frommel.net
-- frontlinedefenders.org
+- kukuku.uk
 - frootvpn.com
 - froth.zone
 - fscked.org
@@ -2954,11 +2954,11 @@ domain_suffix_set:
 - ksdl.org
 - vpnforgame.net
 - kspcoin.com
-- changp.com
+- ktzhk.com
+- kuaichedao.co
+- coinut.com
 - 030buy.com
-- tradingview.com
-- kui.name
-- kukuku.uk
+- frontlinedefenders.org
 - kun.im
 - kurashsultan.com
 - kurtmunger.com
@@ -4698,8 +4698,10 @@ domain_suffix_set:
 - tangren.us
 - tanks.gg
 - taoism.net
+- tap.io
 - tapanwap.com
 - tapatalk.com
+- taptap.io
 - tardigrade.io
 - twitch.tv
 - taup.net
@@ -4996,7 +4998,7 @@ domain_suffix_set:
 - tparents.org
 - tweetedtimes.com
 - tracfone.com
-- 000webhost.com
+- tradingview.com
 - translate.goog
 - transparency.org
 - tweetdeck.com

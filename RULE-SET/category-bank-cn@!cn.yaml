@@ -1,5 +1,10 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
+- ccbintl.com.hk
+- ccbseoul.com
+- citics.com.hk
+- cncbinternational.com
+- csci.hk
 - cmbi.com.hk
 - cmbwinglungbank.com
 - icbc-at.com
@@ -48,8 +53,3 @@ domain_suffix_set:
 - icbkfs.com
 - icbkus.com
 - bochk.com
-- ccbintl.com.hk
-- ccbseoul.com
-- citics.com.hk
-- cncbinternational.com
-- csci.hk
