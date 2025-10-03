@@ -9,13 +9,12 @@ domain_suffix_set:
 - tgprocs.net
 - wo1wan.com
 - vgtime.com
-- tgbus.com
-- tiancity.com
-- tiancitycdn.com
 - vrzwk.cn
 - vrzwk.com
 - vrzwk.net
 - vrzwk.top
+- cowlevel.net
+- cdncl.net
 - ro.com
 - xd.cn
 - xd.com
@@ -82,8 +81,9 @@ domain_suffix_set:
 - webgame163.com
 - youba.com
 - yxhhdl.com
-- cowlevel.net
-- cdncl.net
+- tgbus.com
+- tiancity.com
+- tiancitycdn.com
 - kurogames.com
 - aki-game.com
 - mhystatic.com
