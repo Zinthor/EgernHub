@@ -32,7 +32,9 @@ domain_set:
 - ipv4.rer.lol
 - ipv4announce.sktorrent.eu
 - ipv6.rer.lol
+- isk.richardsw.club
 - martin-gebhardt.eu
+- ns-1.x-fins.com
 - ns3109441.mypdns.org
 - nyaa.tracker.wf
 - open-tracker.demonoid.ch
@@ -40,6 +42,7 @@ domain_set:
 - open.demonii.si
 - open.demonoid.ch
 - open.dstud.io
+- open.free-tracker.ga
 - open.stealth.si
 - open.trackerlist.xyz
 - opentor.org
@@ -47,6 +50,7 @@ domain_set:
 - p4p.arenabg.com
 - public.demonoid.ch
 - public.tracker.vraphim.com
+- region.nl1.privex.cc
 - retracker.hotplug.ru
 - retracker.lanta.me
 - retracker.spark-rostov.ru
@@ -57,6 +61,7 @@ domain_set:
 - shahidrazi.online
 - share.hkg-fansub.info
 - shubt.net
+- t-backup.213891.xyz
 - t.213891.xyz
 - t.overflow.biz
 - tk.greedland.net
@@ -73,7 +78,6 @@ domain_set:
 - tr3.ysagin.top
 - tr4ck3r.duckdns.org
 - tracker-de-2.cutie.dating
-- tracker-udp.gbitt.info
 - tracker.23794.top
 - tracker.alaskantf.com
 - tracker.beeimg.com
@@ -88,6 +92,7 @@ domain_set:
 - tracker.corpscorp.online
 - tracker.cutie.dating
 - tracker.cyberia.is
+- tracker.darkness.services
 - tracker.dhitechnical.com
 - tracker.dler.com
 - tracker.dler.org
@@ -124,10 +129,10 @@ domain_set:
 - tracker.srv00.com
 - tracker.startwork.cv
 - tracker.tamersunion.org
-- tracker.theoks.net
 - tracker.therarbg.to
 - tracker.tnl.one
 - tracker.torrent.eu.org
+- tracker.torrust-demo.com
 - tracker.tritan.gg
 - tracker.tryhackx.org
 - tracker.tvunderground.org.ru
