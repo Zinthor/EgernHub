@@ -7,10 +7,6 @@ domain_set:
 - statics-marketingsites-eas-ms-com.akamaized.net
 - statics-marketingsites-eus-ms-com.akamaized.net
 - statics-marketingsites-wcus-ms-com.akamaized.net
-- crl.microsoft.com
-- mscrl.microsoft.com
-- ocsp.microsoft.com
-- oneocsp.microsoft.com
 - flightsimulator.azureedge.net
 - prodforza.blob.core.windows.net
 - azure.microsoft.com
@@ -32,6 +28,10 @@ domain_set:
 - vscode.blob.core.windows.net
 - vscode.search.windows.net
 - vsmarketplacebadge.apphb.com
+- crl.microsoft.com
+- mscrl.microsoft.com
+- ocsp.microsoft.com
+- oneocsp.microsoft.com
 - b.c2r.ts.cdn.office.net
 - bg.v4.a.dl.ws.microsoft.com
 - bg4.v4.a.dl.ws.microsoft.com
@@ -69,9 +69,9 @@ domain_set:
 - wscont1.apps.microsoft.com
 - wscont2.apps.microsoft.com
 - xb.dlservice.microsoft.com
-- www.microsoft.com
 - bj1.api.bing.com
 - emoi-cncdn.bing.com
+- www.microsoft.com
 domain_suffix_set:
 - microsoft
 - hotmail
@@ -83,7 +83,7 @@ domain_suffix_set:
 - xbox
 - onedriveupdater
 - onedrive
-- msocsp.com
+- microsoftnews.cc
 - msidentity.com
 - microsoft.com
 - microsoft.cz
@@ -239,7 +239,7 @@ domain_suffix_set:
 - msgamesresearch.com
 - msgamestudios.com
 - mshome.net
-- microsoftnews.net
+- microsoftnews.org
 - msocdn.com
 - msturing.org
 - msudalosti.com
@@ -318,13 +318,12 @@ domain_suffix_set:
 - winhec.net
 - yammer.com
 - microsoft.ch
-- microsoftnews.cc
+- microsoftnews.com
+- msocsp.com
 - xamarin.com
-- vscode-unpkg.net
-- microsoftsqlserver.com
+- mmdnn.com
 - microsoft.cl
-- mspairlift.com
-- microsoftnewsforkids.com
+- msropendata.com
 - microsoftnewsforkids.net
 - microsoftnewsforkids.org
 - microsoftnewskids.com
@@ -343,6 +342,7 @@ domain_suffix_set:
 - 1drv.com
 - livefilestore.com
 - sharepoint.cn
+- vscode-unpkg.net
 - vscode-cdn.net
 - vscode.dev
 - vsassets.io
@@ -351,7 +351,6 @@ domain_suffix_set:
 - visualstudio.net
 - visualstudio.eu
 - visualstudio.co
-- visualstudio.com
 - microsoft.by
 - gamepass.com
 - orithegame.com
@@ -478,7 +477,7 @@ domain_suffix_set:
 - office365love.com
 - office365tw.com
 - renovacionoffice.com
-- visualstudio-staging.com
+- visualstudio.com
 - githubhackathon.com
 - npm.community
 - gh.io
@@ -506,7 +505,7 @@ domain_suffix_set:
 - githubassets.com
 - githubcopilot.com
 - npmjs.com
-- uwpcommunitytoolkit.com
+- visualstudio-staging.com
 - adaptivecards.io
 - api-extractor.com
 - apisof.net
@@ -529,13 +528,13 @@ domain_suffix_set:
 - microsoftsilverlight.com
 - microsoftsilverlight.org
 - microsoftsilverlight.net
-- microsoftnews.com
-- mmdnn.com
+- microsoftsqlserver.com
+- microsoftnews.net
 - mono-project.com
 - msdn.com
 - msinnovationchallenge.com
-- microsoftnews.org
-- msropendata.com
+- mspairlift.com
+- microsoftnewsforkids.com
 - nuget.org
 - nugettest.org
 - opentranslatorstothings.org
@@ -544,9 +543,10 @@ domain_suffix_set:
 - sankie.net
 - sqlserveronlinux.com
 - timelinestoryteller.com
+- uwpcommunitytoolkit.com
 - spoprod-a.akamaihd.net
-- visualstudio.co.uk
 - live.com.au
+- visualstudio.co.uk
 - skype-edf.akadns.net
 - skypedata.akadns.net
 - microsoftstore.com.hk
