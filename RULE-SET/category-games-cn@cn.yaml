@@ -6,8 +6,6 @@ domain_suffix_set:
 - biligame.co
 - biligame.com
 - biligame.net
-- kurogames.com
-- aki-game.com
 - mhystatic.com
 - mhyurl.cn
 - mihayo.com
@@ -24,6 +22,8 @@ domain_suffix_set:
 - yuanshen.com
 - juequling.com
 - sl916.com
+- kurogames.com
+- aki-game.com
 - battlecare.net
 - gameitop.com
 - gameloop.com

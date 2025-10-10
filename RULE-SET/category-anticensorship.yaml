@@ -1,6 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- citizenlab.ca
+- opengw.net
 - ooni.org
 - browserleaks.com
 - bypasscensorship.org
@@ -20,7 +20,7 @@ domain_suffix_set:
 - lokinet.org
 - ntc.party
 - onionshare.org
-- citizenlab.org
+- vpngate.jp
 - openvpn.net
 - privacytools.io
 - proxifier.com
@@ -43,25 +43,15 @@ domain_suffix_set:
 - wireguard.com
 - zeronet.io
 - metacubex.one
-- opengw.net
-- vpngate.jp
-- vpngate.net
-- stunnel.org
-- akasha.world
-- v2ray.com
+- softether.org
 - softether-download.com
 - torproject.org
-- softether.org
-- v2ray.cool
-- v2fly.org
-- haveibeenpwned.com
-- pwnedpasswords.com
-- getlantern.org
-- lantern.io
-- paskoocheh.com
+- stunnel.org
+- akasha.world
+- cloudflare-ipfs.com
 - ipns.co
 - ipfs.tech
-- cloudflare-ipfs.com
+- vpngate.net
 - cf-ipfs.com
 - ipfs.io
 - ipfs-gateway.cloud
@@ -73,6 +63,7 @@ domain_suffix_set:
 - 4everland.io
 - dweb.link
 - censorship.no
+- paskoocheh.com
 - wikiunblocked.org
 - pao-pao.net
 - greatfire.org
@@ -82,6 +73,15 @@ domain_suffix_set:
 - freebrowser.org
 - applecensorship.com
 - epicbrowser.com
+- haveibeenpwned.com
+- pwnedpasswords.com
+- getlantern.org
+- lantern.io
+- v2ray.com
+- v2ray.cool
+- v2fly.org
+- citizenlab.ca
+- citizenlab.org
 - ipfs.fleek.co
 - ipfs.lain.la
 - ipfs.best-practice.se
