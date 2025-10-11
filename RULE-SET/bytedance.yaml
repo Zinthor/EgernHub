@@ -1,7 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
-- p3-novel.byteimg.com
-- p6-novel.byteimg.com
 - p1-juejin.byteimg.com
 - p2-juejin.byteimg.com
 - p3-juejin.byteimg.com
@@ -11,6 +9,8 @@ domain_set:
 - p7-juejin.byteimg.com
 - p8-juejin.byteimg.com
 - p9-juejin.byteimg.com
+- p3-novel.byteimg.com
+- p6-novel.byteimg.com
 - bytedance.map.fastly.net
 - p16-tiktokcdn-com.akamaized.net
 - ads3-normal-hl.zijieapi.com
@@ -381,7 +381,7 @@ domain_suffix_set:
 - 365yg.com
 - gogokid.com
 - hapierxia.com
-- xitu.io
+- qznovelvod.com
 - hapipixia.com
 - hapiyixia.com
 - kuailepipixia.com
@@ -396,6 +396,9 @@ domain_suffix_set:
 - faceu.com
 - ulikecam.com
 - rsproxy.cn
+- juejin.cn
+- juejin.im
+- xitu.io
 - baseopendev.com
 - bytecloud.com
 - byteoc.com
@@ -475,13 +478,13 @@ domain_suffix_set:
 - larksuitecdn.com
 - larksuiteimg-boe.com
 - larksuiteimg-pre.com
-- juejin.im
-- juejin.cn
-- qznovelvod.com
 - qznovelstatic.com
 - qznovelpic.com
 - qznovel.com
 - novelfmvod.com
+- novelfmstatic.com
+- novelfmpic.com
+- novelfm.com
 - aigc-cloud.com
 - bdegnine.com
 - bplslb.com
@@ -632,7 +635,7 @@ domain_suffix_set:
 - zvip.cn
 - bcy.net
 - bcyimg.com
-- novelfmstatic.com
+- muyewx.com
 - activity-zhendingtech.com
 - changdunovel.com
 - fanqienovel.com
@@ -652,9 +655,6 @@ domain_suffix_set:
 - fqnovelstatic.com
 - fqnovelvod.com
 - ihaohaoxuexi.com
-- muyewx.com
-- novelfm.com
-- novelfmpic.com
 - lf-rc1.yhgfb-cn-static.com
 - okr.com.cn
 - gogokid.com.cn
