@@ -1,14 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- bilibiligame.cn
-- bilibiligame.co
-- bilibiligame.net
-- biligame.co
-- biligame.com
-- biligame.net
 - sl916.com
-- kurogames.com
-- aki-game.com
 - mhystatic.com
 - mhyurl.cn
 - mihayo.com
@@ -109,5 +101,13 @@ domain_suffix_set:
 - anticheatexpert.com
 - 17roco.com
 - roco.qq.com
+- kurogames.com
+- aki-game.com
+- bilibiligame.cn
+- bilibiligame.co
+- bilibiligame.net
+- biligame.co
+- biligame.com
+- biligame.net
 domain_regex_set:
 - ^.+-mihayo\.akamaized\.net$
