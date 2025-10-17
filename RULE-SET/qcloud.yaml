@@ -1,12 +1,14 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
 - tencentcloudmarket.com
-- bkapps.com
+- tdnsv2.com
 - aitransfy.com
 - apaas-zone-test.com
+- apdcdn.com
+- apdcdn.net
 - apigwtencent.com
 - bkapigw.com
-- tencentcloudsec.com
+- bkapps.com
 - bkclouds.cc
 - bktencent.com
 - build9s.io
@@ -29,10 +31,8 @@ domain_suffix_set:
 - computeinit.com
 - coolsite.vip
 - dnsv1.com
-- doh.pub
 - dothework.cn
 - ectencent.cn
-- dnsv5.com
 - edgeonedy1.com
 - essurl.com
 - exmailgz.com
@@ -42,7 +42,7 @@ domain_suffix_set:
 - gmedev.cn
 - govqcloud.com
 - gsadds.com
-- gtm.pub
+- acctdns.com
 - hr-welink.com
 - idcgcloudcs.com
 - iemiq.com
@@ -52,8 +52,8 @@ domain_suffix_set:
 - ispqcloud.com
 - itopsdk.com
 - tencentcloudns.com
-- my-qcloud.com
 - myelasticsearch.com
+- doh.pub
 - myqcloud.com
 - onexmail.com
 - openapp.run
@@ -69,7 +69,9 @@ domain_suffix_set:
 - qcloudclass.com
 - qcloudcos.cn
 - qcloudcos.com
+- dnsv5.com
 - dnspod.org
+- dnsv3.com
 - qclouder.com
 - qcloudgme.com
 - qcloudimg.com
@@ -112,7 +114,7 @@ domain_suffix_set:
 - tcdnvodbak.com
 - tcloudbase.com
 - tcloudbase.net
-- acctdns.com
+- tcloudbaseapp.com
 - tcloudbi.com
 - tclouddrive.com
 - tcloudedu.com
@@ -132,15 +134,15 @@ domain_suffix_set:
 - tencentbyod.com
 - tencentcdb.cn
 - tencentcdb.com
-- dnsv3.com
+- dnsv4.com
 - tencentclb.com
 - tencentcloud-aiot.com
 - tencentcloudapi.com
 - tencentcloudclub.com
 - tencentcloudcr.com
-- tcloudbaseapp.com
-- dnsv4.com
-- acctdns.net
+- gtm.pub
+- my-qcloud.com
+- tdnsv5.net
 - tencentcloudses.com
 - tencentcos.cn
 - tencentcos.com
@@ -171,6 +173,7 @@ domain_suffix_set:
 - dnspod.mobi
 - timmerse.com
 - tlivecdn.com
+- tlivemcdn.com
 - tlivepush.com
 - tlivesource.com
 - tourismshow.cn
@@ -208,7 +211,7 @@ domain_suffix_set:
 - dnse4.com
 - dnse5.com
 - tdnsv1.com
-- tdnsv2.com
+- acctdns.net
 - tdnsv3.com
 - tdnsv4.com
 - tdnsv5.com
@@ -226,7 +229,7 @@ domain_suffix_set:
 - tdnsv2.net
 - tdnsv3.net
 - tdnsv4.net
-- tdnsv5.net
+- tencentcloudsec.com
 - tdnsv6.net
 - tdnsv7.net
 - tdnsv8.net
@@ -260,13 +263,13 @@ domain_suffix_set:
 - aegis.qq.com
 - yufuid.com.cn
 - dnsv1.com.cn
+- jrzk.net.cn
 - qcloudcos.com.cn
-- tencentcdb.com.cn
 - dnspod.com.cn
 - timatrix.com.cn
 - oracle-tencent.net.cn
 - oracle-tencent.com.cn
-- jrzk.net.cn
+- tencentcdb.com.cn
 - intltencentcos.com
 - ap-hongkong.myqcloud.com
 - ap-singapore.myqcloud.com

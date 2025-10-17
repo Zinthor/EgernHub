@@ -4,4 +4,6 @@ domain_set:
 domain_suffix_set:
 - anthropic.com
 - claude.ai
+- claude.com
 - claudeusercontent.com
+- claudemcpclient.com

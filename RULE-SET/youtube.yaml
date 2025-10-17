@@ -1,4 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- yt3.googleusercontent.com
 domain_suffix_set:
 - youtube
 - youtube.ru

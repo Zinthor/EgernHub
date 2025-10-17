@@ -1,33 +1,35 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
+- github-api.arkoselabs.com
 - github-cloud.s3.amazonaws.com
 domain_suffix_set:
 - githubhackathon.com
-- npm.community
-- gh.io
-- ghcr.io
 - git.io
+- atom.io
+- ghcr.io
+- githubnext.com
 - github.ai
 - github.blog
 - github.com
 - github.community
 - github.dev
 - github.io
-- githubapp.com
-- npmjs.org
-- dependabot.com
-- githubuniverse.com
-- githubnext.com
 - githubpreview.dev
+- githubassets.com
+- githubcopilot.com
+- gh.io
+- dependabot.com
+- githubapp.com
 - githubstatus.com
-- atom.io
+- githubuniverse.com
 - githubusercontent.com
 - myoctocat.com
+- octocaptcha.com
 - opensource.guide
 - repo.new
 - thegithubshop.com
-- githubassets.com
-- githubcopilot.com
+- npmjs.org
+- npm.community
 - npmjs.com
 - blob.core.windows.net
 domain_regex_set:
