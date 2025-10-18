@@ -1,5 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
+- cdn-vk.ru
 - mradx.net
 - mvk.com
 - userapi.com
@@ -8,6 +9,7 @@ domain_suffix_set:
 - vk-apps.ru
 - vk-cdn.me
 - vk-cdn.net
+- vkcloud-static.ru
 - vk-portal.net
 - vk.cc
 - vk.com
