@@ -1,7 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- tencentcloudmarket.com
-- tdnsv2.com
+- tencentcloudns.com
+- dnse5.com
 - aitransfy.com
 - apaas-zone-test.com
 - apdcdn.com
@@ -42,16 +42,16 @@ domain_suffix_set:
 - gmedev.cn
 - govqcloud.com
 - gsadds.com
-- acctdns.com
+- gtm.pub
 - hr-welink.com
 - idcgcloudcs.com
 - iemiq.com
 - igtm-meeting-tencent.com
-- igtm.pub
+- tencentcloudmarket.com
 - isd.com
 - ispqcloud.com
 - itopsdk.com
-- tencentcloudns.com
+- my-qcloud.com
 - myelasticsearch.com
 - doh.pub
 - myqcloud.com
@@ -99,7 +99,6 @@ domain_suffix_set:
 - spcloudhw.net
 - srmkp.cn
 - starlakelab.com
-- tamaegis.com
 - tapd.cn
 - tcdlive.com
 - tcdnhw.com
@@ -122,7 +121,7 @@ domain_suffix_set:
 - tcloudhw.net
 - tcloudscdn.com
 - tcloudscdn.net
-- tdnsx1.com
+- acctdns.com
 - techo.chat
 - tefscloud.com
 - tefscloud.net
@@ -139,10 +138,10 @@ domain_suffix_set:
 - tencentcloud-aiot.com
 - tencentcloudapi.com
 - tencentcloudclub.com
-- tencentcloudcr.com
-- gtm.pub
-- my-qcloud.com
-- tdnsv5.net
+- tourismuser.cn
+- igtm.pub
+- tdnsx1.com
+- tencentcloudsec.com
 - tencentcloudses.com
 - tencentcos.cn
 - tencentcos.com
@@ -177,7 +176,7 @@ domain_suffix_set:
 - tlivepush.com
 - tlivesource.com
 - tourismshow.cn
-- tourismuser.cn
+- tencentcloudcr.com
 - tsparkling.com
 - tx-exhibition.com
 - txbyod.com
@@ -209,9 +208,9 @@ domain_suffix_set:
 - dnse2.com
 - dnse3.com
 - dnse4.com
-- dnse5.com
-- tdnsv1.com
 - acctdns.net
+- tdnsv1.com
+- tdnsv2.com
 - tdnsv3.com
 - tdnsv4.com
 - tdnsv5.com
@@ -229,7 +228,7 @@ domain_suffix_set:
 - tdnsv2.net
 - tdnsv3.net
 - tdnsv4.net
-- tencentcloudsec.com
+- tdnsv5.net
 - tdnsv6.net
 - tdnsv7.net
 - tdnsv8.net
@@ -248,6 +247,7 @@ domain_suffix_set:
 - discuz.net
 - comsenz.com
 - rumt-zh.com
+- tamaegis.com
 - ym.run
 - oracle-tencent.cn
 - oracle-tencent.com

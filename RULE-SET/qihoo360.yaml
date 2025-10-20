@@ -28,7 +28,6 @@ domain_suffix_set:
 - 360zqaq.com
 - anquanke.com
 - appjiagu.com
-- baomitu.com
 - dhsvc.cn
 - haoso.com
 - haosou.com
@@ -56,8 +55,6 @@ domain_suffix_set:
 - qihoo.net
 - qihuapi.cn
 - qihucdn.com
-- qiku.com
-- qikucdn.com
 - so.com
 - sou.cn
 - sou.com
@@ -72,6 +69,7 @@ domain_suffix_set:
 - zhaomishijie.com
 - 75.team
 - 75team.com
+- baomitu.com
 - theworld.cn
 - 360pay.cn
 - 360-api.cn
@@ -81,6 +79,8 @@ domain_suffix_set:
 - gamepack.cn
 - wggames.cn
 - qikoo.com
+- qiku.com
+- qikucdn.com
 - starworldgames.com
 - 360-g.net
 - 360-g.cn

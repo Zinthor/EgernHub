@@ -6,6 +6,12 @@ domain_suffix_set:
 - biligame.co
 - biligame.com
 - biligame.net
+- bilibiligame.cn
+- bilibiligame.co
+- bilibiligame.net
+- biligame.co
+- biligame.com
+- biligame.net
 - mhystatic.com
 - mhyurl.cn
 - mihayo.com
@@ -109,11 +115,5 @@ domain_suffix_set:
 - sl916.com
 - kurogames.com
 - aki-game.com
-- bilibiligame.cn
-- bilibiligame.co
-- bilibiligame.net
-- biligame.co
-- biligame.com
-- biligame.net
 domain_regex_set:
 - ^.+-mihayo\.akamaized\.net$

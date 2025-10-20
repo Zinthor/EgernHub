@@ -1,9 +1,9 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
+- chinahr.com
+- 58antenna.cn
+- anjuke.com
 - anjukestatic.com
-- ganji.com
-- 5858.com
-- 58.com
 - 58antenna.com
 - ganjistatic1.com
 - 58che.com
@@ -16,11 +16,11 @@ domain_suffix_set:
 - 58xinghuo.cn
 - 58xinghuo.com
 - 58xueche.com
-- anjuke.com
-- 58antenna.cn
-- chinahr.com
-- daojia.com
+- 5858.com
+- 58.com
+- ganji.com
 - chrstatic.com
+- daojia.com
 - diandao.org
 - fang.com
 - sofun.com

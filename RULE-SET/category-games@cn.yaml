@@ -1,8 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
-- alibaba.cdn.steampipe.steamcontent.com
-- lv.queniujq.cn
-- xz.pphimalayanrt.com
 - gog.qtlglb.com
 - gogalaxy.gog-statics.com
 - menu-static.gog-statics.com
@@ -11,6 +8,9 @@ domain_set:
 - www4-static.gog-statics.com
 - gog-cdn-fastly.gog.com
 - gog-cdn.akamaized.net
+- alibaba.cdn.steampipe.steamcontent.com
+- lv.queniujq.cn
+- xz.pphimalayanrt.com
 - uplaypc-s-ubisoft.cdn.ubi.com
 domain_suffix_set:
 - bilibiligame.cn
@@ -138,6 +138,7 @@ domain_suffix_set:
 - steamstatic.com.8686c.com
 - steamchina.com
 - gstore.val.manlaxy.com
+- xboxlive.cn
 - bluearchive-cn.com
 - legendofzelda.cn
 - legendofzelda.com.cn
@@ -151,7 +152,6 @@ domain_suffix_set:
 - mariokart.cn
 - mariokart.com.cn
 - supermariobros.com.cn
-- xboxlive.cn
 domain_regex_set:
 - ^.+-mihayo\.akamaized\.net$
 - ^cdn-akamai-.+\.gog-services\.com$
