@@ -1,0 +1,39 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
+- epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
+domain_suffix_set:
+- avast.com
+- avg.com
+- avira.com
+- bitdefender.com
+- clamwin.com
+- f-secure.com
+- mcafee.com
+- norton.com
+- pandasecurity.com
+- e5.sk
+- eset.com
+- eset.eu
+- eset.sk
+- eset.systems
+- esetsoftware.com
+- kaspersky-labs.com
+- kaspersky.com
+- symantec.com
+- symantecliveupdate.com
+- comodo.com
+- comodo.net
+- drweb.by
+- drweb.cn
+- drweb.com
+- drweb.fr
+- drweb.kz
+- drweb.ru
+- drweb.uz
+- drweb-av.de
+- drweb-av.es
+- drweb-av.it
+- drweb-av.pl
+- drweb.co.jp
+- cn.eset.com
