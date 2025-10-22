@@ -1,7 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- kui.name
-- paste.ee
+- kukuku.uk
+- goregrish.com
 - 0rz.tw
 - 1000giri.net
 - 10beasts.net
@@ -203,7 +203,7 @@ domain_suffix_set:
 - zomobo.net
 - aiweiwei.com
 - aiweiweiblog.com
-- akademiye.org
+- 000webhost.com
 - akamaihd.net
 - akiba-online.com
 - akiba-web.com
@@ -1327,7 +1327,7 @@ domain_suffix_set:
 - dlive.tv
 - dlsite.com
 - dlyoutube.com
-- 000webhost.com
+- dm530.net
 - dma.mil
 - dmc.nico
 - dmcdn.net
@@ -1348,6 +1348,7 @@ domain_suffix_set:
 - doc.new
 - docker.com
 - docker.io
+- dockerstatus.com
 - xcafe.in
 - docs.new
 - doctorvoice.org
@@ -1358,7 +1359,7 @@ domain_suffix_set:
 - xbtce.com
 - xbookcn.com
 - xbabe.com
-- dongtaiwang.com
+- kucoin.com
 - dongtaiwang.net
 - dongyangjing.com
 - dontfilter.us
@@ -2055,7 +2056,7 @@ domain_suffix_set:
 - google.ae
 - google.al
 - google.am
-- kun.im
+- google.as
 - google.at
 - google.az
 - google.ba
@@ -2275,7 +2276,7 @@ domain_suffix_set:
 - googlezip.net
 - gopetition.com
 - goreforum.com
-- goregrish.com
+- kui.name
 - gospelherald.com
 - got-game.org
 - gotdns.ch
@@ -2959,10 +2960,10 @@ domain_suffix_set:
 - kspcoin.com
 - ktzhk.com
 - kuaichedao.co
-- kucoin.com
-- dm530.net
+- dongtaiwang.com
 - 030buy.com
-- google.as
+- akademiye.org
+- kun.im
 - kurashsultan.com
 - kurtmunger.com
 - kusocity.com
@@ -3811,7 +3812,7 @@ domain_suffix_set:
 - partypoker.com
 - passion.com
 - passiontimes.hk
-- kukuku.uk
+- paste.ee
 - pastebin.com
 - pastie.org
 - patreon.com

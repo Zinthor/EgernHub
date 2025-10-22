@@ -1,0 +1,9 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- datarouter.apps.netherrealm.com
+- wb-agora-hydra-file-storage-k1.s3.amazonaws.com
+domain_suffix_set:
+- warnerbrosgames.com
+- wbagora.com
+- wbgames.com
+- wbinsights.com
