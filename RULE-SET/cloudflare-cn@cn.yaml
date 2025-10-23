@@ -1,5 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
+- cf-china.info
 - cf-ns.com
 - cf-ns.net
 - cf-ns.site

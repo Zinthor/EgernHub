@@ -1,7 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- qhres.com
-- 360os.com
+- 360.cn
+- 360.com
 - 360.net
 - 360-jr.com
 - 360chou.com
@@ -11,7 +11,7 @@ domain_suffix_set:
 - 360jinrong.net
 - 360kan.com
 - 360kuai.com
-- qhres2.com
+- 360os.com
 - 360panyun.cn
 - 360qhcdn.com
 - 360safe.com
@@ -21,7 +21,7 @@ domain_suffix_set:
 - 360sou.com
 - 360sou.net
 - 360taojin.com
-- qhstatic.com
+- 360totalsecurity.com
 - 360tpcdn.com
 - 360tres.com
 - 360webcache.com
@@ -39,7 +39,7 @@ domain_suffix_set:
 - nicaifu.com
 - nzwgs.com
 - qhcdn.com
-- 360.cn
+- qhimg.com
 - qhimgs0.com
 - qhimgs1.com
 - qhimgs2.com
@@ -48,9 +48,9 @@ domain_suffix_set:
 - qhimgs5.com
 - qhimgs6.com
 - qhmsg.com
-- qhimg.com
-- 360.com
-- 360totalsecurity.com
+- qhres.com
+- qhres2.com
+- qhstatic.com
 - qihoo.com
 - qihoo.net
 - qihuapi.cn
@@ -67,6 +67,9 @@ domain_suffix_set:
 - beifangsl.cn
 - zhaomi.cn
 - zhaomishijie.com
+- 75.team
+- 75team.com
+- baomitu.com
 - theworld.cn
 - 360pay.cn
 - 360-api.cn
@@ -91,9 +94,6 @@ domain_suffix_set:
 - woxihuan.com
 - wztsy.cn
 - wztsy.com
-- 75.team
-- 75team.com
-- baomitu.com
 - 360sou.com.cn
 - haosou.com.cn
 - worldoftanks.com.cn

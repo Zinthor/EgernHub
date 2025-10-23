@@ -4,8 +4,8 @@ domain_set:
 - ciscolivehls-i.akamaihd.net
 domain_suffix_set:
 - cisco
-- mcisco.com
-- mindmeld.com
+- academynetriders.com
+- cciernslabs.com
 - cciesecuritylabs.com
 - ccievoicelabs.com
 - ccna5.net
@@ -28,7 +28,7 @@ domain_suffix_set:
 - ciscolearningsystem.com
 - ciscolive.com
 - cisconetspace.com
-- mediafiles-cisco.com
+- cisconetspace.info
 - cisconetspace.net
 - cisconetapp.com
 - ciscopartnermarketing.com
@@ -39,7 +39,7 @@ domain_suffix_set:
 - ciscospark.ca
 - ciscospark.com
 - ciscospark.jp
-- metacloud.com
+- ciscotaccc.com
 - ciscotr.com
 - ciscoturk.net
 - ciscovideo.com
@@ -59,10 +59,10 @@ domain_suffix_set:
 - ioe.com
 - kscisco.com
 - m2m.com
-- academynetriders.com
-- cisconetspace.info
-- cciernslabs.com
-- ciscotaccc.com
+- mcisco.com
+- mediafiles-cisco.com
+- metacloud.com
+- mindmeld.com
 - multiplydiversity.com
 - myciscobenefits.com
 - mysdn.com
@@ -76,6 +76,7 @@ domain_suffix_set:
 - parstream.net
 - parstream.org
 - services-exchange.com
+- splunk.com
 - static-cisco.com
 - tandberg-china.com
 - tandberg.com
@@ -87,7 +88,6 @@ domain_suffix_set:
 - wifi-mx.com
 - youtubecisco.com
 - app-dynamics.com
-- webex.com
 - appdynamics.com
 - appdynamics.de
 - appdynamics.fr
@@ -106,6 +106,7 @@ domain_suffix_set:
 - webex.fr
 - webex.es
 - webex.de
+- webex.com
 - appdynamics.co.uk
 - webex.co.uk
 - webex.co.nz
