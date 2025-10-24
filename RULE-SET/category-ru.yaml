@@ -1,6 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- yandex
+- ru
 - su
 - xn--80adxhks
 - xn--80asehdb
@@ -9,8 +9,11 @@ domain_suffix_set:
 - xn--d1acj3b
 - xn--p1acf
 - xn--p1ai
-- ru
 - psk
+- yandex
+- emias.info
+- boosty.to
+- donationalerts.com
 - memealerts.com
 - mycdn.me
 - ozonusercontent.com
@@ -72,12 +75,9 @@ domain_suffix_set:
 - yandex.tj
 - yandex.tm
 - yandex.ua
-- donationalerts.com
-- emias.info
-- boosty.to
-- yandex-images.clstorage.net
-- yandex.co.il
-- yandex.com.am
-- yandex.com.ge
-- yandex.com.tr
 - yandex.com.ua
+- yandex.com.tr
+- yandex.com.ge
+- yandex.com.am
+- yandex.co.il
+- yandex-images.clstorage.net

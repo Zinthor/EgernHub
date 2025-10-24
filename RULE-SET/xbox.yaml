@@ -27,6 +27,12 @@ domain_suffix_set:
 - xboxservices.com
 - xboxstudios.com
 - xbx.lv
+- beth.games
+- bethesda.net
+- bethesdagamestudios.com
+- bethsoft.com
+- doom.com
+- elderscrolls.com
 - forza.net
 - forzamotorsport.net
 - forzaracingchampionship.com
@@ -39,10 +45,4 @@ domain_suffix_set:
 - mojang.com
 - asobostudio.com
 - flightsimulator.com
-- beth.games
-- bethesda.net
-- bethesdagamestudios.com
-- bethsoft.com
-- doom.com
-- elderscrolls.com
 - xboxlive.cn
