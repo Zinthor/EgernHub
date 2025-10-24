@@ -41,8 +41,8 @@ domain_suffix_set:
 - perplexity.ai
 - perplexity.com
 - pplx.ai
-- poe.com
-- poecdn.net
+- grok.com
+- x.ai
 - anthropic.com
 - jasper.ai
 - jules.google
@@ -53,8 +53,8 @@ domain_suffix_set:
 - cursor.com
 - cursor.sh
 - cursorapi.com
-- grok.com
-- x.ai
+- poe.com
+- poecdn.net
 - gemini.google
 - deepmind.google
 - labs.google

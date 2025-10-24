@@ -1,11 +1,13 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
 - xiaomiinc.com
-- duokanbox.com
-- mi.com
+- mitvos.com
+- mi-img.com
+- mgslb.com
 - mifile.cn
-- migames.com
+- xiaomiinc.net
 - mijia.tech
+- saxyit.com
 - miui.com
 - miwifi.com
 - xiaomi.cn
@@ -13,14 +15,14 @@ domain_suffix_set:
 - xiaomi.net
 - xiaomicp.com
 - xiaomidns.cn
-- xiaomiinc.net
-- saxyit.com
+- xiaomidns.com
+- zmifi.com
 - xiaomidns.net
 - xiaomiev.com
 - xiaomiinc.cn
-- zmifi.com
-- mi-img.com
-- xiaomidns.com
+- mi.com
+- mi-idc.com
+- migames.com
 - xiaomimobile.com
 - xiaominr.com
 - xiaomiprint.com
@@ -33,12 +35,12 @@ domain_suffix_set:
 - airstarfinance.net
 - mipay.com
 - duokan.com
-- mi-idc.com
+- duokanbox.com
 - xiaomiyoupin.com
 - youpin.cn
 - youpin.com.cn
-- xiaomiinc.com.cn
 - xiaomidns.com.cn
+- xiaomiinc.com.cn
 - c.mi.com
 - global.market.xiaomi.com
 - a.market.xiaomi.com
