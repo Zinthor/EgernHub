@@ -67,5 +67,5 @@ domain_set:
 - s18.upd.kaspersky.com
 - s19.upd.kaspersky.com
 domain_suffix_set:
-- kaspersky.com.cn
 - cn.eset.com
+- kaspersky.com.cn
