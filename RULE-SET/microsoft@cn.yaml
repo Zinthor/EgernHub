@@ -71,8 +71,6 @@ domain_suffix_set:
 - sharepoint.cn
 - dl.delivery.mp.microsoft.com
 - download.windowsupdate.com
-- microsoftnews.cn
-- msn.cn
 - xboxlive.cn
 - 21vbc.com
 - 21vbluecloud.com
@@ -169,3 +167,5 @@ domain_suffix_set:
 - microsoftreactor.cn
 - microsoftreactor.com.cn
 - reactorms.com.cn
+- microsoftnews.cn
+- msn.cn
