@@ -1,7 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- 1lib.cloud
-- 1lib.cz
+- bookshome.info
+- z-lib.org
 - 1lib.domains
 - 1lib.education
 - 1lib.eu
@@ -14,7 +14,7 @@ domain_suffix_set:
 - 3lib.net
 - art1lib.com
 - b-ok.africa
-- b-ok.asia
+- booksc.org
 - b-ok.cc
 - b-ok.global
 - b-ok.org
@@ -22,16 +22,17 @@ domain_suffix_set:
 - bookfi.net
 - booksc.eu
 - booksc.me
-- booksc.org
-- booksc.xyz
-- bookshome.info
+- b-ok.asia
+- 1lib.cz
+- libsolutions.net
 - bookshome.net
 - bookshome.world
 - de1lib.org
+- zlibcdn2.com
 - hk1lib.org
 - libsolutions.app
 - libsolutions.domains
-- libsolutions.net
+- 1lib.cloud
 - ma1lib.org
 - sg1lib.org
 - singlelogin.app
@@ -41,9 +42,9 @@ domain_suffix_set:
 - z-lib.fm
 - z-lib.gd
 - z-lib.gl
-- z-lib.org
+- booksc.xyz
 - z-library.sk
 - z-library.se
 - zlib.life
 - zlibcdn.com
-- zlibcdn2.com
+- dln1.ncdn.ec
