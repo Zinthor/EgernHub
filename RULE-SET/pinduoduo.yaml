@@ -1,7 +1,9 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
 - pddcdn.com
+- pddim.com
 - pddpic.com
+- pddugc.com
 - pinduoduo.com
 - pinduoduo.net
 - yangkeduo.com
