@@ -43,11 +43,10 @@ domain_suffix_set:
 - x5.ai
 - x5.com
 - x5.digital
-- x5.group
+- x5.media
 - x5.team
 - x5.tech
 - x5static.net
-- ozonusercontent.com
 - yandex.fi
 - yastatic.net
 - naydex.net
@@ -84,9 +83,10 @@ domain_suffix_set:
 - mycdn.me
 - memealerts.com
 - donationalerts.com
-- emias.info
-- x5.media
 - boosty.to
+- ozonusercontent.com
+- x5.group
+- emias.info
 - yandex-images.clstorage.net
 - yandex.co.il
 - yandex.com.am
