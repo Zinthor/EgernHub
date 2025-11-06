@@ -13,11 +13,6 @@ domain_set:
 - lv.queniujq.cn
 - xz.pphimalayanrt.com
 domain_suffix_set:
-- amazonprimevideo.cn
-- amazonprimevideo.com.cn
-- bluearchive-cn.com
-- leagueoflegends.cn
-- lpl.com.cn
 - xboxlive.cn
 - legendofzelda.cn
 - legendofzelda.com.cn
@@ -31,6 +26,9 @@ domain_suffix_set:
 - mariokart.cn
 - mariokart.com.cn
 - supermariobros.com.cn
+- leagueoflegends.cn
+- lpl.com.cn
+- bluearchive-cn.com
 - steamserver.net
 - steamusercontent.com
 - csgo.wmsj.cn
@@ -45,6 +43,7 @@ domain_suffix_set:
 - steamstatic.com.8686c.com
 - steamchina.com
 - gstore.val.manlaxy.com
+- ggpht.cn
 - mhystatic.com
 - mhyurl.cn
 - mihayo.com
@@ -60,7 +59,8 @@ domain_suffix_set:
 - themisweeps.com
 - yuanshen.com
 - juequling.com
-- ggpht.cn
+- amazonprimevideo.cn
+- amazonprimevideo.com.cn
 domain_regex_set:
 - ^cdn-akamai-.+\.gog-services\.com$
 - ^gog-cdn-.+\.footprint\.net$
