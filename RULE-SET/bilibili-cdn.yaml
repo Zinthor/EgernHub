@@ -1,0 +1,17 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- upos-hz-mirrorakam.akamaized.net
+domain_suffix_set:
+- bilicdn1.com
+- bilicdn2.com
+- bilicdn3.com
+- bilicdn4.com
+- bilicdn5.com
+- biliimg.com
+- bilivideo.cn
+- bilivideo.com
+- bilivideo.net
+- hdslb.com
+- hdslb.org
+- maoercdn.com
+- mincdn.com
