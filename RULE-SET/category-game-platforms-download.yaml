@@ -485,3 +485,5 @@ domain_set:
 - alibaba.cdn.steampipe.steamcontent.com
 - cdn-ws.content.steamchina.com
 - cdn-qc.content.steamchina.com
+domain_suffix_set:
+- egdownload.fastly-edge.com

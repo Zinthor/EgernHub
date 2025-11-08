@@ -27,6 +27,7 @@ domain_suffix_set:
 - twinmotion.com
 - unrealengine.com
 - unrealtournament.com
+- egdownload.fastly-edge.com
 domain_regex_set:
 - ^epicgames-download\d\.akamaized\.net$
 - ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$

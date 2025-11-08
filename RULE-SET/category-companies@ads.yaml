@@ -1,22 +1,13 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
+- analytics.google.com
 - o33249.ingest.sentry.io
 - openaicom.imgix.net
 - browser-intake-datadoghq.com
 - sentry.hetzner.company
-- analytics.google.com
 domain_suffix_set:
-- ads.yahoo.com
-- gemini.yahoo.com
-- ysm.yahoo.com
 - advertising.adobe.com
 - tubemogul.com
-- clarity.ms
-- nelreports.net
-- ads.yahoo.com
-- gemini.yahoo.com
-- ysm.yahoo.com
-- snapads.com
 - amazon-adsystem.com
 - serving-sys.com
 - api-adservices.apple.com
@@ -66,13 +57,22 @@ domain_suffix_set:
 - mail-ads.google.com
 - marketingplatform.google.com
 - urchin.com
+- ads.yahoo.com
+- gemini.yahoo.com
+- ysm.yahoo.com
+- graph.whatsapp.com
+- graph.whatsapp.net
+- graph.instagram.com
+- graph-fallback.instagram.com
+- clarity.ms
+- nelreports.net
 - samsungads.com
+- snapads.com
 - ads-api.duolingo.com
 - metrics.duolingo.com
 - analytics.vpc.duolingo.com
-- graph.instagram.com
-- graph-fallback.instagram.com
-- graph.whatsapp.com
-- graph.whatsapp.net
+- ads.yahoo.com
+- gemini.yahoo.com
+- ysm.yahoo.com
 domain_regex_set:
 - ^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$

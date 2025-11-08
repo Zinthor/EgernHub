@@ -1,6 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
 - kimg.cn
+- kingsoft-office-service.com
 - kingsoft.com
 - ks-live.com
 - ksmobile.com
