@@ -9,11 +9,9 @@ domain_suffix_set:
 - xn--d1acj3b
 - xn--p1acf
 - xn--p1ai
-- psk
 - yandex
-- emias.info
-- boosty.to
-- donationalerts.com
+- psk
+- yandex.tm
 - memealerts.com
 - mycdn.me
 - ozonusercontent.com
@@ -85,8 +83,10 @@ domain_suffix_set:
 - yandex.st
 - yandex.sx
 - yandex.tj
-- yandex.tm
+- boosty.to
 - yandex.ua
+- donationalerts.com
+- emias.info
 - yandex.com.ua
 - yandex.com.tr
 - yandex.com.ge
