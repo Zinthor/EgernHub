@@ -1,7 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
-- log-sdk.gifshow.com
-- wlog.kuaishou.com
+- apilog-web.acfun.cn
 - ads3-normal-hl.zijieapi.com
 - ads5-normal-hl.zijieapi.com
 - log3-applog-hl.fqnovel.com
@@ -11,7 +10,8 @@ domain_set:
 - p9-ad-sign.byteimg.com
 - rtlog3-applog-hl.fqnovel.com
 - rtlog5-applog-hl.fqnovel.com
-- apilog-web.acfun.cn
+- log-sdk.gifshow.com
+- wlog.kuaishou.com
 domain_suffix_set:
 - click.hunantv.com
 - da.hunantv.com
@@ -35,11 +35,6 @@ domain_suffix_set:
 - pro.letv.com
 - stat.letv.com
 - static.app.m.letv.com
-- adbkwai.com
-- adkwai.com
-- adukwai.com
-- e.kuaishou.cn
-- e.kuaishou.com
 - click.gamersky.com
 - ja.gamersky.com
 - ja1.gamersky.com
@@ -62,3 +57,8 @@ domain_suffix_set:
 - msg2.video.qiyi.com
 - policy.video.iqiyi.com
 - yuedu.iqiyi.com
+- adbkwai.com
+- adkwai.com
+- adukwai.com
+- e.kuaishou.cn
+- e.kuaishou.com
