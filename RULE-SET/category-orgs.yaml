@@ -37,8 +37,7 @@ domain_suffix_set:
 - creativecommons.org
 - creativecommons.engineering
 - licensebuttons.net
-- nist.gov
-- time.gov
+- csis.org
 - openmaps.org
 - openstreetmap.com
 - openstreetmap.net
@@ -48,8 +47,9 @@ domain_suffix_set:
 - osmfoundation.org
 - stateofthemap.com
 - stateofthemap.org
-- paskoocheh.com
-- csis.org
+- ppy.sh
+- rolfoundation.org
+- rolsociety.org
 - emojipedia.org
 - worldemojiawards.com
 - worldemojiday.com
@@ -120,6 +120,6 @@ domain_suffix_set:
 - messybrainz.org
 - metabrainz.org
 - musicbrainz.org
-- ppy.sh
-- rolfoundation.org
-- rolsociety.org
+- nist.gov
+- time.gov
+- paskoocheh.com
