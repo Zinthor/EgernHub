@@ -7,6 +7,7 @@ domain_suffix_set:
 - linuxfoundation.org
 - linux.org
 - openjsf.org
+- mochajs.org
 - nodejs.org
 - amp.dev
 - ampproject.com
@@ -16,5 +17,4 @@ domain_suffix_set:
 - jquery.com
 - jquerymobile.com
 - jqueryui.com
-- mochajs.org
 - kernel.org
