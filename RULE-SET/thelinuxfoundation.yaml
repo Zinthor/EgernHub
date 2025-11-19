@@ -5,10 +5,9 @@ domain_set:
 domain_suffix_set:
 - lfai.foundation
 - linuxfoundation.org
+- kernel.org
 - linux.org
 - openjsf.org
-- mochajs.org
-- nodejs.org
 - amp.dev
 - ampproject.com
 - ampproject.net
@@ -17,4 +16,5 @@ domain_suffix_set:
 - jquery.com
 - jquerymobile.com
 - jqueryui.com
-- kernel.org
+- mochajs.org
+- nodejs.org
