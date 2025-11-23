@@ -2,13 +2,16 @@
 domain_set:
 - imperial.insendi.com
 domain_suffix_set:
-- oxfordpoliticstrove.com
-- universitypressscholarship.com
+- oxfordbibliographies.com
+- cambridgeschoolshakespeare.com
+- cambridgemaths.org
+- cambridgedigital.net
+- oxfordfirstsource.com
 - oxfordscholarlyeditions.com
-- amamanualofstyle.com
+- blackstonespoliceservice.com
 - epigeum.com
 - oxfordhandbooks.com
-- oxfordmedicine.com
+- omscr.com
 - oup.com
 - ouplaw.com
 - veryshortintroductions.com
@@ -16,13 +19,13 @@ domain_suffix_set:
 - oxfordartonline.com
 - oxfordlawtrove.com
 - oxfordclinicalpsych.com
-- oxforddnb.com
-- blackstonespoliceservice.com
-- oed.com
 - ac.uk
-- omscr.com
+- amamanualofstyle.com
 - imperialbusiness.school
-- oxfordbibliographies.com
+- oxforddnb.com
+- oxfordmedicine.com
+- oxfordmusiconline.com
+- oxfordpoliticstrove.com
 - oxfordre.com
 - oxfordreference.com
 - anb.org
@@ -30,10 +33,7 @@ domain_suffix_set:
 - oxfordwesternmusic.com
 - sipriyearbook.org
 - ukwhoswho.com
-- oxfordfirstsource.com
-- oxfordmusiconline.com
+- universitypressscholarship.com
+- oed.com
 - cambridge.org
-- cambridgeschoolshakespeare.com
-- cambridgedigital.net
-- cambridgemaths.org
 - dlib.eastview.com
