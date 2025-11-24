@@ -5,8 +5,6 @@ domain_set:
 - cbsservice.aws.syncbak.com
 - link.theplatform.com
 domain_suffix_set:
-- cbs
-- showtime
 - cbs.com
 - cbscorporation.com
 - cbsi.com

@@ -2,5 +2,6 @@
 domain_set:
 - android.googlesource.com
 domain_suffix_set:
+- android
 - android.com
 - androidify.com
