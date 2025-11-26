@@ -1,6 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- apple.www.letv.com
-- ark.letv.com
-- dc.letv.com
-- g3.letv.com
+- tianpeng.com
+- zbj.com
+- zbjdev.com
+- zbjimg.com
+- zhubajie.com
