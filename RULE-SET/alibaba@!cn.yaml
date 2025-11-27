@@ -1,6 +1,8 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
 - alihealth.hk
+- ae-rus.net
+- aestatic.net
 - aliexpress.ru
 - alipay.hk
 - alipaymo.com

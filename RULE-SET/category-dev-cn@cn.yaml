@@ -1,5 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
+- weui.io
 - bisheng.cn
 - bishengcompiler.cn
 - devui.design
@@ -23,4 +24,3 @@ domain_suffix_set:
 - owsgo.com
 - teleows.com
 - saasops.tech
-- weui.io

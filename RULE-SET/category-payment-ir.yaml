@@ -1,16 +1,19 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- payping.ir
-- asanpardakht.com
-- behpardakht.com
+- pec.ir
 - iranicard.ir
+- asanpardakht.com
+- bitbarg.me
+- zarinpal.com
 - mydigipay.com
 - pay.ir
-- asanpardakht.net
-- pec.ir
-- sep.ir
 - sadadpsp.ir
-- zarinpal.com
+- behpardakht.com
+- asanpardakht.net
+- payping.ir
+- sep.ir
 - shaparak.ir
+- vandar.app
+- vandar.io
 - weswap.digital
 - pep.co.ir

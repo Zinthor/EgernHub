@@ -1,5 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
+- csis-prod.s3.amazonaws.com
 - a.ppy.sh
 - assets.ppy.sh
 - c.ppy.sh
@@ -9,7 +10,6 @@ domain_set:
 - notify.ppy.sh
 - sentry.ppy.sh
 - spectator.ppy.sh
-- csis-prod.s3.amazonaws.com
 domain_suffix_set:
 - aomedia.org
 - atypi.org
@@ -25,10 +25,19 @@ domain_suffix_set:
 - who.int
 - wi-fi.org
 - wto.org
-- f-dro1d.org
-- f-droid.com
-- f-droid.org
-- fdroid.org
+- archive-it.org
+- archive.md
+- archive.org
+- archive.ph
+- archive.today
+- openlibrary.org
+- 4pcdn.org
+- 4plebs.org
+- ccstatic.org
+- creativecommons.org
+- creativecommons.engineering
+- licensebuttons.net
+- csis.org
 - ieee.org
 - ieee.tv
 - tryengineering.org
@@ -91,6 +100,8 @@ domain_suffix_set:
 - messybrainz.org
 - metabrainz.org
 - musicbrainz.org
+- nist.gov
+- time.gov
 - openmaps.org
 - openstreetmap.com
 - openstreetmap.net
@@ -100,26 +111,15 @@ domain_suffix_set:
 - osmfoundation.org
 - stateofthemap.com
 - stateofthemap.org
-- ppy.sh
+- paskoocheh.com
 - rolfoundation.org
 - rolsociety.org
-- csis.org
-- ccstatic.org
-- creativecommons.org
-- creativecommons.engineering
-- licensebuttons.net
 - emojipedia.org
 - worldemojiawards.com
 - worldemojiday.com
 - xn--yt8h.la
-- nist.gov
-- time.gov
-- paskoocheh.com
-- archive-it.org
-- archive.md
-- archive.org
-- archive.ph
-- archive.today
-- openlibrary.org
-- 4pcdn.org
-- 4plebs.org
+- f-dro1d.org
+- f-droid.com
+- f-droid.org
+- fdroid.org
+- ppy.sh
