@@ -1,4 +1,8 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- ntdofifreepc-tgc.cdn.hinet.net
+- ntdofifreevcpc-tgc.cdn.hinet.net
 domain_suffix_set:
 - litv.tv
+- ofiii.com
 - litvfreepc.akamaized.net

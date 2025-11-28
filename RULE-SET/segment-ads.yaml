@@ -1,3 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- cdn.segment.com
+- segment.com
+- segment.io
+- segmenthub.com
+- segmentify.com
