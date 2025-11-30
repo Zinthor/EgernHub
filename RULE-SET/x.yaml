@@ -1,20 +1,20 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
 - twitter.com
-- tellapart.com
-- twitter.jp
-- t.co
+- cms-twdigitalassets.com
 - twitterflightschool.com
+- twitterinc.com
+- tellapart.com
 - tweetdeck.com
 - twimg.com
-- twitterinc.com
+- twitpic.com
 - twitter.biz
 - twittercommunity.com
 - pscp.tv
 - periscope.tv
-- cms-twdigitalassets.com
+- twitter.jp
 - x.com
-- twitpic.com
+- t.co
 - twitteroauth.com
 - twitterstat.us
 - twtrdns.net
