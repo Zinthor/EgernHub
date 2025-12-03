@@ -1,3 +1,4 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
-domain_set:
-- ztedevices.com
+domain_suffix_set:
+- dzen.ru
+- dzeninfra.ru
