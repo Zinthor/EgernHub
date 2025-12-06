@@ -1,11 +1,12 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
+- htjsq.mobi
+- ccspeed.cn
+- qiyou.cn
 - htjsq.com
 - xunyou.com
-- guaiku.com
-- htjsq.mobi
 - bohejiasuqi.com
-- fhyx.com
+- guaiku.com
 - golink.com
 - golinkapi.com
 - golinkcn.com
@@ -15,16 +16,16 @@ domain_suffix_set:
 - benfuip.com
 - funjsq.com
 - biubiu001.com
-- qiyou.cn
-- et-api.com
 - tmjiasuqi.com
+- et-api.com
 - leigod.com
+- fhyx.com
 - akspeedy.com
 - yebaojiasu.com
 - liuxing.com
 - lxjiasu.com
 - ggkuai.com
-- ccspeed.cn
+- leigod.cn
 - yuelun.com
 - gijsq.com
 - kk1.vip
@@ -33,5 +34,5 @@ domain_suffix_set:
 - lorhf.com
 - oojsq.com
 - et001.com
-- jiasu.bohe.com
 - uu.163.com
+- jiasu.bohe.com

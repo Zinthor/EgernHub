@@ -1,10 +1,15 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- cn
-- citic
+- alibaba
+- alipay
 - baidu
-- unicom
+- citic
+- cn
+- icbc
 - sohu
+- taobao
+- tmall
+- unicom
 - xn--fiqs8s
 - xn--fiqz9s
 - xn--zfr164b

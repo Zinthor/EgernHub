@@ -1,22 +1,20 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
-- sentry.hetzner.company
 - analytics.google.com
 - fundingchoicesmessages.google.com
+- sentry.hetzner.company
 domain_suffix_set:
-- ads.yahoo.com
-- gemini.yahoo.com
-- ysm.yahoo.com
-- graph.whatsapp.com
-- graph.whatsapp.net
-- graph.instagram.com
-- graph-fallback.instagram.com
-- samsungads.com
 - clarity.ms
 - microsoftads.com
 - msads.net
 - nelreports.net
 - bingads.com
+- api-adservices.apple.com
+- iadsdk.apple.com
+- iad.apple.com
+- qwapi.com
+- advertising.adobe.com
+- tubemogul.com
 - ads-api.duolingo.com
 - metrics.duolingo.com
 - analytics.vpc.duolingo.com
@@ -69,17 +67,19 @@ domain_suffix_set:
 - pagead.l.google.com
 - partnerad.l.google.com
 - urchin.com
-- advertising.adobe.com
-- tubemogul.com
+- amazon-adsystem.com
+- serving-sys.com
+- graph.instagram.com
+- graph-fallback.instagram.com
+- graph.whatsapp.com
+- graph.whatsapp.net
+- snapads.com
 - ads.yahoo.com
 - gemini.yahoo.com
 - ysm.yahoo.com
-- api-adservices.apple.com
-- iadsdk.apple.com
-- iad.apple.com
-- qwapi.com
-- snapads.com
-- amazon-adsystem.com
-- serving-sys.com
+- samsungads.com
+- ads.yahoo.com
+- gemini.yahoo.com
+- ysm.yahoo.com
 domain_regex_set:
 - ^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
