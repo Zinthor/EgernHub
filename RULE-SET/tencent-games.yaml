@@ -1,16 +1,17 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- wcbygame.com
-- pubghelper.com
+- videoxiaoyouxi.com
+- nagcloudcs.com
 - gameloop.com
 - gcloudcs.com
 - gcloudcstest.com
 - gcloudcstestonly.com
 - gclouddolphin.com
 - gcloudsdk.com
+- gcloudsvcs.com
 - gdtimg.com
 - goto-game.com
-- goto-game.mobi
+- yxdmgame.com
 - goto-game.org
 - happyhlddz.com
 - hdyxgame.com
@@ -26,11 +27,11 @@ domain_suffix_set:
 - mahjongcup.net
 - metalrevolution.com
 - midasbuy.com
-- nagcloudcs.com
-- yximg.cn
-- yxdmgame.com
+- wcbygame.com
+- proximabeta.com
+- pubghelper.com
 - pubgno1.cn
-- battlecare.net
+- pubgtool.com
 - qqgameapp.com
 - rmwxgame.com
 - skydweller.cn
@@ -41,10 +42,10 @@ domain_suffix_set:
 - texasholdemcup.com
 - texasholdemcup.net
 - timibase.com
-- videoxiaoyouxi.com
-- pubgtool.com
+- bcfmglobal.com
 - gameitop.com
-- proximabeta.com
+- goto-game.mobi
+- yximg.cn
 - yxwsgame.com
 - yzyxgame.com
 - zcjbgame.com
@@ -66,7 +67,7 @@ domain_suffix_set:
 - wegame.com
 - anticheatexpert.com
 - tcfmglobal.com
-- bcfmglobal.com
+- battlecare.net
 - wegameplus.com
 - codm.com
 - brawlstars.cn
