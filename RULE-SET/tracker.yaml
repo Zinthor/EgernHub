@@ -8,6 +8,7 @@ domain_set:
 - admin.52ywp.com
 - anna.bt.bontal.net
 - bandito.byterunner.io
+- bittorrent-tracker.e-n-c-r-y-p-t.net
 - bt.bontal.net
 - bt.okmp3.ru
 - bt.poletracker.org
@@ -16,10 +17,10 @@ domain_set:
 - buny.uk
 - burmese.app
 - bvarf.tracker.sh
+- cny.fan
 - concen.org
 - d40969.acod.regrucolo.ru
 - echostar.ddnsfree.com
-- evan.im
 - exodus.desync.com
 - explodie.org
 - extracker.dahrkael.net
@@ -27,8 +28,6 @@ domain_set:
 - ipv4.rer.lol
 - ipv4announce.sktorrent.eu
 - ipv6.rer.lol
-- isk.richardsw.club
-- leet-tracker.moe
 - lucke.fenesisu.moe
 - martin-gebhardt.eu
 - ns3109441.mypdns.org
@@ -37,7 +36,6 @@ domain_set:
 - open.acgtracker.com
 - open.demonii.com
 - open.demonoid.ch
-- open.dstud.io
 - open.stealth.si
 - open.trackerlist.xyz
 - opentor.org
@@ -55,14 +53,13 @@ domain_set:
 - shubt.net
 - t-backup.213891.xyz
 - t.213891.xyz
-- t.overflow.biz
 - tk.greedland.net
 - torrent.hificode.in
 - torrent.tracker.durukanbal.com
 - torrentclub.online
 - torrentsmd.com
-- tr-zhuqiy-1.dgj055.icu
 - tr.abiir.top
+- tr.abir.ga
 - tr.highstar.shop
 - tr.kxmp.cf
 - tr.nyacat.pw
@@ -76,7 +73,6 @@ domain_set:
 - tracker.23794.top
 - tracker.alaskantf.com
 - tracker.beeimg.com
-- tracker.belmult.online
 - tracker.bitcoinindia.space
 - tracker.bittor.pw
 - tracker.breizh.pm
@@ -137,11 +133,9 @@ domain_set:
 - tracker.uraniumhexafluori.de
 - tracker.vanitycore.co
 - tracker.waaa.moe
-- tracker.wepzone.net
 - tracker.xiaoduola.xyz
 - tracker.yemekyedim.com
 - tracker.zhuqiy.com
-- tracker.zhuqiy.dgj055.icu
 - tracker.zupix.online
 - tracker1.520.jp
 - tracker1.myporn.club
@@ -152,8 +146,8 @@ domain_set:
 - tracker3.t-1.org
 - tracker4.itzmx.com
 - tracker810.xyz
+- udp.tracker.projectk.org
 - v74853.hosted-by-vdsina.com
-- wepzone.net
 - www.all4nothin.net
 - www.genesis-sp.org
 - www.torrent.eu.org

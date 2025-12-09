@@ -13,7 +13,6 @@ domain_suffix_set:
 - xn--p1ai
 - moscow
 - psk
-- vk-cdn.net
 - yandex.cloud
 - yandex.tr
 - naydex.net
@@ -59,6 +58,7 @@ domain_suffix_set:
 - emias.info
 - boosty.to
 - yandex.kg
+- vkuser.net
 - habr.com
 - habrastorage.org
 - donationalerts.com
@@ -67,9 +67,10 @@ domain_suffix_set:
 - mradx.net
 - mvk.com
 - userapi.com
+- ru.com
 - vk-apps.com
 - vk-cdn.me
-- ru.com
+- vk-cdn.net
 - vk-portal.net
 - vk.cc
 - vk.com
@@ -83,7 +84,6 @@ domain_suffix_set:
 - vklive.app
 - vkmessenger.app
 - vkmessenger.com
-- vkuser.net
 - vkuseraudio.com
 - vkuseraudio.net
 - vkuserlive.net
