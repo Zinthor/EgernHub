@@ -1,5 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- ads-twitter.com
-- graph.instagram.com
-- graph-fallback.instagram.com
+- poi.icu
+- poi6.net
+- poihub.com
+- project-poi.com

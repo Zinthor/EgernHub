@@ -6,10 +6,6 @@ domain_suffix_set:
 - llama.com
 - meta.ai
 - meta.com
-- fbmessenger.com
-- m.me
-- messenger.com
-- nbabot.net
 - binoculus.com
 - buyoculus.com
 - ocul.us
@@ -547,6 +543,10 @@ domain_suffix_set:
 - onlineinstagram.com
 - web-instagram.net
 - wwwinstagram.com
+- fbmessenger.com
+- m.me
+- messenger.com
+- nbabot.net
 - graph.whatsapp.com
 - graph.whatsapp.net
 - graph.instagram.com
