@@ -1,7 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- tencentcloudapi.com
-- tencentcos.com
+- tencentcloud-aiot.com
+- tencentcloudsec.com
 - aitransfy.com
 - apaas-zone-test.com
 - apdcdn.com
@@ -51,7 +51,7 @@ domain_suffix_set:
 - govqcloud.com
 - gsadds.com
 - gtm.pub
-- hr-welink.com
+- acctdns.com
 - idcgcloudcs.com
 - iemiq.com
 - igtm-meeting-tencent.com
@@ -83,7 +83,7 @@ domain_suffix_set:
 - qclouder.com
 - qcloudgme.com
 - qcloudimg.com
-- acctdns.com
+- qcloudipv6.com
 - qcloudmarket.com
 - qcloudns.com
 - qcloudsmartiot.com
@@ -108,7 +108,7 @@ domain_suffix_set:
 - srmkp.cn
 - starlakelab.com
 - tapd.cn
-- tcdlive.com
+- tencentcloudclub.com
 - tcdnhw.com
 - tcdnkcbak.com
 - tcdnlive.com
@@ -129,6 +129,7 @@ domain_suffix_set:
 - tcloudhw.net
 - tcloudscdn.com
 - tcloudscdn.net
+- tdnsstic1.cn
 - tdnsx1.com
 - techo.chat
 - tefscloud.com
@@ -143,16 +144,16 @@ domain_suffix_set:
 - tencentcdb.com
 - dnsv4.com
 - tencentclb.com
-- tencentcloud-aiot.com
-- qcloudipv6.com
+- hr-welink.com
 - acctdns.net
-- testwaf.com
+- tcdlive.com
+- tencentcloudcr.com
 - tencentcloudmarket.com
 - tencentcloudns.com
-- tencentcloudsec.com
+- tencentcloudapi.com
 - tencentcloudses.com
 - tencentcos.cn
-- tencentcloudclub.com
+- tencentcos.com
 - dns.pub
 - tencentcs.cn
 - tencentcs.com
@@ -175,7 +176,7 @@ domain_suffix_set:
 - tendis.net
 - dnsapi.cn
 - testmeet.cn
-- tencentcloudcr.com
+- testwaf.com
 - tgovcloud.com
 - tidaas.com
 - dnspod.mobi

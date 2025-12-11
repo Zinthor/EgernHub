@@ -1,11 +1,17 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
 - p16-tiktokcdn-com.akamaized.net
+- roovza-launches.appsflyersdk.com
+- roovza.inapps.appsflyersdk.com
+- roovza.launches.appsflyersdk.com
+- roovza.skadsdk.appsflyersdk.com
 domain_suffix_set:
+- bytedapm.com
 - byteoversea.com
 - muscdn.com
 - musical.ly
 - tik-tokapi.com
+- tiktok-minis.com
 - tiktok-row.net
 - tiktok.com
 - tiktokcdn-eu.com

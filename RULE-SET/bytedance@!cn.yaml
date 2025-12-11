@@ -2,16 +2,22 @@
 domain_set:
 - bytedance.map.fastly.net
 - p16-tiktokcdn-com.akamaized.net
+- roovza-launches.appsflyersdk.com
+- roovza.inapps.appsflyersdk.com
+- roovza.launches.appsflyersdk.com
+- roovza.skadsdk.appsflyersdk.com
 domain_suffix_set:
 - byteglb.com
 - byteoversea.com
 - byteoversea.net
 - ibytedtos.com
 - ibyteimg.com
+- bytedapm.com
 - byteoversea.com
 - muscdn.com
 - musical.ly
 - tik-tokapi.com
+- tiktok-minis.com
 - tiktok-row.net
 - tiktok.com
 - tiktokcdn-eu.com

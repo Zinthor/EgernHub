@@ -71,9 +71,6 @@ domain_suffix_set:
 - sharepoint.cn
 - dl.delivery.mp.microsoft.com
 - download.windowsupdate.com
-- microsoftreactor.cn
-- microsoftreactor.com.cn
-- reactorms.com.cn
 - microsoftnews.cn
 - msn.cn
 - xboxlive.cn
@@ -169,3 +166,6 @@ domain_suffix_set:
 - ditu.live.com
 - r.bing.com
 - th.bing.com
+- microsoftreactor.cn
+- microsoftreactor.com.cn
+- reactorms.com.cn

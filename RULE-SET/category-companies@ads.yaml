@@ -4,20 +4,21 @@ domain_set:
 - fundingchoicesmessages.google.com
 - sentry.hetzner.company
 domain_suffix_set:
-- graph.whatsapp.com
-- graph.whatsapp.net
-- graph.instagram.com
-- graph-fallback.instagram.com
-- samsungads.com
 - ads.yahoo.com
 - gemini.yahoo.com
 - ysm.yahoo.com
+- amazon-adsystem.com
+- serving-sys.com
 - clarity.ms
 - microsoftads.com
 - msads.net
 - nelreports.net
 - bingads.com
-- snapads.com
+- collector.github.com
+- copilot-telemetry.githubusercontent.com
+- samsungads.com
+- advertising.adobe.com
+- tubemogul.com
 - 2mdn-cn.net
 - 2mdn.net
 - admob-cn.com
@@ -74,12 +75,13 @@ domain_suffix_set:
 - iadsdk.apple.com
 - iad.apple.com
 - qwapi.com
-- advertising.adobe.com
-- tubemogul.com
-- amazon-adsystem.com
-- serving-sys.com
+- snapads.com
 - ads-api.duolingo.com
 - metrics.duolingo.com
 - analytics.vpc.duolingo.com
+- graph.whatsapp.com
+- graph.whatsapp.net
+- graph.instagram.com
+- graph-fallback.instagram.com
 domain_regex_set:
 - ^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$

@@ -1,16 +1,17 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- jlc-dfm.com
-- zxhgroup.com
+- jlc-cnc.com
+- lceda.cn
 - boe.com
 - ymtc.cn
 - bouffalolab.com
+- cxmt.com
 - esp8266.cn
 - esp8266.com
 - ymtc.com
 - espressif.cn
 - espressif.com
-- jlc-cnc.com
+- analog.com
 - eda.cn
 - elecfans.com
 - hqchip.com
@@ -24,10 +25,10 @@ domain_suffix_set:
 - seeed.cn
 - seeed.cc
 - szlcsc.com
-- szjlc.cn
+- jlc-drm.com
 - sipeed.com
 - maixhub.com
-- sz-jlc.com
+- szjlc.cn
 - wch.cn
 - wch-ic.com
 - fa-part.com
@@ -36,10 +37,10 @@ domain_suffix_set:
 - jlc-3dp.com
 - jlc-bbs.com
 - jlc-cad.com
-- jlc-zh.com
+- jlc-cam.com
+- zxhgroup.com
 - arrow.cn
-- lceda.cn
-- jlc-drm.com
+- sz-jlc.com
 - jlc-ecad.com
 - jlc-erp.com
 - jlc-fpc.com
@@ -48,7 +49,7 @@ domain_suffix_set:
 - jlc-layout.com
 - jlc-pcb.com
 - jlc-smt.com
-- jlc-cam.com
+- jlc-zh.com
 - jlc.com
 - jlc3dp.cn
 - jlccad.com
@@ -64,12 +65,12 @@ domain_suffix_set:
 - jlcops.com
 - jlcsj.com
 - jlcsmt.com
-- analog.com
+- jlc-dfm.com
 - lckfb.com
 - oshwhub.com
 - sanweihou.com
-- ti.com.cn
 - seeedstudio.com.cn
+- ti.com.cn
 - seeed.com.cn
 - quectel.com.cn
 - espressif.com.cn
