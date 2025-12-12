@@ -13,8 +13,6 @@ domain_suffix_set:
 - xn--p1ai
 - yandex
 - psk
-- okko.sport
-- okko.tv
 - ozonusercontent.com
 - 5post.market
 - chizhik.club
@@ -68,14 +66,14 @@ domain_suffix_set:
 - yandexcloud.net
 - yandexcom.net
 - yandexmetrica.com
-- vkuservideo.net
-- vkuservideo.com
+- okko.tv
+- okko.sport
 - emias.info
 - ru.com
 - ru.net
-- boosty.to
 - habr.com
 - habrastorage.org
+- boosty.to
 - donationalerts.com
 - memealerts.com
 - mycdn.me
@@ -102,6 +100,8 @@ domain_suffix_set:
 - vkuseraudio.com
 - vkuseraudio.net
 - vkuserlive.net
+- vkuservideo.com
+- vkuservideo.net
 - yandex.co.il
 - yandex.com.ge
 - yandex.com.am

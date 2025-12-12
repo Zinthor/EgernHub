@@ -1,28 +1,29 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- duckduckgo.dk
+- duckduckgo.in
 - ddg.co
 - cometotheduckside.com
-- duckduckgo.in
+- duckduckgo.dk
 - ddg.gg
 - ddh.gg
 - dgg.gg
 - dontbubble.us
 - donttrack.us
-- duck.co
+- duck.ai
+- duckduckgo.de
 - duck.com
-- duckduckco.com
+- cispaletter.com
 - duckduckco.de
 - duckduckgo.ca
 - duckduckgo.co
-- duckduckgo.jp
-- duckduckgo.com
 - spreadprivacy.com
-- cispaletter.com
-- duckduckgo.de
+- duckduckgo.com
 - privatebrowsingmyths.com
-- cispaletter.org
 - privacysimplified.com
+- duck.co
+- cispaletter.org
+- duckduckco.com
+- duckduckgo.jp
 - duckduckgo.ke
 - duckduckgo.mx
 - duckduckgo.nl
@@ -40,6 +41,6 @@ domain_suffix_set:
 - goduckgo.com
 - hacksear.ch
 - justduckit.com
-- duckduckgo.co.uk
 - duckduckgo.com.tw
 - duckduckgo.com.mx
+- duckduckgo.co.uk

@@ -2,7 +2,7 @@
 domain_set:
 - download.cdp.bethesda.net
 - content.cdp.bethesda.net
-- gamedownloads-rockstargames-com.akamaized.net
+- lion.secure.dyn.riotcdn.net
 - lol.secure.dyn.riotcdn.net
 - ks-foundation.secure.dyn.riotcdn.net
 - riot-client.secure.dyn.riotcdn.net
@@ -51,6 +51,7 @@ domain_set:
 - uplaypc-s-ubisoft-ww.cdn.ubi.com
 - ubisoftconnect.cdn.ubi.com
 - origin-a.akamaihd.net
+- prod.cloudflare.cdn.ea.com
 - cache10-atl3.steamcontent.com
 - cache10-fra1.steamcontent.com
 - cache10-fra2.steamcontent.com
@@ -469,10 +470,13 @@ domain_set:
 - blzdist-hs.necdn.leihuo.netease.com
 - blzdist-di.necdn.leihuo.netease.com
 - blzdist-ow.necdn.leihuo.netease.com
+- blzdist-d3.necdn.leihuo.netease.com
 - assets1.xboxlive.cn
 - assets2.xboxlive.cn
 - dl.delivery.mp.microsoft.com
 - tlu.dl.delivery.mp.microsoft.com
+- ubisoftconnect.eo-edgefunctions7.com
+- uplaypc-s-ubisoft.cdn.ubionline.com.cn
 - uplaypc-s-ubisoft.cdn.ubionline.com.cn
 - dl.steam.clngaa.com
 - st.dl.eccdnx.com
