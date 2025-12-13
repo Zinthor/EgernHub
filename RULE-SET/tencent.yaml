@@ -363,9 +363,9 @@ domain_suffix_set:
 - tjstats.com
 - wegamedeveloper.com
 - weixinbridge.com
+- cnb.cool
 - coding.me
 - coding.net
-- cnb.cool
 - videoxiaoyouxi.com
 - nagcloudcs.com
 - gameloop.com
@@ -537,6 +537,7 @@ domain_suffix_set:
 - adsview2.qq.com
 - adv.app.qq.com
 - adver.qq.com
+- badjs.weixinbridge.com
 - beacon.cdn.qq.com
 - beacon.qq.com
 - beaconcdn.qq.com
