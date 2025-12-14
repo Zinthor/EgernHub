@@ -1,22 +1,22 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
-- sentry.hetzner.company
 - analytics.google.com
 - fundingchoicesmessages.google.com
+- sentry.hetzner.company
 domain_suffix_set:
-- graph.whatsapp.com
-- graph.whatsapp.net
+- ads-api.duolingo.com
+- metrics.duolingo.com
+- analytics.vpc.duolingo.com
+- amazon-adsystem.com
+- serving-sys.com
 - graph.instagram.com
 - graph-fallback.instagram.com
+- graph.whatsapp.com
+- graph.whatsapp.net
 - api-adservices.apple.com
 - iadsdk.apple.com
 - iad.apple.com
 - qwapi.com
-- ads.yahoo.com
-- gemini.yahoo.com
-- ysm.yahoo.com
-- amazon-adsystem.com
-- serving-sys.com
 - 2mdn-cn.net
 - 2mdn.net
 - admob-cn.com
@@ -66,8 +66,10 @@ domain_suffix_set:
 - pagead.l.google.com
 - partnerad.l.google.com
 - urchin.com
-- collector.github.com
-- copilot-telemetry.githubusercontent.com
+- samsungads.com
+- snapads.com
+- advertising.adobe.com
+- tubemogul.com
 - browser.events.data.msn.cn
 - browser.events.data.msn.com
 - clarity.ms
@@ -75,15 +77,13 @@ domain_suffix_set:
 - msads.net
 - nelreports.net
 - bingads.com
-- samsungads.com
-- snapads.com
+- collector.github.com
+- copilot-telemetry.githubusercontent.com
 - ads.yahoo.com
 - gemini.yahoo.com
 - ysm.yahoo.com
-- ads-api.duolingo.com
-- metrics.duolingo.com
-- analytics.vpc.duolingo.com
-- advertising.adobe.com
-- tubemogul.com
+- ads.yahoo.com
+- gemini.yahoo.com
+- ysm.yahoo.com
 domain_regex_set:
 - ^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$

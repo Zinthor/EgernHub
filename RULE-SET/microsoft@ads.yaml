@@ -1,7 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- collector.github.com
-- copilot-telemetry.githubusercontent.com
 - browser.events.data.msn.cn
 - browser.events.data.msn.com
 - clarity.ms
@@ -9,3 +7,5 @@ domain_suffix_set:
 - msads.net
 - nelreports.net
 - bingads.com
+- collector.github.com
+- copilot-telemetry.githubusercontent.com

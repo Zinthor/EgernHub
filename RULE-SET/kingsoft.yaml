@@ -11,12 +11,6 @@ domain_suffix_set:
 - ksyun.com
 - ksyuncdn.com
 - ksyungslb.com
-- cmcm.com
-- cmcmcdn.com
-- liebao.cn
-- duba.com
-- duba.net
-- ijinshan.com
 - seasungames.com
 - xishanju.com
 - xoyo.com
@@ -36,3 +30,9 @@ domain_suffix_set:
 - wpsmail.net
 - papocket.com
 - wpspdf.cn
+- cmcm.com
+- cmcmcdn.com
+- liebao.cn
+- duba.com
+- duba.net
+- ijinshan.com
