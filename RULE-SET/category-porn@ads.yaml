@@ -1,3 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
 - collector.xhamster.com
+- ad-channel.diwodiwo.xyz
+- ad-display.diwodiwo.xyz

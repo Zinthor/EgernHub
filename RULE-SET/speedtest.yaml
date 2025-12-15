@@ -13,5 +13,6 @@ domain_suffix_set:
 - speedtest.net
 - speedtestcustom.com
 - webtest.net
+- ookla-speedtest-central.hgconair.hgc.com.hk
 domain_regex_set:
 - ^speed\.(coe|open)\.ad\.[a-z]{2
