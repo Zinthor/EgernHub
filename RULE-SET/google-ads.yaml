@@ -1,7 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
 - analytics.google.com
-- fundingchoicesmessages.google.com
 domain_suffix_set:
 - 2mdn-cn.net
 - 2mdn.net

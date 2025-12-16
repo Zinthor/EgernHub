@@ -1,4 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- ad-channel.diwodiwo.xyz
+- ad-display.diwodiwo.xyz
 domain_suffix_set:
 - bikaa.xyz
 - bikac.xyz
@@ -10,7 +13,4 @@ domain_suffix_set:
 - picacomic.com
 - picacomic.xyz
 - wikawika.xyz
-- ad-channel.diwodiwo.xyz
-- ad-display.diwodiwo.xyz
-domain_regex_set:
-- ^([a-z0-9-]+\.)*(?!ad-display\.|ad-channel\.)[a-z0-9-]+\.diwodiwo\.xyz$
+- diwodiwo.xyz
