@@ -1,5 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
+- kc.kexinshe.com
 - ntp.aliyun.com
 - ntp1.aliyun.com
 - ntp2.aliyun.com
@@ -17,34 +18,9 @@ domain_set:
 - ntp3.tencent.com
 - ntp4.tencent.com
 - ntp5.tencent.com
-- kc.kexinshe.com
 domain_suffix_set:
-- weui.io
-- a2z.org.cn
-- amazonaws.cn
-- amazonaws.com.cn
-- amazonwebservices.com.cn
-- amazonworkdocs.cn
-- amazonworkdocs.com.cn
-- asfiovnxocqpcry.com.cn
-- aws-border.cn
-- aws-icp-domain-manager.cn
-- awsapps.cn
-- awsapps.com.cn
-- awsstatic.cn
-- cloudfront-cn.net
-- cloudfront-test.cn
-- cloudfront.cn
-- nwcdcloud.cn
-- nwcdcloud.com.cn
-- nwcddns.cn
-- nwcdinfosec.cn
-- route53.cn
-- sagemaker.com.cn
-- amzndns-cn.biz
-- amzndns-cn.cn
-- amzndns-cn.com
-- amzndns-cn.net
+- kurogames.com
+- aki-game.com
 - bisheng.cn
 - bishengcompiler.cn
 - devui.design
@@ -72,6 +48,7 @@ domain_suffix_set:
 - ntp.neu.edu.cn
 - ntp.ntsc.ac.cn
 - ntp.org.cn
+- weui.io
 - weui.io
 - bisheng.cn
 - bishengcompiler.cn
@@ -115,9 +92,32 @@ domain_suffix_set:
 - cloudflareprod.com
 - cloudflarestaging.com
 - cloudflarestoragegw.com
-- kurogames.com
-- aki-game.com
+- a2z.org.cn
+- amazonaws.cn
+- amazonaws.com.cn
+- amazonwebservices.com.cn
+- amazonworkdocs.cn
+- amazonworkdocs.com.cn
+- asfiovnxocqpcry.com.cn
+- aws-border.cn
+- aws-icp-domain-manager.cn
+- awsapps.cn
+- awsapps.com.cn
+- awsstatic.cn
+- cloudfront-cn.net
+- cloudfront-test.cn
+- cloudfront.cn
+- nwcdcloud.cn
+- nwcdcloud.com.cn
+- nwcddns.cn
+- nwcdinfosec.cn
+- route53.cn
+- sagemaker.com.cn
+- amzndns-cn.biz
+- amzndns-cn.cn
+- amzndns-cn.com
+- amzndns-cn.net
 domain_regex_set:
+- ^.+-mihayo\.akamaized\.net$
 - .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 - .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
-- ^.+-mihayo\.akamaized\.net$
