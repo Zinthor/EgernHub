@@ -1,10 +1,10 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
 - aws
-- awsautoscaling.com
+- awsautopilot.com
 - amzndns.net
 - aesworkshops.com
-- awsbraket.com
+- amazonaws-china.com
 - amazonaws.biz
 - amzndns.org
 - amazonaws.com
@@ -17,15 +17,16 @@ domain_suffix_set:
 - amazonworkdocs.com
 - amplifyapp.com
 - amplifyframework.com
-- aws-iot-hackathon.com
-- awsedstart.com
+- awsautoscaling.com
+- aws.com
+- aws.dev
 - awsapprunner.com
 - awsapps.com
-- awsautopilot.com
 - acmvalidations.com
-- amazonaws-china.com
+- awscommandlineinterface.com
 - acmvalidationsaws.com
-- aws.com
+- aws-iot-hackathon.com
+- awsedstart.com
 - awseducate.com
 - awseducate.net
 - awseducate.org
@@ -42,7 +43,7 @@ domain_suffix_set:
 - containersonaws.com
 - elasticbeanstalk.com
 - thinkboxsoftware.com
-- awscommandlineinterface.com
+- awsbraket.com
 - amzndns.com
 - amzndns.co.uk
 - amazonaws.co.uk
