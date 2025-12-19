@@ -1,6 +1,12 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
+- ntdfreemobile-tgc.cdn.hinet.net
+- ntdfreepc-tgc.cdn.hinet.net
+- ntdfreetv-tgc.cdn.hinet.net
+- ntdfreevcpc-tgc.cdn.hinet.net
+- ntdofifreemobile-tgc.cdn.hinet.net
 - ntdofifreepc-tgc.cdn.hinet.net
+- ntdofifreetv-tgc.cdn.hinet.net
 - ntdofifreevcpc-tgc.cdn.hinet.net
 domain_suffix_set:
 - litv.tv
