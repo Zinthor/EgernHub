@@ -8,8 +8,12 @@ domain_suffix_set:
 - admob.xiaomi.com
 - adv.sec.intl.miui.com
 - adv.sec.miui.com
+- data.mistat.india.xiaomi.com
+- data.mistat.intl.xiaomi.com
+- data.mistat.rus.xiaomi.com
+- data.mistat.xiaomi.com
+- logupdate.avlyun.sec.miui.com
 - misc.in.duokanbox.com
-- mistat.xiaomi.com
 - sentry.d.mi.com
 - sentry.d.xiaomi.net
 - tjqonline.cn

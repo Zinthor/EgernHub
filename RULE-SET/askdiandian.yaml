@@ -1,8 +1,4 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- xhscdn.com
-- xhscdn.net
-- xhslink.com
-- xiaohongshu.com
 - askdiandian.com
 - diandianlife.top

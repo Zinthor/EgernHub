@@ -1,13 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- eotarchive.org
-- ghostarchive.org
-- megalodon.jp
-- mementoweb.org
-- perma.cc
-- webcitation.org
-- 4pcdn.org
-- 4plebs.org
 - archive.today
 - archive.fo
 - archive.is
@@ -15,6 +7,3 @@ domain_suffix_set:
 - archive.md
 - archive.ph
 - archive.vn
-- archive-it.org
-- archive.org
-- openlibrary.org
