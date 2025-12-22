@@ -1,8 +1,16 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
-- sentry.hetzner.company
 - analytics.google.com
+- sentry.hetzner.company
 domain_suffix_set:
+- ads-api.duolingo.com
+- metrics.duolingo.com
+- analytics.vpc.duolingo.com
+- api-adservices.apple.com
+- iadsdk.apple.com
+- iad.apple.com
+- qwapi.com
+- samsungads.com
 - 2mdn-cn.net
 - 2mdn.net
 - admob-cn.com
@@ -52,37 +60,29 @@ domain_suffix_set:
 - pagead.l.google.com
 - partnerad.l.google.com
 - urchin.com
-- snapads.com
-- ads-api.duolingo.com
-- metrics.duolingo.com
-- analytics.vpc.duolingo.com
-- graph.instagram.com
-- graph-fallback.instagram.com
+- ads.yahoo.com
+- gemini.yahoo.com
+- ysm.yahoo.com
+- ads.yahoo.com
+- gemini.yahoo.com
+- ysm.yahoo.com
 - graph.whatsapp.com
 - graph.whatsapp.net
+- graph.instagram.com
+- graph-fallback.instagram.com
 - collector.github.com
 - copilot-telemetry.githubusercontent.com
-- bingads.com
 - browser.events.data.msn.cn
 - browser.events.data.msn.com
 - clarity.ms
 - microsoftads.com
 - msads.net
 - nelreports.net
-- api-adservices.apple.com
-- iadsdk.apple.com
-- iad.apple.com
-- qwapi.com
-- ads.yahoo.com
-- gemini.yahoo.com
-- ysm.yahoo.com
-- samsungads.com
-- ads.yahoo.com
-- gemini.yahoo.com
-- ysm.yahoo.com
-- amazon-adsystem.com
-- serving-sys.com
+- bingads.com
 - advertising.adobe.com
 - tubemogul.com
+- amazon-adsystem.com
+- serving-sys.com
+- snapads.com
 domain_regex_set:
 - ^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$

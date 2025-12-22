@@ -30,9 +30,9 @@ domain_set:
 - vz.download.prss.microsoft.com
 - wscont1.apps.microsoft.com
 - wscont2.apps.microsoft.com
-- www.microsoft.com
 - bj1.api.bing.com
 - emoi-cncdn.bing.com
+- www.microsoft.com
 domain_suffix_set:
 - dcg.microsoft.com
 - dynamics.cn
@@ -71,9 +71,8 @@ domain_suffix_set:
 - sharepoint.cn
 - dl.delivery.mp.microsoft.com
 - download.windowsupdate.com
-- microsoftreactor.cn
-- microsoftreactor.com.cn
-- reactorms.com.cn
+- microsoftnews.cn
+- msn.cn
 - 21vbc.com
 - 21vbluecloud.com
 - 21vbluecloud.net
@@ -159,6 +158,7 @@ domain_suffix_set:
 - azure-dns-8.cn
 - azure-dns-9.cn
 - azure-dns-10.cn
+- xboxlive.cn
 - bing.com.cn
 - cn.bing.com
 - cn.bing.net
@@ -166,6 +166,6 @@ domain_suffix_set:
 - ditu.live.com
 - r.bing.com
 - th.bing.com
-- microsoftnews.cn
-- msn.cn
-- xboxlive.cn
+- microsoftreactor.cn
+- microsoftreactor.com.cn
+- reactorms.com.cn
