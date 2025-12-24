@@ -1,12 +1,10 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- douban.com
+- gracg.com
 - taou.com
 - dandanvoice.com
 - maimai.cn
-- zhimg.com
-- gracg.com
-- procg.cn
+- doubanio.com
 - hupu.com
 - hupucdn.com
 - shihuo.cn
@@ -24,15 +22,16 @@ domain_suffix_set:
 - xiaohongshu.com
 - askdiandian.com
 - diandianlife.top
-- yy.com
-- yystatic.com
-- duowan.com
-- dwstatic.com
+- zhihu.com
+- zhimg.com
+- coolapk.com
+- coolapkmarket.com
 - coolapkmarket.net
+- douban.com
+- dwstatic.com
 - dandan818.com
 - tieba.com
-- douban.fm
-- doubanio.com
+- procg.cn
 - sinajs.cn
 - sina.cn
 - sinajs.com
@@ -53,9 +52,10 @@ domain_suffix_set:
 - weibo.cn
 - weibo.com
 - weibocdn.com
-- coolapk.com
-- coolapkmarket.com
-- zhihu.com
+- yy.com
+- yystatic.com
+- douban.fm
+- duowan.com
 - hoopchina.com.cn
 - tieba.baidu.com
 - weibo.com.cn
