@@ -1,7 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- kukuku.uk
-- getsocialscope.com
+- kun.im
+- getsync.com
 - 0rz.tw
 - 1000giri.net
 - 10beasts.net
@@ -1018,7 +1018,6 @@ domain_suffix_set:
 - chromecast.com
 - chromeexperiments.com
 - chromestatus.com
-- chromium.org
 - chuang-yen.org
 - chubold.com
 - chubun.com
@@ -1975,8 +1974,8 @@ domain_suffix_set:
 - getmdl.io
 - getoutline.org
 - getsession.org
-- kun.im
-- getsync.com
+- getsocialscope.com
+- kurashsultan.com
 - gettr.com
 - gettrials.com
 - getuploader.com
@@ -2982,10 +2981,10 @@ domain_suffix_set:
 - kuaichedao.co
 - kucoin.com
 - kui.name
+- kukuku.uk
 - slyip.com
 - 030buy.com
 - vica.info
-- kurtmunger.com
 - kusocity.com
 - kwcg.ca
 - vpngratis.net
@@ -3125,6 +3124,7 @@ domain_suffix_set:
 - looktoronto.com
 - lotsawahouse.org
 - voy.com
+- lovart.ai
 - lovetvshow.com
 - lpsg.com
 - lrfz.com
@@ -3541,7 +3541,7 @@ domain_suffix_set:
 - vidble.com
 - vid.me
 - victimsofcommunism.org
-- kurashsultan.com
+- kurtmunger.com
 - viber.com
 - vewas.net
 - vevo.com
