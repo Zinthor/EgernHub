@@ -1,5 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
+- ping.archlinux.org
+- redirect.archlinux.org
 - connectivitycheck.platform.hihonorcloud.com
 - connectivitycheck.platform.hicloud.com
 - connect.rom.miui.com
@@ -8,7 +10,6 @@ domain_suffix_set:
 - msftconnecttest.com
 - msftncsi.com
 - captive.apple.com
-- ping.archlinux.org
 - cp.cloudflare.com
 - network-test.debian.org
 - detectportal.firefox.com

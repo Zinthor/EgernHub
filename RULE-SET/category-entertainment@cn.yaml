@@ -15,6 +15,9 @@ domain_set:
 domain_suffix_set:
 - amazonprimevideo.cn
 - amazonprimevideo.com.cn
+- ggpht.cn
+- bluearchive-cn.com
+- xboxlive.cn
 - legendofzelda.cn
 - legendofzelda.com.cn
 - miitomo.com.cn
@@ -29,8 +32,6 @@ domain_suffix_set:
 - supermariobros.com.cn
 - leagueoflegends.cn
 - lpl.com.cn
-- xboxlive.cn
-- bluearchive-cn.com
 - steamserver.net
 - steamusercontent.com
 - csgo.wmsj.cn
@@ -45,7 +46,6 @@ domain_suffix_set:
 - steamstatic.com.8686c.com
 - steamchina.com
 - gstore.val.manlaxy.com
-- ggpht.cn
 domain_regex_set:
 - ^cdn-akamai-.+\.gog-services\.com$
 - ^gog-cdn-.+\.footprint\.net$

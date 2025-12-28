@@ -159,6 +159,9 @@ domain_suffix_set:
 - azure-dns-10.cn
 - microsoftnews.cn
 - msn.cn
+- microsoftreactor.cn
+- microsoftreactor.com.cn
+- reactorms.com.cn
 - bing.com.cn
 - cn.bing.com
 - cn.bing.net
@@ -166,6 +169,3 @@ domain_suffix_set:
 - ditu.live.com
 - r.bing.com
 - th.bing.com
-- microsoftreactor.cn
-- microsoftreactor.com.cn
-- reactorms.com.cn
