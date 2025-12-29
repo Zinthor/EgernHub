@@ -1,5 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
+- csis-prod.s3.amazonaws.com
 - a.ppy.sh
 - assets.ppy.sh
 - c.ppy.sh
@@ -9,7 +10,6 @@ domain_set:
 - notify.ppy.sh
 - sentry.ppy.sh
 - spectator.ppy.sh
-- csis-prod.s3.amazonaws.com
 domain_suffix_set:
 - aomedia.org
 - atypi.org
@@ -25,16 +25,15 @@ domain_suffix_set:
 - who.int
 - wi-fi.org
 - wto.org
-- ppy.sh
 - ccstatic.org
 - creativecommons.org
 - creativecommons.engineering
 - licensebuttons.net
 - csis.org
-- f-dro1d.org
-- f-droid.com
-- f-droid.org
-- fdroid.org
+- emojipedia.org
+- worldemojiawards.com
+- worldemojiday.com
+- xn--yt8h.la
 - acousticbrainz.org
 - bookbrainz.org
 - coverartarchive.org
@@ -46,10 +45,12 @@ domain_suffix_set:
 - nist.gov
 - time.gov
 - paskoocheh.com
-- emojipedia.org
-- worldemojiawards.com
-- worldemojiday.com
-- xn--yt8h.la
+- rolfoundation.org
+- rolsociety.org
+- f-dro1d.org
+- f-droid.com
+- f-droid.org
+- fdroid.org
 - ieee.org
 - ieee.tv
 - tryengineering.org
@@ -113,5 +114,4 @@ domain_suffix_set:
 - osmfoundation.org
 - stateofthemap.com
 - stateofthemap.org
-- rolfoundation.org
-- rolsociety.org
+- ppy.sh
