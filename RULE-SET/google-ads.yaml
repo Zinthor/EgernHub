@@ -11,11 +11,13 @@ domain_suffix_set:
 - adsensecustomsearchads.com
 - adsenseformobileapps.com
 - adservice.google.com
+- adtrafficquality.google
 - advertisercommunity.com
 - advertiserscommunity.com
 - adwords-community.com
 - adwords.com
 - adwordsexpress.com
+- analytics-alv.google.com
 - app-analytics-services.com
 - app-analytics-services-att.com
 - app-measurement-cn.com
@@ -24,6 +26,7 @@ domain_suffix_set:
 - doubleclick.cn
 - doubleclick.com
 - doubleclick.net
+- fcmatch.google.com
 - google-analytics-cn.com
 - google-analytics.com
 - googleadapis.com

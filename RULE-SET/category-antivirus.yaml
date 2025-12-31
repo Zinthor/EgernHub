@@ -108,8 +108,6 @@ domain_suffix_set:
 - mcafee.com
 - norton.com
 - pandasecurity.com
-- symantec.com
-- symantecliveupdate.com
 - comodo.com
 - comodo.net
 - drweb.by
@@ -151,6 +149,8 @@ domain_suffix_set:
 - kaspersky.de
 - kaspersky.dk
 - kaspersky.dz
+- symantec.com
+- symantecliveupdate.com
 - drweb.co.jp
 - kaspersky.co.uk
 - kaspersky.co.za
