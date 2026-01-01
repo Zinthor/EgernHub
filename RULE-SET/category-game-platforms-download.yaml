@@ -492,3 +492,4 @@ domain_set:
 - cdn-qc.content.steamchina.com
 domain_suffix_set:
 - egdownload.fastly-edge.com
+- dl.playstation.net
