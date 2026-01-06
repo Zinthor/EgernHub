@@ -105,7 +105,6 @@ domain_set:
 - cds.apple.com
 - cds.apple.com.akadns.net
 - cdsassets.apple.com
-- certs.apple.com
 - cl2-cn.apple.com
 - cl4-cn.apple.com
 - clientflow.apple.com
@@ -113,7 +112,6 @@ domain_set:
 - cn-smp-paymentservices.apple.com
 - configuration.apple.com
 - configuration.apple.com.akadns.net
-- crl.apple.com
 - cstat.apple.com
 - cstat.cdn-apple.com
 - dd-cdn.origin-apple.com.akadns.net
@@ -166,10 +164,6 @@ domain_set:
 - mesu.apple.com
 - ml.cdn-apple.com
 - music.apple.com
-- ocsp-lb.apple.com.akadns.net
-- ocsp.apple.com
-- ocsp2-lb.apple.com.akadns.net
-- ocsp2.apple.com
 - oscdn.apple.com
 - oscdn.origin-apple.com.akadns.net
 - osxapps.itunes.g.aaplimg.com
@@ -212,8 +206,6 @@ domain_set:
 - updates-http.cdn-apple.com
 - updates-http.cdn-apple.com.akadns.net
 - updates.cdn-apple.com
-- valid.apple.com
-- valid.origin-apple.com.akadns.net
 - weather-data.apple.com
 - weather-data.apple.com.akadns.net
 - weather-map.apple.com
@@ -231,6 +223,7 @@ domain_set:
 - ocsp2-lb.apple.com.akadns.net
 - ocsp2.apple.com
 - valid.apple.com
+- valid.origin-apple.com.akadns.net
 domain_suffix_set:
 - apple.cn
 - apple.com.cn
@@ -270,6 +263,10 @@ domain_suffix_set:
 - xn--czrs0t4phtr3a.cn
 - xn--fiqs8sxootzz.cn
 - xn--ohq11k7pl25iyo8a.cn
+- researchkit.cn
+- researchkit.com.cn
+- swiftui.cn
+- swiftui.com.cn
 - beats1.cn
 - beats1.com.cn
 - beats2.com.cn
@@ -277,20 +274,14 @@ domain_suffix_set:
 - beatsbydre.com
 - beatsbydre.com.cn
 - beatsep.cn
-- apple-itunes.cn
-- itunes-apple.cn
-- itunesapple.cn
-- itunesradio.cn
-- itunesradio.com.cn
-- swiftui.cn
-- swiftui.com.cn
 - apple-icloud.cn
 - appleicloud.cn
 - icloud-apple.cn
 - icloud.com.cn
 - icloud.net.cn
 - icloudapple.cn
-- researchkit.cn
-- researchkit.com.cn
-- swiftui.cn
-- swiftui.com.cn
+- apple-itunes.cn
+- itunes-apple.cn
+- itunesapple.cn
+- itunesradio.cn
+- itunesradio.com.cn

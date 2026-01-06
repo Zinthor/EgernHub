@@ -1,7 +1,4 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- ifastps.com.cn
-- futuesop.com
-- futuniuniu.com
-- futunn.com
-- futustatic.com
+- pinggy.io
+- pinggy.link

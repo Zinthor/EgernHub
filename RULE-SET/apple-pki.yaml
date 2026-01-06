@@ -9,3 +9,4 @@ domain_set:
 - ocsp2-lb.apple.com.akadns.net
 - ocsp2.apple.com
 - valid.apple.com
+- valid.origin-apple.com.akadns.net

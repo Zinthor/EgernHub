@@ -1,0 +1,11 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_suffix_set:
+- ngrok-free.app
+- ngrok-free.dev
+- ngrok-free.pizza
+- ngrok.app
+- ngrok.com
+- ngrok.dev
+- ngrok.io
+- ngrok.pizza
+- ngrok.pro
