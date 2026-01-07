@@ -1751,6 +1751,10 @@ domain_suffix_set:
 - xn--czrs0t4phtr3a.cn
 - xn--fiqs8sxootzz.cn
 - xn--ohq11k7pl25iyo8a.cn
+- api-adservices.apple.com
+- iadsdk.apple.com
+- iad.apple.com
+- qwapi.com
 - researchkit.cn
 - researchkit.com.cn
 - swiftui.cn
@@ -1773,7 +1777,3 @@ domain_suffix_set:
 - itunesapple.cn
 - itunesradio.cn
 - itunesradio.com.cn
-- api-adservices.apple.com
-- iadsdk.apple.com
-- iad.apple.com
-- qwapi.com
