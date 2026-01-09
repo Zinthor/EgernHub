@@ -15,14 +15,15 @@ domain_suffix_set:
 - notebooklm.google
 - ai.studio
 - robinfrontend-pa.googleapis.com
-- bard.google.com
+- jules.google.com
 - aistudio.google.com
 - gemini.google.com
 - makersuite.google.com
 - notebooklm.google.com
 - proactivebackend-pa.googleapis.com
-- jules.google.com
+- bard.google.com
 - generativelanguage.googleapis.com
+- labs.google.com
 - aisandbox-pa.googleapis.com
 - aida.googleapis.com
 - geller-pa.googleapis.com

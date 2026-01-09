@@ -66,11 +66,6 @@ domain_suffix_set:
 - v6-adashx.ut.cainiao.com
 - v6-adashx.ut.ele.me
 - v6-adashx.ut.taobao.com
-- adashx.ut.amap.com
-- dualstack-logs.amap.com
-- logs.amap.com
-- optimus-ads.amap.com
-- v6-adashx.ut.amap.com
 - ad.api.3g.youku.com
 - ad.api.mobile.youku.com
 - ad.mobile.youku.com
@@ -92,3 +87,8 @@ domain_suffix_set:
 - v6-adashx.ut.youku.com
 - yk-ssp.ad.youku.com
 - ykad-data.youku.com
+- adashx.ut.amap.com
+- dualstack-logs.amap.com
+- logs.amap.com
+- optimus-ads.amap.com
+- v6-adashx.ut.amap.com
