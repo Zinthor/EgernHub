@@ -2,7 +2,7 @@
 domain_suffix_set:
 - chrome
 - librewolf.net
-- firefoxusercontent.com
+- torproject.org
 - basilisk-browser.org
 - brave.com
 - bromite.org
@@ -13,7 +13,7 @@ domain_suffix_set:
 - floorp.app
 - iridiumbrowser.de
 - kiwibrowser.com
-- censorship.no
+- epicbrowser.com
 - chromium.org
 - pulsebrowser.app
 - netsurf-browser.org
@@ -24,8 +24,8 @@ domain_suffix_set:
 - vivaldi.com
 - waterfox.net
 - zen-browser.app
-- epicbrowser.com
 - firefox.com
+- firefoxusercontent.com
 - chrome.com
-- torproject.org
+- censorship.no
 - browser.kagi.com

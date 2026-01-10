@@ -35,12 +35,15 @@ domain_suffix_set:
 - log.tbs.qq.com
 - mdt.qq.com
 - monitor.music.qq.com
+- monitor.uu.qq.com
 - mpush.qq.com
 - mtrace.qq.com
 - pgdt.gtimg.cn
 - pingjs.qq.com
+- pmir.3g.qq.com
 - push.qq.com
 - report.qqweb.qq.com
+- rmonitor.qq.com
 - sngmta.qq.com
 - stat.y.qq.com
 - tajs.qq.com
