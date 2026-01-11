@@ -1,5 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
+- advertising.apple.com
 - api-adservices.apple.com
 - iadsdk.apple.com
 - iad.apple.com

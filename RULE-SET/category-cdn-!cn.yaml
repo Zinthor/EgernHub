@@ -3,8 +3,6 @@ domain_suffix_set:
 - b-cdn.net
 - bunny.net
 - bunnycdn.com
-- stackpath.com
-- stackpath.dev
 - cdn77.com
 - cdn77.org
 - cloudflareregistrar.com
@@ -63,8 +61,6 @@ domain_suffix_set:
 - llnw.net
 - llnwd.net
 - llnwi.net
-- pagecdn.com
-- pagecdn.io
 - ak1.net
 - aka-ai.com
 - aka-ai.net
@@ -136,7 +132,11 @@ domain_suffix_set:
 - srtcdn.net
 - imgix.com
 - imgix.net
+- pagecdn.com
+- pagecdn.io
 - quantil.com
+- stackpath.com
+- stackpath.dev
 - vrcdn.cloud
 - vrcdn.live
 - vrcdn.video

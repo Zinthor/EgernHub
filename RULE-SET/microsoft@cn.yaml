@@ -30,9 +30,9 @@ domain_set:
 - vz.download.prss.microsoft.com
 - wscont1.apps.microsoft.com
 - wscont2.apps.microsoft.com
-- www.microsoft.com
 - bj1.api.bing.com
 - emoi-cncdn.bing.com
+- www.microsoft.com
 domain_suffix_set:
 - dcg.microsoft.com
 - dynamics.cn

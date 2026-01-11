@@ -42,6 +42,7 @@ domain_suffix_set:
 - pingjs.qq.com
 - pmir.3g.qq.com
 - push.qq.com
+- qqdata.ab.qq.com
 - report.qqweb.qq.com
 - rmonitor.qq.com
 - sngmta.qq.com
@@ -50,6 +51,7 @@ domain_suffix_set:
 - tcss.qq.com
 - tmead.y.qq.com
 - tmeadcomm.y.qq.com
+- tpstelemetry.tencent.com
 - trace.qq.com
 - ugdtimg.com
 - wit.qq.com
