@@ -1,5 +1,7 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
+- crash2.zhihu.com
+- zhihu-web-analytics.zhihu.com
 - ad.sina.com.cn
 - ad.us.sinaimg.cn
 - adbox.sina.com.cn
@@ -24,5 +26,3 @@ domain_suffix_set:
 - slog.sina.com.cn
 - wapwbclick.mobile.sina.cn
 - wbclick.mobile.sina.cn
-- crash2.zhihu.com
-- zhihu-web-analytics.zhihu.com
