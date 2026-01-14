@@ -1,5 +1,8 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
+- tailscale.com
+- tailscale.io
+- ts.net
 - ngrok-free.app
 - ngrok-free.dev
 - ngrok-free.pizza
@@ -11,6 +14,3 @@ domain_suffix_set:
 - ngrok.pro
 - pinggy.io
 - pinggy.link
-- tailscale.com
-- tailscale.io
-- ts.net
