@@ -2,10 +2,10 @@
 domain_set:
 - mdn.mozillademos.org
 domain_suffix_set:
-- mdn.dev
+- rust-lang.org
 - mozilla.community
-- mdnplay.dev
-- mdnyalp.dev
+- rustup.rs
+- crates.io
 - mozilla.org
 - extensionworkshop.com
 - bugzilla.org
@@ -13,14 +13,14 @@ domain_suffix_set:
 - seamonkey-project.org
 - thunderbird.net
 - mozgcp.net
-- firefox.com
-- firefoxusercontent.com
+- mdnyalp.dev
+- mdnplay.dev
 - mozilla.com
 - mozilla.net
 - docs.rs
-- crates.io
-- rustup.rs
-- rust-lang.org
+- firefox.com
+- firefoxusercontent.com
+- mdn.dev
 - mdn.mozit.cloud
-- mdn.allizom.net
 - developer.allizom.org
+- mdn.allizom.net
