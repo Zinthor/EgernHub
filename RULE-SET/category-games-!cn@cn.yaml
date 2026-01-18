@@ -13,7 +13,6 @@ domain_set:
 - gog-cdn.akamaized.net
 - uplaypc-s-ubisoft.cdn.ubi.com
 domain_suffix_set:
-- bluearchive-cn.com
 - legendofzelda.cn
 - legendofzelda.com.cn
 - miitomo.com.cn
@@ -28,7 +27,6 @@ domain_suffix_set:
 - supermariobros.com.cn
 - leagueoflegends.cn
 - lpl.com.cn
-- xboxlive.cn
 - steamserver.net
 - steamusercontent.com
 - csgo.wmsj.cn
@@ -43,9 +41,11 @@ domain_suffix_set:
 - steamstatic.com.8686c.com
 - steamchina.com
 - gstore.val.manlaxy.com
+- bluearchive-cn.com
+- xboxlive.cn
 domain_regex_set:
-- ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-- ^epicgames-download\d-\d+\.file\.myqcloud\.com$
 - ^cdn-akamai-.+\.gog-services\.com$
 - ^gog-cdn-.+\.footprint\.net$
 - ^images(-\d)?\.gog-statics\.com$
+- ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+- ^epicgames-download\d-\d+\.file\.myqcloud\.com$
