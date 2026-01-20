@@ -1,6 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- ad.cctv.com
 - adnet.sohu.com
 - ads.sohu.com
 - adv-sv-show.focus.cn
@@ -25,3 +24,4 @@ domain_suffix_set:
 - track.sohu.com
 - uranus.sogou.com
 - wuliao.epro.sogou.com
+- ad.cctv.com

@@ -1,3 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- taptap.io
+- miot-spec.org
+- account.xiaomi.com
+- cn-ha.mqtt.io.mi.com
+- ha.api.io.mi.com

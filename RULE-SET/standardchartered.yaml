@@ -1,0 +1,7 @@
+# content_source: https://github.com/MetaCubeX/meta-rules-dat
+domain_set:
+- standchartbank.sc.omtrdc.net
+- standchartbank.tt.omtrdc.net
+domain_suffix_set:
+- sc.com
+- standardchartered.com
