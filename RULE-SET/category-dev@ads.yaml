@@ -1,10 +1,10 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- collector.github.com
-- copilot-telemetry.githubusercontent.com
 - ads.unitychina.cn
 - splash-ads.cdn.unity.cn
 - splash-ads.unitychina.cn
 - unityads.unity.cn
 - unityads.unity3d.com
 - unityads.unitychina.cn
+- collector.github.com
+- copilot-telemetry.githubusercontent.com
