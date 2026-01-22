@@ -1,5 +1,4 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- ads-twitter.com
-- graph.instagram.com
-- graph-fallback.instagram.com
+- eneba.com
+- eneba.games
