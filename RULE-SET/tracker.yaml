@@ -1,6 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_set:
-- 0d.kebhana.mx
 - 1337.abcvg.info
 - 6ahddutb1ucc3cp.ru
 - aboutbeautifulgallopinghorsesinthegreenpasture.online
@@ -9,7 +8,6 @@ domain_set:
 - bt.bontal.net
 - bt.okmp3.ru
 - bt.rer.lol
-- buny.uk
 - bvarf.tracker.sh
 - cny.fan
 - colivioo.com
@@ -25,6 +23,7 @@ domain_set:
 - lucke.fenesisu.moe
 - martin-gebhardt.eu
 - node01.trackerstatus.live
+- node02.torrentonline.cc
 - ns575949.ip-51-222-82.net
 - nyaa.tracker.wf
 - open-tracker.demonoid.ch
@@ -35,7 +34,6 @@ domain_set:
 - open.stealth.si
 - opentor.org
 - opentracker.io
-- opentracker.xyz
 - p4p.arenabg.com
 - public.demonoid.ch
 - retracker.hotplug.ru
@@ -43,22 +41,17 @@ domain_set:
 - retracker01-msk-virt.corbina.net
 - run.publictracker.xyz
 - shahidrazi.online
-- share.hkg-fansub.info
-- shubt.net
 - t.213891.xyz
 - t.overflow.biz
-- torrent.hificode.in
 - torrent.tracker.durukanbal.com
 - torrentclub.online
 - torrentsmd.com
 - tr.abiir.top
-- tr.abir.ga
 - tr.highstar.shop
 - tr.kxmp.cf
 - tr.nyacat.pw
 - tr.zukizuki.org
 - tr4ck3r.duckdns.org
-- tracker-de-2.cutie.dating
 - tracker-udp.gbitt.info
 - tracker.1h.is
 - tracker.23794.top
@@ -67,17 +60,18 @@ domain_set:
 - tracker.bluefrog.pw
 - tracker.breizh.pm
 - tracker.bt4g.com
+- tracker.cangku.moe
 - tracker.corpscorp.online
 - tracker.darkness.services
 - tracker.dhitechnical.com
 - tracker.dler.com
 - tracker.dler.org
-- tracker.dmcomic.org
 - tracker.ducks.party
 - tracker.filemail.com
 - tracker.flatuslifir.is
 - tracker.fnix.net
 - tracker.foreverpirates.co
+- tracker.gcrenwp.top
 - tracker.ghostchu-services.top
 - tracker.gmi.gd
 - tracker.iochimari.moe
@@ -85,10 +79,8 @@ domain_set:
 - tracker.ipv6tracker.ru
 - tracker.ixuexi.click
 - tracker.kuroy.me
-- tracker.leechshield.link
 - tracker.moeblog.cn
 - tracker.moeking.me
-- tracker.moxing.party
 - tracker.mywaifu.best
 - tracker.opentorrent.top
 - tracker.opentrackr.org
@@ -101,13 +93,14 @@ domain_set:
 - tracker.skyts.net
 - tracker.srv00.com
 - tracker.t-1.org
+- tracker.theoks.net
 - tracker.therarbg.to
 - tracker.torrent.eu.org
 - tracker.torrust-demo.com
+- tracker.tritan.gg
 - tracker.tryhackx.org
 - tracker.tvunderground.org.ru
 - tracker.uraniumhexafluori.de
-- tracker.vanitycore.co
 - tracker.waaa.moe
 - tracker.wepzone.net
 - tracker.xn--djrq4gl4hvoi.top
@@ -120,16 +113,12 @@ domain_set:
 - tracker3.itzmx.com
 - tracker3.t-1.org
 - tracker4.itzmx.com
-- tracker810.xyz
 - trackr.appolon.dev
 - udp.tracker.projectk.org
 - utracker.ghostchu-services.top
 - wepzone.net
-- www.2600.com
 - www.all4nothin.net
-- www.genesis-sp.org
 - www.torrent.eu.org
-- www.torrentsnipe.info
 - www.wareztorrent.com
 domain_suffix_set:
 - hdsky.me

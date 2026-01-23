@@ -263,12 +263,6 @@ domain_suffix_set:
 - xn--czrs0t4phtr3a.cn
 - xn--fiqs8sxootzz.cn
 - xn--ohq11k7pl25iyo8a.cn
-- apple-icloud.cn
-- appleicloud.cn
-- icloud-apple.cn
-- icloud.com.cn
-- icloud.net.cn
-- icloudapple.cn
 - apple-itunes.cn
 - itunes-apple.cn
 - itunesapple.cn
@@ -285,3 +279,9 @@ domain_suffix_set:
 - beatsbydre.com
 - beatsbydre.com.cn
 - beatsep.cn
+- apple-icloud.cn
+- appleicloud.cn
+- icloud-apple.cn
+- icloud.com.cn
+- icloud.net.cn
+- icloudapple.cn
