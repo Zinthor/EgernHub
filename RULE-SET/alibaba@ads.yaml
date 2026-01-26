@@ -1,10 +1,5 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- adashx.ut.amap.com
-- dualstack-logs.amap.com
-- logs.amap.com
-- optimus-ads.amap.com
-- v6-adashx.ut.amap.com
 - a.alimama.cn
 - acjs.aliyun.com
 - adash-c.m.taobao.com
@@ -71,6 +66,11 @@ domain_suffix_set:
 - v6-adashx.ut.youku.com
 - yk-ssp.ad.youku.com
 - ykad-data.youku.com
+- adashx.ut.amap.com
+- dualstack-logs.amap.com
+- logs.amap.com
+- optimus-ads.amap.com
+- v6-adashx.ut.amap.com
 - aaid.umeng.com
 - alog.umeng.com
 - alog.umengcloud.com
