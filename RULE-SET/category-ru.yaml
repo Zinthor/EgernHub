@@ -1,6 +1,6 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- psk
+- moscow
 - tatar
 - ru
 - su
@@ -12,8 +12,8 @@ domain_suffix_set:
 - xn--p1acf
 - xn--p1ai
 - yandex
-- moscow
-- dodopizza.com
+- psk
+- dodostatic.net
 - dodois.com
 - dodois.io
 - uni.rest
@@ -21,11 +21,7 @@ domain_suffix_set:
 - trbcdn.net
 - tbank-online.com
 - taxsee.com
-- fix-price.com
-- lenta.com
-- lenta.tech
 - 5post.market
-- chizhik.club
 - okolo.app
 - perekrestok.com
 - x5.ai
@@ -76,16 +72,18 @@ domain_suffix_set:
 - yandexcloud.net
 - yandexcom.net
 - yandexmetrica.com
-- paywb.com
-- ozonusercontent.com
+- emias.info
+- ru.com
+- chizhik.club
+- ru.net
+- dodopizza.com
 - okko.sport
 - okko.tv
 - ngenix.net
 - restream-media.net
-- ru.net
-- emias.info
-- ru.com
-- dodostatic.net
+- fix-price.com
+- lenta.com
+- lenta.tech
 - mosmetro.tech
 - avito.st
 - boosty.to
@@ -118,6 +116,8 @@ domain_suffix_set:
 - vkuserlive.net
 - vkuservideo.com
 - vkuservideo.net
+- ozonusercontent.com
+- paywb.com
 - yandex.co.il
 - yandex.com.ge
 - yandex.com.am

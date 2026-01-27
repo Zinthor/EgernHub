@@ -4,6 +4,8 @@ domain_suffix_set:
 - donationalerts.com
 - memealerts.com
 - tamtam.chat
+- imgsmail.ru
+- mail.ru
 - ok.ru
 - okcdn.ru
 - mycdn.me
@@ -45,5 +47,3 @@ domain_suffix_set:
 - vkvideo.ru
 - dzen.ru
 - dzeninfra.ru
-- imgsmail.ru
-- mail.ru

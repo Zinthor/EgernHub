@@ -1,4 +1,9 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
+- 1024terabox.com
+- bestclouddrive.com
+- freeterabox.com
+- nephobox.com
 - terabox.com
+- terabox1024.com
 - teraboxcdn.com

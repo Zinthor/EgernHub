@@ -1,5 +1,8 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
+- ozon.ru
+- ozone.ru
+- ozonusercontent.com
 - geobasket.ru
 - paywb.com
 - rwb.ru
@@ -9,6 +12,3 @@ domain_suffix_set:
 - wbpay.ru
 - wibes.ru
 - wildberries.ru
-- ozon.ru
-- ozone.ru
-- ozonusercontent.com
