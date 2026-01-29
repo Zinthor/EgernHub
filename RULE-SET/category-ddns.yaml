@@ -5,8 +5,6 @@ domain_suffix_set:
 - nip.io
 - sslip.io
 - traefik.me
-- cloudns.nz
-- cloudns.ph
 - 1cooldns.com
 - 4cloud.click
 - accesscam.org
@@ -111,3 +109,5 @@ domain_suffix_set:
 - webhop.me
 - workisboring.com
 - zapto.org
+- cloudns.nz
+- cloudns.ph
