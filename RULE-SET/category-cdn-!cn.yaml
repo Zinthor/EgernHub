@@ -1,11 +1,8 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- cdn77.org
-- akamaihd-staging.net
+- b-cdn.net
+- bunny.net
 - bunnycdn.com
-- vrcdn.cloud
-- vrcdn.live
-- vrcdn.video
 - ak1.net
 - aka-ai.com
 - aka-ai.net
@@ -26,7 +23,7 @@ domain_suffix_set:
 - akamam.com
 - akamai-access.com
 - akamai-access.net
-- cdn77.com
+- akamai-cdn.com
 - akamai-platform-internal.net
 - akamai-platform-staging.com
 - akamai-platform.net
@@ -44,7 +41,7 @@ domain_suffix_set:
 - akamaietpcompromisedmalwaretest.com
 - akamaietpmalwaretest.com
 - akamaietpphishingtest.com
-- b-cdn.net
+- akamaihd-staging.net
 - akamaihd.com
 - akamaihd.net
 - akamaimagicmath.net
@@ -75,15 +72,18 @@ domain_suffix_set:
 - iamakamai.net
 - soasta-dswb.com
 - srtcdn.net
-- quantil.com
-- akamai-cdn.com
-- bunny.net
-- imgix.net
 - imgix.com
+- imgix.net
+- vrcdn.cloud
+- vrcdn.live
+- vrcdn.video
 - pagecdn.com
 - pagecdn.io
+- quantil.com
 - stackpath.com
 - stackpath.dev
+- cdn77.com
+- cdn77.org
 - argotunnel.com
 - browser.run
 - cfargotunnel.com
@@ -124,6 +124,9 @@ domain_suffix_set:
 - cloudflareworkers.com
 - encryptedsni.com
 - every1dns.net
+- foundationdns.com
+- foundationdns.net
+- foundationdns.org
 - imagedelivery.net
 - isbgpsafeyet.com
 - pacloudflare.com
@@ -135,7 +138,6 @@ domain_suffix_set:
 - workers.dev
 - cf-ipfs.com
 - cloudflare-ipfs.com
-- llnwi.net
 - fastly-edge.com
 - fastly-terrarium.com
 - fastly.com
@@ -151,8 +153,9 @@ domain_suffix_set:
 - llnw.com
 - llnw.net
 - llnwd.net
-- one.one.one
+- llnwi.net
 - akamai.co.kr
+- one.one.one
 - accdn.com.cn
 - akadns88.net
 - akadns99.net

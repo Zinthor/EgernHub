@@ -18,10 +18,6 @@ domain_set:
 - ntp4.tencent.com
 - ntp5.tencent.com
 domain_suffix_set:
-- cn.pool.ntp.org
-- ntp.neu.edu.cn
-- ntp.ntsc.ac.cn
-- ntp.org.cn
 - a2z.org.cn
 - amazonaws.cn
 - amazonaws.com.cn
@@ -47,6 +43,10 @@ domain_suffix_set:
 - amzndns-cn.cn
 - amzndns-cn.com
 - amzndns-cn.net
+- cn.pool.ntp.org
+- ntp.neu.edu.cn
+- ntp.ntsc.ac.cn
+- ntp.org.cn
 - cf-china.info
 - cf-ns.com
 - cf-ns.net
@@ -67,6 +67,6 @@ domain_suffix_set:
 - cloudflarestaging.com
 - cloudflarestoragegw.com
 domain_regex_set:
-- ^.+-mihayo\.akamaized\.net$
 - .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 - .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
+- ^.+-mihayo\.akamaized\.net$
