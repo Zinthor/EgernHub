@@ -1,12 +1,12 @@
 # content_source: https://github.com/MetaCubeX/meta-rules-dat
 domain_suffix_set:
-- coolapkmarket.net
-- askdiandian.com
+- jikecdn.com
+- dwstatic.com
 - dandan818.com
 - dandanvoice.com
 - maimai.cn
 - taou.com
-- coolapk.com
+- meipian.me
 - douban.com
 - douban.fm
 - doubanio.com
@@ -15,17 +15,12 @@ domain_suffix_set:
 - hupu.com
 - hupucdn.com
 - shihuo.cn
-- dwstatic.com
-- zhihu.com
-- duowan.com
-- zsxq.com
-- tieba.com
 - zhimg.com
 - ivwen.com
+- zhihu.com
+- zsxq.com
+- tieba.com
 - meipian.cn
-- meipian.me
-- jike.city
-- jikecdn.com
 - okjike.com
 - okjk.co
 - ruguoapp.com
@@ -34,10 +29,15 @@ domain_suffix_set:
 - xhscdn.net
 - xhslink.com
 - xiaohongshu.com
-- coolapkmarket.com
+- askdiandian.com
 - diandianlife.top
 - yy.com
 - yystatic.com
+- duowan.com
+- jike.city
+- coolapk.com
+- coolapkmarket.com
+- coolapkmarket.net
 - tieba.baidu.com
 - hoopchina.com.cn
 - crash2.zhihu.com
